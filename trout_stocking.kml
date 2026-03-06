@@ -1,0 +1,2070 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>CT Trout Stocking - 100mi from Redding</name>
+  <description>Trout stocking locations within 100 miles of Redding, CT. Report date: 2026-03-05</description>
+  <Style id="stocked">
+    <IconStyle>
+      <color>ff00ff00</color>
+      <scale>1.2</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="scheduled">
+    <IconStyle>
+      <color>ff0080ff</color>
+      <scale>1.0</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="home">
+    <IconStyle>
+      <scale>1.4</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>HOME - Redding</name>
+    <styleUrl>#home</styleUrl>
+    <Point><coordinates>-73.3832,41.3034,0</coordinates></Point>
+  </Placemark>
+  <Folder>
+    <name>Stocked (Green)</name>
+    <Placemark>
+      <name>Ball Pond</name>
+      <description>Towns: New Fairfield
+Stocked: 2026-03-05
+Distance: 12.4 mi</description>
+      <styleUrl>#stocked</styleUrl>
+      <Point><coordinates>-73.4851,41.4665,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Squantz Pond</name>
+      <description>Towns: New Fairfield, Sherman
+Stocked: 2026-03-04
+Distance: 16.1 mi [TML]</description>
+      <styleUrl>#stocked</styleUrl>
+      <Point><coordinates>-73.49135000000001,41.52205,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Quonnipaug Lake</name>
+      <description>Towns: Guilford
+Stocked: 2026-03-02
+Distance: 36.4 mi [TML]</description>
+      <styleUrl>#stocked</styleUrl>
+      <Point><coordinates>-72.6815,41.2887,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Highland Lake</name>
+      <description>Towns: Winchester
+Stocked: 2026-03-03, 2026-03-04
+Distance: 44.6 mi [TML]</description>
+      <styleUrl>#stocked</styleUrl>
+      <Point><coordinates>-73.129,41.9209,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Lake McDonough</name>
+      <description>Towns: Barkhamsted, New Hartford
+Stocked: 2026-03-05
+Distance: 46.6 mi</description>
+      <styleUrl>#stocked</styleUrl>
+      <Point><coordinates>-72.9722,41.90345,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>West Hill Pond</name>
+      <description>Towns: Barkhamsted, New Hartford
+Stocked: 2026-03-03
+Distance: 46.6 mi [TML]</description>
+      <styleUrl>#stocked</styleUrl>
+      <Point><coordinates>-72.9722,41.90345,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>East Twin Lake</name>
+      <description>Towns: Salisbury
+Stocked: 2026-03-03, 2026-03-04
+Distance: 47.1 mi [TML]</description>
+      <styleUrl>#stocked</styleUrl>
+      <Point><coordinates>-73.419,41.9843,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Rogers Lake</name>
+      <description>Towns: Lyme, Old Lyme
+Stocked: 2026-03-02
+Distance: 54.5 mi [TML]</description>
+      <styleUrl>#stocked</styleUrl>
+      <Point><coordinates>-72.334,41.3254,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Broad Brook Mill Pond</name>
+      <description>Towns: East Windsor
+Stocked: 2026-03-05
+Distance: 59.8 mi</description>
+      <styleUrl>#stocked</styleUrl>
+      <Point><coordinates>-72.5615,41.9126,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Congamond Lakes</name>
+      <description>Towns: Suffield
+Stocked: 2026-03-05
+Distance: 60.2 mi</description>
+      <styleUrl>#stocked</styleUrl>
+      <Point><coordinates>-72.6501,41.9815,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Walkers Reservoir</name>
+      <description>Towns: Vernon
+Stocked: 2026-03-05
+Distance: 60.3 mi</description>
+      <styleUrl>#stocked</styleUrl>
+      <Point><coordinates>-72.459,41.8362,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Crystal Lake</name>
+      <description>Towns: Ellington
+Stocked: 2026-03-03
+Distance: 62.8 mi</description>
+      <styleUrl>#stocked</styleUrl>
+      <Point><coordinates>-72.4701,41.9037,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Shenipset Lake</name>
+      <description>Towns: Ellington
+Stocked: 2026-03-05
+Distance: 62.8 mi</description>
+      <styleUrl>#stocked</styleUrl>
+      <Point><coordinates>-72.4701,41.9037,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Somersville Mill Pond</name>
+      <description>Towns: Somers
+Stocked: 2026-03-05
+Distance: 67.5 mi</description>
+      <styleUrl>#stocked</styleUrl>
+      <Point><coordinates>-72.4465,41.9851,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Beaver Brook Park Ponds</name>
+      <description>Towns: Windham
+Stocked: 2026-03-05
+Distance: 69.0 mi</description>
+      <styleUrl>#stocked</styleUrl>
+      <Point><coordinates>-72.159,41.6998,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Amos Lake</name>
+      <description>Towns: Preston
+Stocked: 2026-03-02
+Distance: 73.8 mi [TML]</description>
+      <styleUrl>#stocked</styleUrl>
+      <Point><coordinates>-71.989,41.524,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Long Pond</name>
+      <description>Towns: North Stonington, Ledyard
+Stocked: 2026-03-05
+Distance: 75.3 mi [TML]</description>
+      <styleUrl>#stocked</styleUrl>
+      <Point><coordinates>-71.94399999999999,41.447050000000004,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Hanover Reservoir</name>
+      <description>Towns: Canterbury
+Stocked: 2026-03-03
+Distance: 78.0 mi</description>
+      <styleUrl>#stocked</styleUrl>
+      <Point><coordinates>-71.9715,41.699,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Billings Lake</name>
+      <description>Towns: North Stonington
+Stocked: 2026-03-05
+Distance: 78.9 mi</description>
+      <styleUrl>#stocked</styleUrl>
+      <Point><coordinates>-71.874,41.454,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Wyassup Lake</name>
+      <description>Towns: North Stonington
+Stocked: 2026-03-05
+Distance: 78.9 mi</description>
+      <styleUrl>#stocked</styleUrl>
+      <Point><coordinates>-71.874,41.454,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Moosup Pond</name>
+      <description>Towns: Plainfield
+Stocked: 2026-03-03
+Distance: 80.2 mi</description>
+      <styleUrl>#stocked</styleUrl>
+      <Point><coordinates>-71.9165,41.6765,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Roseland Lake</name>
+      <description>Towns: Woodstock
+Stocked: 2026-03-03
+Distance: 85.6 mi</description>
+      <styleUrl>#stocked</styleUrl>
+      <Point><coordinates>-71.979,41.9626,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Quinebaug Lake (Wauregan Reservoir)</name>
+      <description>Towns: Killingly
+Stocked: 2026-03-03
+Distance: 86.4 mi</description>
+      <styleUrl>#stocked</styleUrl>
+      <Point><coordinates>-71.8715,41.8365,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+  <Folder>
+    <name>Scheduled (Yellow)</name>
+    <Placemark>
+      <name>Starret Pond (Huntington Pond)</name>
+      <description>Towns: Redding
+Not yet stocked
+Distance: 0.0 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.3832,41.3034,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Saugatuck River, Upper</name>
+      <description>Towns: Danbury, Redding
+Not yet stocked
+Distance: 3.7 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.4186,41.3491,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Saugatuck Reservoir</name>
+      <description>Towns: Easton, Redding, Weston
+Not yet stocked
+Distance: 3.8 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.3528,41.25286666666667,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>East Swamp Brook</name>
+      <description>Towns: Bethel, Danbury
+Not yet stocked
+Distance: 6.1 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.434,41.382999999999996,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Rogers Park Pond</name>
+      <description>Towns: Danbury
+Not yet stocked
+Distance: 7.3 mi [CFW]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.454,41.3948,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Still River</name>
+      <description>Towns: Danbury
+Not yet stocked
+Distance: 7.3 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.454,41.3948,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Norwalk River</name>
+      <description>Towns: Ridgefield, Norwalk
+Not yet stocked
+Distance: 8.0 mi [WTMA 3]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.4529,41.19955,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Aspetuck River</name>
+      <description>Towns: Easton, Fairfield, Weston
+Not yet stocked
+Distance: 8.1 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.31296666666667,41.1988,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pond Brook</name>
+      <description>Towns: Newtown
+Not yet stocked
+Distance: 8.7 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.3037,41.4137,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pootatuck River (Lower)</name>
+      <description>Towns: Newtown
+Not yet stocked
+Distance: 8.7 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.3037,41.4137,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Saugatuck River, Lower</name>
+      <description>Towns: Weston, Westport
+Not yet stocked
+Distance: 9.1 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.36760000000001,41.17205,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Great Hollow Lake at Wolfe Park</name>
+      <description>Towns: Monroe
+Not yet stocked
+Distance: 9.3 mi [TP]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.2076,41.3323,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pequonnock River, W Branch</name>
+      <description>Towns: Monroe
+Not yet stocked
+Distance: 9.3 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.2076,41.3323,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Saugatuck River, W. Branch</name>
+      <description>Towns: Wilton, Westport
+Not yet stocked
+Distance: 9.4 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.39760000000001,41.16845,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pequonnock River (Trumbull Basin)</name>
+      <description>Towns: Trumbull
+Not yet stocked
+Distance: 10.4 mi [TTA]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.2007,41.2429,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Twin Brooks Pond</name>
+      <description>Towns: Trumbull
+Not yet stocked
+Distance: 10.4 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.2007,41.2429,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Saugatuck River (Fly Area)</name>
+      <description>Towns: Westport
+Not yet stocked
+Distance: 11.3 mi [TMA]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.3576,41.1415,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pequonnock River, Open</name>
+      <description>Towns: Trumbull, Bridgeport
+Not yet stocked
+Distance: 11.4 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.19794999999999,41.2147,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bunnells Pond (Beardsley Park Pond)</name>
+      <description>Towns: Bridgeport
+Not yet stocked
+Distance: 12.7 mi [CFW]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.1952,41.1865,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pequonnock River (Beardsley Park)</name>
+      <description>Towns: Bridgeport
+Not yet stocked
+Distance: 12.7 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.1952,41.1865,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mill River</name>
+      <description>Towns: Fairfield
+Not yet stocked
+Distance: 12.8 mi [TMA]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.2637,41.1412,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mill River (outside TMA)</name>
+      <description>Towns: Fairfield
+Not yet stocked
+Distance: 12.8 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.2637,41.1412,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mohegan Lake</name>
+      <description>Towns: Fairfield
+Not yet stocked
+Distance: 12.8 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.2637,41.1412,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Lake Stibbs</name>
+      <description>Towns: Southbury
+Not yet stocked
+Distance: 14.7 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.229,41.4818,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Farmill River</name>
+      <description>Towns: Shelton
+Not yet stocked
+Distance: 15.1 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.0932,41.3165,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Nells Rock Reservoir</name>
+      <description>Towns: Shelton
+Not yet stocked
+Distance: 15.1 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.0932,41.3165,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Eightmile Brook</name>
+      <description>Towns: Oxford, Southbury
+Not yet stocked
+Distance: 15.3 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.17275000000001,41.457899999999995,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Eightmile Brook (Southford Falls State Park)</name>
+      <description>Towns: Oxford, Southbury
+Not yet stocked
+Distance: 15.3 mi [TP]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.17275000000001,41.457899999999995,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pickett&apos;s Pond</name>
+      <description>Towns: Derby
+Not yet stocked
+Distance: 15.3 mi [CFW]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.089,41.3207,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Southford Falls Pond</name>
+      <description>Towns: Oxford, Southbury
+Not yet stocked
+Distance: 15.3 mi [TP]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.17275000000001,41.457899999999995,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Candlewood Lake</name>
+      <description>Towns: New Fairfield, Sherman
+Not yet stocked
+Distance: 16.1 mi [TML]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.49135000000001,41.52205,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Colony Park Pond</name>
+      <description>Towns: Ansonia
+Not yet stocked
+Distance: 16.1 mi [CFW]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.0785,41.3462,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Fountain Lake</name>
+      <description>Towns: Ansonia
+Not yet stocked
+Distance: 16.1 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.0785,41.3462,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Little River</name>
+      <description>Towns: Oxford, Seymour
+Not yet stocked
+Distance: 16.7 mi [WTMA Class 3]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.0975,41.4154,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pomperaug River</name>
+      <description>Towns: Woodbury, Southbury
+Not yet stocked
+Distance: 16.8 mi [TTA]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.2183,41.51305,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Shepaug River</name>
+      <description>Towns: Roxbury
+Not yet stocked
+Distance: 17.6 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.309,41.5526,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Wepawaug River</name>
+      <description>Towns: Milford, Orange
+Not yet stocked
+Distance: 18.1 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.04124999999999,41.2505,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Weekeepeemee River</name>
+      <description>Towns: Woodbury
+Not yet stocked
+Distance: 19.0 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.2076,41.5443,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Rippowam River</name>
+      <description>Towns: Stamford
+Not yet stocked
+Distance: 19.1 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.5387,41.0534,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Morrissey Brook</name>
+      <description>Towns: New Milford, Sherman
+Not yet stocked
+Distance: 19.3 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.45305,41.5776,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Sawmill Brook</name>
+      <description>Towns: Sherman
+Not yet stocked
+Distance: 19.9 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.4976,41.5776,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Hop Brook</name>
+      <description>Towns: Middlebury
+Not yet stocked
+Distance: 20.4 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.1276,41.5279,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mianus River (outside TMA)</name>
+      <description>Towns: Greenwich, Stamford
+Not yet stocked
+Distance: 21.0 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.5836,41.0398,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mianus River</name>
+      <description>Towns: Greenwich, Stamford
+Not yet stocked
+Distance: 21.0 mi [TMA]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.5836,41.0398,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Baummer Pond</name>
+      <description>Towns: Naugatuck
+Not yet stocked
+Distance: 21.4 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.0507,41.4859,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Beacon Hill Brook</name>
+      <description>Towns: Naugatuck
+Not yet stocked
+Distance: 21.4 mi [WTMA class 3]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.0507,41.4859,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Naugatuck River (Lower)</name>
+      <description>Towns: Waterbury, Beacon Falls
+Not yet stocked
+Distance: 21.7 mi [TTA]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.0575,41.50025,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Nonewaug River</name>
+      <description>Towns: Bethlehem, Woodbury
+Not yet stocked
+Distance: 21.9 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.2076,41.592349999999996,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>East Aspetuck River</name>
+      <description>Towns: New Milford, New Preston
+Not yet stocked
+Distance: 22.4 mi [WTMA Class 3]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.37875,41.6276,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Hop Brook Impoundment</name>
+      <description>Towns: Middlebury, Waterbury
+Not yet stocked
+Distance: 22.5 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.08955,41.54305,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Housatonic River (Bull&apos;s Bridge TMA)</name>
+      <description>Towns: Kent, Sherman, New Milford
+Not yet stocked
+Distance: 22.7 mi [TMA]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.46123333333334,41.626666666666665,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Byram River</name>
+      <description>Towns: Greenwich
+Not yet stocked
+Distance: 23.0 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.6285,41.0262,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Beaver Park Pond (North Side Pond)</name>
+      <description>Towns: New Haven
+Not yet stocked
+Distance: 23.6 mi [CFW]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.9279,41.3082,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Tenmile River, Bull&apos;s Bridge</name>
+      <description>Towns: Kent, Sherman
+Not yet stocked
+Distance: 24.6 mi [TMA]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.4876,41.6512,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Upper Fulton Park Pond</name>
+      <description>Towns: Waterbury
+Not yet stocked
+Distance: 24.6 mi [CFW]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.0515,41.5582,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Black Rock Pond</name>
+      <description>Towns: Watertown
+Not yet stocked
+Distance: 25.0 mi [TP]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.1176,41.6062,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Branch Brook</name>
+      <description>Towns: Watertown
+Not yet stocked
+Distance: 25.0 mi [TP]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.1176,41.6062,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Prospect Town Park Pond</name>
+      <description>Towns: Prospect
+Not yet stocked
+Distance: 25.1 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.979,41.5023,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Lake Wintergreen</name>
+      <description>Towns: Hamden
+Not yet stocked
+Distance: 26.0 mi [CFW]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.8968,41.3959,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mill River (outside TMA)</name>
+      <description>Towns: Hamden
+Not yet stocked
+Distance: 26.0 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.8968,41.3959,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mill River (Sleeping Giant State Park)</name>
+      <description>Towns: Hamden
+Not yet stocked
+Distance: 26.0 mi [TMA]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.8968,41.3959,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Farm River (lower section)</name>
+      <description>Towns: East Haven
+Not yet stocked
+Distance: 26.8 mi [WTMA Class 3]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.8676,41.2762,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mount Tom Pond</name>
+      <description>Towns: Litchfield, Washington
+Not yet stocked
+Distance: 27.6 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.24885,41.68955,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Lake Saltonstall</name>
+      <description>Towns: Branford, East Haven
+Not yet stocked
+Distance: 28.2 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.84135,41.27785,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Scoville Reservoir</name>
+      <description>Towns: Wolcott
+Not yet stocked
+Distance: 29.1 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.9868,41.6023,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Muddy River</name>
+      <description>Towns: North Haven, Wallingford
+Not yet stocked
+Distance: 29.3 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.84125,41.42385,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Branford River</name>
+      <description>Towns: Branford
+Not yet stocked
+Distance: 29.5 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.8151,41.2795,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Branford Supply Ponds</name>
+      <description>Towns: Branford
+Not yet stocked
+Distance: 29.5 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.8151,41.2795,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Kent Falls Brook</name>
+      <description>Towns: Kent
+Not yet stocked
+Distance: 29.5 mi [TP]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.4776,41.7248,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Macedonia Brook (State Park)</name>
+      <description>Towns: Kent
+Not yet stocked
+Distance: 29.5 mi [TP]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.4776,41.7248,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Quinnipiac River</name>
+      <description>Towns: Cheshire, Meriden, Wallingford, North Haven
+Not yet stocked
+Distance: 30.1 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.8475,41.471225000000004,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Black Rock Lake</name>
+      <description>Towns: Thomaston
+Not yet stocked
+Distance: 30.2 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.0732,41.6743,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Northfield Impoundment</name>
+      <description>Towns: Thomaston
+Not yet stocked
+Distance: 30.2 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.0732,41.6743,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Hancock Brook Impoundment</name>
+      <description>Towns: Plymouth
+Not yet stocked
+Distance: 30.7 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.0507,41.6718,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Wharton Brook Pond</name>
+      <description>Towns: Wallingford
+Not yet stocked
+Distance: 30.9 mi [TP]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.8232,41.457,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Northfield Brook</name>
+      <description>Towns: Litchfield, Thomaston
+Not yet stocked
+Distance: 31.0 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.13095,41.710800000000006,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Farm River (upper section)</name>
+      <description>Towns: North Branford
+Not yet stocked
+Distance: 32.0 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.7676,41.3262,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bantam River (inlet to Bantam Lake)</name>
+      <description>Towns: Litchfield
+Not yet stocked
+Distance: 32.3 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.1887,41.7473,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bantam River (outlet from Bantam Lake)</name>
+      <description>Towns: Litchfield
+Not yet stocked
+Distance: 32.3 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.1887,41.7473,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Butternut Brook</name>
+      <description>Towns: Litchfield
+Not yet stocked
+Distance: 32.3 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.1887,41.7473,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Leadmine Brook</name>
+      <description>Towns: Harwinton, Thomaston
+Not yet stocked
+Distance: 32.8 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.0661,41.7143,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Naugatuck River</name>
+      <description>Towns: Harwinton, Litchfield
+Not yet stocked
+Distance: 33.7 mi [TMA]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.12385,41.7508,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Birge Pond</name>
+      <description>Towns: Bristol
+Not yet stocked
+Distance: 33.9 mi [CFW]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.9493,41.6718,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pequabuck River (Rockwell Park - Blvd.)</name>
+      <description>Towns: Bristol
+Not yet stocked
+Distance: 33.9 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.9493,41.6718,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pequabuck River (RTS 229-177)</name>
+      <description>Towns: Bristol
+Not yet stocked
+Distance: 33.9 mi [TMA]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.9493,41.6718,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pine Lake/Malones Pond</name>
+      <description>Towns: Bristol
+Not yet stocked
+Distance: 33.9 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.9493,41.6718,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Baldwin Pond</name>
+      <description>Towns: Meriden
+Not yet stocked
+Distance: 34.0 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.8068,41.5382,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mirror Lake (Hubbard Park Pond)</name>
+      <description>Towns: Meriden
+Not yet stocked
+Distance: 34.0 mi [CFW]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.8068,41.5382,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Naugatuck River (Upper)</name>
+      <description>Towns: Harwinton, Litchfield, Torrington
+Not yet stocked
+Distance: 34.8 mi [TTA]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.12296666666667,41.767500000000005,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bantam River, West Branch</name>
+      <description>Towns: Goshen, Litchfield
+Not yet stocked
+Distance: 35.5 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.20885,41.79995,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Black Pond</name>
+      <description>Towns: Middlefield, Meriden
+Not yet stocked
+Distance: 35.8 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.75915,41.525400000000005,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>West River</name>
+      <description>Towns: Guilford
+Not yet stocked
+Distance: 36.4 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.6815,41.2887,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Hall Meadow Brook</name>
+      <description>Towns: Torrington
+Not yet stocked
+Distance: 36.9 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.1212,41.8009,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Naugatuck River, W. Branch</name>
+      <description>Towns: Torrington
+Not yet stocked
+Distance: 36.9 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.1212,41.8009,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Stillwater Pond</name>
+      <description>Towns: Torrington
+Not yet stocked
+Distance: 36.9 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.1212,41.8009,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Coginchaug River</name>
+      <description>Towns: Durham, Middlefield
+Not yet stocked
+Distance: 38.0 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.6965,41.4972,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mohawk Pond</name>
+      <description>Towns: Cornwall, Goshen
+Not yet stocked
+Distance: 38.0 mi [TML]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.279,41.84845,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Millers Pond</name>
+      <description>Towns: Durham
+Not yet stocked
+Distance: 38.4 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.6815,41.4818,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Housatonic River (Upper TMA)</name>
+      <description>Towns: Cornwall, Sharon
+Not yet stocked
+Distance: 38.5 mi [TMA]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.4033,41.86095,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Tyler Pond</name>
+      <description>Towns: Goshen
+Not yet stocked
+Distance: 38.8 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.229,41.8526,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>West Side Pond</name>
+      <description>Towns: Goshen
+Not yet stocked
+Distance: 38.8 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.229,41.8526,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Stanley Quarter Park Pond</name>
+      <description>Towns: New Britain
+Not yet stocked
+Distance: 39.8 mi [CFW]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.7795,41.6612,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Naugatuck River, E. Branch</name>
+      <description>Towns: Torrington, Winchester
+Not yet stocked
+Distance: 40.8 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.1251,41.8609,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Hammonasset River</name>
+      <description>Towns: Madison, Killingworth
+Not yet stocked
+Distance: 41.6 mi [TMA]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.58205000000001,41.322599999999994,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Rowan&apos;s Pond (Butternut Park Pond)</name>
+      <description>Towns: Middletown
+Not yet stocked
+Distance: 42.0 mi [CFW]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.6507,41.5623,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Hammonasset River</name>
+      <description>Towns: Clinton, Madison, Killingworth
+Not yet stocked
+Distance: 42.5 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.5639,41.307966666666665,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Chatfield Hollow Pond (Schreeder Pond)</name>
+      <description>Towns: Killingworth
+Not yet stocked
+Distance: 42.6 mi [TP]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.5665,41.3657,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Chatfield Hollow Brook</name>
+      <description>Towns: Killingworth
+Not yet stocked
+Distance: 42.6 mi [TP]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.5665,41.3657,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Farmington River (RT 177 to RT 4)</name>
+      <description>Towns: Avon, Farmington, Unionville
+Not yet stocked
+Distance: 43.0 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.85885,41.7873,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Farmington River (Lower Collinsville to RT 177)</name>
+      <description>Towns: Avon, Canton, Unionville
+Not yet stocked
+Distance: 43.6 mi [TMA]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.87176666666666,41.80516666666667,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Reservoir Brook</name>
+      <description>Towns: Portland
+Not yet stocked
+Distance: 44.1 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.6115,41.5726,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mad River Impoundment</name>
+      <description>Towns: Winchester
+Not yet stocked
+Distance: 44.6 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.129,41.9209,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Farmington River (Route 219 to Lower Collinsville)</name>
+      <description>Towns: New Hartford, Canton
+Not yet stocked
+Distance: 44.8 mi [TMA]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.9383,41.8601,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Nepaug River</name>
+      <description>Towns: New Hartford
+Not yet stocked
+Distance: 44.9 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.979,41.8793,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>McGovern Pond</name>
+      <description>Towns: West Hartford
+Not yet stocked
+Distance: 45.9 mi [TP]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.742,41.762,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Farmington River, West Branch (W. Branch TMA)</name>
+      <description>Towns: Barkhamsted, New Hartford
+Not yet stocked
+Distance: 46.6 mi [TMA]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.9722,41.90345,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mad River</name>
+      <description>Towns: Norfolk, Winchester
+Not yet stocked
+Distance: 46.6 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.16329999999999,41.9576,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bible Rock Brook</name>
+      <description>Towns: Haddam
+Not yet stocked
+Distance: 47.1 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.5015,41.4668,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Higganum Reservoir</name>
+      <description>Towns: Haddam
+Not yet stocked
+Distance: 47.1 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.5015,41.4668,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Ponset Brook</name>
+      <description>Towns: Haddam
+Not yet stocked
+Distance: 47.1 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.5015,41.4668,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Wononskopomuc Lake</name>
+      <description>Towns: Salisbury
+Not yet stocked
+Distance: 47.1 mi [TML]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.419,41.9843,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Farmington River (Tarrifville)</name>
+      <description>Towns: Avon, Farmington, Simsbury
+Not yet stocked
+Distance: 47.3 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.82385,41.84425,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Keney Park Pond</name>
+      <description>Towns: Hartford
+Not yet stocked
+Distance: 48.1 mi [CFW]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.6851,41.7637,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Morgan Brook</name>
+      <description>Towns: Barkhamsted
+Not yet stocked
+Distance: 48.2 mi [WTMA Class 3]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.9654,41.9276,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cedar Lake</name>
+      <description>Towns: Chester
+Not yet stocked
+Distance: 48.7 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.454,41.404,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pattaconk Brook</name>
+      <description>Towns: Chester
+Not yet stocked
+Distance: 48.7 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.454,41.404,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pattaconk Lake</name>
+      <description>Towns: Chester
+Not yet stocked
+Distance: 48.7 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.454,41.404,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bashan Lake</name>
+      <description>Towns: East Haddam
+Not yet stocked
+Distance: 48.9 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.4615,41.4526,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Still River</name>
+      <description>Towns: Barkhamsted, Colebrook
+Not yet stocked
+Distance: 48.9 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.0304,41.9601,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Angus Park Pond (aka Eastbury Pond)</name>
+      <description>Towns: Glastonbury
+Not yet stocked
+Distance: 49.1 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.6082,41.7123,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Roaring Brook</name>
+      <description>Towns: Glastonbury
+Not yet stocked
+Distance: 49.1 mi [WTMA 3]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.6082,41.7123,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Salmon Brook Pond</name>
+      <description>Towns: Glastonbury
+Not yet stocked
+Distance: 49.1 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.6082,41.7123,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Blackberry River</name>
+      <description>Towns: Canaan, Norfolk
+Not yet stocked
+Distance: 49.3 mi [WTMA class 3]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.26329999999999,42.01095,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Stratton Brook Park Pond</name>
+      <description>Towns: Simsbury
+Not yet stocked
+Distance: 49.3 mi [TP]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.8176,41.8787,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Colebrook River Lake</name>
+      <description>Towns: Colebrook
+Not yet stocked
+Distance: 49.9 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.0954,41.9926,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Sandy Brook</name>
+      <description>Towns: Colebrook
+Not yet stocked
+Distance: 49.9 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.0954,41.9926,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>West Branch Reservoir</name>
+      <description>Towns: Colebrook
+Not yet stocked
+Distance: 49.9 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-73.0954,41.9926,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Farmington River, West Branch (Hogback to WBR. TMA)</name>
+      <description>Towns: Hartland, Barkhamsted
+Not yet stocked
+Distance: 50.5 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.9572,41.96095,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Falls River</name>
+      <description>Towns: Essex
+Not yet stocked
+Distance: 51.6 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.3915,41.3526,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Howells Pond</name>
+      <description>Towns: Hartland
+Not yet stocked
+Distance: 52.7 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.949,41.9943,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Blackledge River (lower section)</name>
+      <description>Towns: Marlborough
+Not yet stocked
+Distance: 53.0 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.459,41.634,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Dickenson Creek</name>
+      <description>Towns: Marlborough
+Not yet stocked
+Distance: 53.0 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.459,41.634,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Salmon River</name>
+      <description>Towns: Colchester, East Hampton
+Not yet stocked
+Distance: 53.4 mi [TTA]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.4176,41.5758,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Eightmile River</name>
+      <description>Towns: Salem, East Haddam, Lyme
+Not yet stocked
+Distance: 53.8 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.359,41.42556666666667,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Uncas Lake</name>
+      <description>Towns: Lyme
+Not yet stocked
+Distance: 54.1 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.3415,41.334,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Christensen&apos;s Pond</name>
+      <description>Towns: Granby
+Not yet stocked
+Distance: 54.4 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.7901,41.9548,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Salmon Brook, W. Branch</name>
+      <description>Towns: Granby
+Not yet stocked
+Distance: 54.4 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.7901,41.9548,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Salmon Brook, E. Branch</name>
+      <description>Towns: Granby, E Granby
+Not yet stocked
+Distance: 54.8 mi [WTMA Class 3]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.76135,41.94565,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Center Springs Park Pond</name>
+      <description>Towns: Manchester
+Not yet stocked
+Distance: 55.2 mi [CFW]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.5215,41.7759,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Hockanum River</name>
+      <description>Towns: Manchester
+Not yet stocked
+Distance: 55.2 mi [TMA]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.5215,41.7759,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Eightmile River, East Branch</name>
+      <description>Towns: Salem, Lyme
+Not yet stocked
+Distance: 56.3 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.30775,41.41205,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Day Pond</name>
+      <description>Towns: Colchester
+Not yet stocked
+Distance: 57.6 mi [TP]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.3326,41.5754,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Salmon River</name>
+      <description>Towns: Colchester
+Not yet stocked
+Distance: 57.6 mi [TMA]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.3326,41.5754,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Jeremy River</name>
+      <description>Towns: Colchester, Hebron
+Not yet stocked
+Distance: 57.8 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.34955,41.618449999999996,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Gay City Park Pond</name>
+      <description>Towns: Hebron
+Not yet stocked
+Distance: 58.2 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.3665,41.6615,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Blackledge River (upper section)</name>
+      <description>Towns: Bolton, Hebron
+Not yet stocked
+Distance: 58.3 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.39955,41.7154,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Horse Pond</name>
+      <description>Towns: Salem
+Not yet stocked
+Distance: 58.9 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.274,41.4901,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Scantic River (lower)</name>
+      <description>Towns: East Windsor
+Not yet stocked
+Distance: 59.8 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.5615,41.9126,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Latimer Brook</name>
+      <description>Towns: East Lyme
+Not yet stocked
+Distance: 60.1 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.2265,41.3615,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Stony Brook</name>
+      <description>Towns: Suffield
+Not yet stocked
+Distance: 60.2 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.6501,41.9815,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Valley Falls Park Pond</name>
+      <description>Towns: Vernon
+Not yet stocked
+Distance: 60.3 mi [TP]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.459,41.8362,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Hop River</name>
+      <description>Towns: Bolton, Coventry
+Not yet stocked
+Distance: 60.7 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.3933,41.7765,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Freshwater Pond</name>
+      <description>Towns: Enfield
+Not yet stocked
+Distance: 61.9 mi [CFW]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.5915,41.9762,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Gardner Lake</name>
+      <description>Towns: Salem, Bozrah
+Not yet stocked
+Distance: 61.9 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.22274999999999,41.51775,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint Martha&apos;s Pond</name>
+      <description>Towns: Enfield
+Not yet stocked
+Distance: 61.9 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.5915,41.9762,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Coventry Lake (Wangumbaug Lake)</name>
+      <description>Towns: Coventry
+Not yet stocked
+Distance: 62.7 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.354,41.7837,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Ten Mile River</name>
+      <description>Towns: Lebanon, Columbia
+Not yet stocked
+Distance: 63.1 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.26525000000001,41.66775,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Skungamaug River</name>
+      <description>Towns: Coventry, Tolland
+Not yet stocked
+Distance: 64.0 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.3615,41.827600000000004,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bartlett Brook</name>
+      <description>Towns: Lebanon
+Not yet stocked
+Distance: 64.1 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.2265,41.634,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Yantic River</name>
+      <description>Towns: Lebanon, Bozrah
+Not yet stocked
+Distance: 64.4 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.199,41.5897,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Scantic River (upper)</name>
+      <description>Towns: Somers, Enfield
+Not yet stocked
+Distance: 64.7 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.519,41.98065,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Yantic River</name>
+      <description>Towns: Bozrah
+Not yet stocked
+Distance: 65.0 mi [TMA]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.1715,41.5454,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Oxoboxo Brook</name>
+      <description>Towns: Montville
+Not yet stocked
+Distance: 65.4 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.144,41.479,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Willimantic River (below TMA)</name>
+      <description>Towns: Mansfield, Coventry
+Not yet stocked
+Distance: 65.6 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.29025,41.785650000000004,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Beaver Brook (including ponds)</name>
+      <description>Towns: Franklin
+Not yet stocked
+Distance: 67.0 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.154,41.604,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Susquetonscut Brook</name>
+      <description>Towns: Franklin
+Not yet stocked
+Distance: 67.0 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.154,41.604,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Willimantic River</name>
+      <description>Towns: Tolland, Willington
+Not yet stocked
+Distance: 67.8 mi [TMA]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.31524999999999,41.873999999999995,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bicentennial Pond</name>
+      <description>Towns: Mansfield
+Not yet stocked
+Distance: 68.5 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.2265,41.7876,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Lower Storrs Pumping Station Pond</name>
+      <description>Towns: Mansfield
+Not yet stocked
+Distance: 68.5 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.2265,41.7876,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mansfield Training Ponds</name>
+      <description>Towns: Mansfield
+Not yet stocked
+Distance: 68.5 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.2265,41.7876,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Fenton River</name>
+      <description>Towns: Mansfield, Willington
+Not yet stocked
+Distance: 69.3 mi [WTMA Class 3]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.244,41.832049999999995,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mohegan Park Pond</name>
+      <description>Towns: Norwich
+Not yet stocked
+Distance: 69.4 mi [TP]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.0759,41.524,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Shetucket River</name>
+      <description>Towns: Windham, Scotland, Sprague
+Not yet stocked
+Distance: 70.9 mi [TTA]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.10316666666667,41.669266666666665,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Sawmill Pond</name>
+      <description>Towns: Ledyard
+Not yet stocked
+Distance: 71.6 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.014,41.4401,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Roaring Brook</name>
+      <description>Towns: Stafford, Willington
+Not yet stocked
+Distance: 71.8 mi [WTMA 3]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.27525,41.93065,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mount Hope River</name>
+      <description>Towns: Ashford, Mansfield
+Not yet stocked
+Distance: 72.2 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.1765,41.8294,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Indiantown Brook</name>
+      <description>Towns: Preston, Ledyard
+Not yet stocked
+Distance: 72.7 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.0015,41.48205,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Furnace Brook</name>
+      <description>Towns: Stafford
+Not yet stocked
+Distance: 73.5 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.289,41.9848,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Middle River</name>
+      <description>Towns: Stafford
+Not yet stocked
+Distance: 73.5 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.289,41.9848,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Natchaug River</name>
+      <description>Towns: Eastford, Chaplin, Windham
+Not yet stocked
+Distance: 73.5 mi [TTA]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.12483333333334,41.7976,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Willimantic River (above TMA)</name>
+      <description>Towns: Stafford
+Not yet stocked
+Distance: 73.5 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.289,41.9848,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Broad Brook</name>
+      <description>Towns: Preston
+Not yet stocked
+Distance: 73.8 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-71.989,41.524,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Choate Brook</name>
+      <description>Towns: Preston
+Not yet stocked
+Distance: 73.8 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-71.989,41.524,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Whitfords Brook</name>
+      <description>Towns: Ledyard, Stonington
+Not yet stocked
+Distance: 74.0 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-71.96025,41.38705,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Little River</name>
+      <description>Towns: Canterbury, Sprague
+Not yet stocked
+Distance: 74.8 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.01775,41.656499999999994,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Quinebaug River</name>
+      <description>Towns: Griswold, Lisbon, Preston
+Not yet stocked
+Distance: 74.9 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-71.98233333333333,41.571400000000004,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Blackwells Brook</name>
+      <description>Towns: Canterbury
+Not yet stocked
+Distance: 78.0 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-71.9715,41.699,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Kitt Brook</name>
+      <description>Towns: Canterbury
+Not yet stocked
+Distance: 78.0 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-71.9715,41.699,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bungee Brook</name>
+      <description>Towns: Eastford
+Not yet stocked
+Distance: 78.4 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.089,41.8965,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Natchaug River</name>
+      <description>Towns: Eastford
+Not yet stocked
+Distance: 78.4 mi [TP]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.089,41.8965,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Still River</name>
+      <description>Towns: Eastford
+Not yet stocked
+Distance: 78.4 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.089,41.8965,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Green Falls River</name>
+      <description>Towns: North Stonington
+Not yet stocked
+Distance: 78.9 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-71.874,41.454,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Hewitt Fly Pond</name>
+      <description>Towns: North Stonington
+Not yet stocked
+Distance: 78.9 mi [Fly fishing only]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-71.874,41.454,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Shunock Brook</name>
+      <description>Towns: North Stonington
+Not yet stocked
+Distance: 78.9 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-71.874,41.454,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bigelow Brook</name>
+      <description>Towns: Union
+Not yet stocked
+Distance: 79.1 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.159,41.9926,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bigelow Pond</name>
+      <description>Towns: Union
+Not yet stocked
+Distance: 79.1 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.159,41.9926,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Hopeville Pond</name>
+      <description>Towns: Griswold, Voluntown
+Not yet stocked
+Distance: 79.1 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-71.90275,41.5826,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mashapaug Lake</name>
+      <description>Towns: Union
+Not yet stocked
+Distance: 79.1 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-72.159,41.9926,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pachaug River</name>
+      <description>Towns: Griswold, Voluntown
+Not yet stocked
+Distance: 79.1 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-71.90275,41.5826,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Quinebaug River</name>
+      <description>Towns: Plainfield, Canterbury
+Not yet stocked
+Distance: 79.1 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-71.944,41.687749999999994,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Moosup River</name>
+      <description>Towns: Plainfield
+Not yet stocked
+Distance: 80.2 mi [TMA]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-71.9165,41.6765,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pasture Pond</name>
+      <description>Towns: Plainfield
+Not yet stocked
+Distance: 80.2 mi [TP]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-71.9165,41.6765,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Beach Pond</name>
+      <description>Towns: Voluntown
+Not yet stocked
+Distance: 81.1 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-71.8615,41.579,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Driscoll Pond (Phillips Pond)</name>
+      <description>Towns: Voluntown
+Not yet stocked
+Distance: 81.1 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-71.8615,41.579,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Green Falls Reservoir</name>
+      <description>Towns: Voluntown
+Not yet stocked
+Distance: 81.1 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-71.8615,41.579,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mount Misery Brook</name>
+      <description>Towns: Voluntown
+Not yet stocked
+Distance: 81.1 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-71.8615,41.579,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Myron Kinnie Brook</name>
+      <description>Towns: Voluntown
+Not yet stocked
+Distance: 81.1 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-71.8615,41.579,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Moosup River (outside of TMA)</name>
+      <description>Towns: Sterling, Plainfield
+Not yet stocked
+Distance: 82.5 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-71.8765,41.692750000000004,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mashamoquet Brook</name>
+      <description>Towns: Pomfret
+Not yet stocked
+Distance: 84.2 mi [TP]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-71.959,41.8965,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Quanduck Brook</name>
+      <description>Towns: Sterling
+Not yet stocked
+Distance: 84.8 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-71.8365,41.709,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Black Pond</name>
+      <description>Towns: Woodstock
+Not yet stocked
+Distance: 85.6 mi [TML]</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-71.979,41.9626,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mill Brook</name>
+      <description>Towns: Woodstock
+Not yet stocked
+Distance: 85.6 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-71.979,41.9626,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Taylor Brook</name>
+      <description>Towns: Woodstock
+Not yet stocked
+Distance: 85.6 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-71.979,41.9626,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Snake Meadow Brook</name>
+      <description>Towns: Killingly
+Not yet stocked
+Distance: 86.4 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-71.8715,41.8365,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Whetstone Brook</name>
+      <description>Towns: Killingly
+Not yet stocked
+Distance: 86.4 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-71.8715,41.8365,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Quinebaug River</name>
+      <description>Towns: Killingly, Putnam
+Not yet stocked
+Distance: 86.7 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-71.89025000000001,41.8758,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Fivemile River (lower section)</name>
+      <description>Towns: Thompson, Putnam, Killingly
+Not yet stocked
+Distance: 88.0 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-71.88066666666667,41.903533333333336,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Fivemile River (upper section)</name>
+      <description>Towns: Thompson
+Not yet stocked
+Distance: 90.7 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-71.8615,41.959,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>French River</name>
+      <description>Towns: Thompson
+Not yet stocked
+Distance: 90.7 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-71.8615,41.959,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Keach/Peck Pond</name>
+      <description>Towns: Thompson
+Not yet stocked
+Distance: 90.7 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-71.8615,41.959,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Quinebaug River</name>
+      <description>Towns: Thompson
+Not yet stocked
+Distance: 90.7 mi</description>
+      <styleUrl>#scheduled</styleUrl>
+      <Point><coordinates>-71.8615,41.959,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+</Document>
+</kml>
