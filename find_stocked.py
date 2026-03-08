@@ -13,8 +13,7 @@ import math
 from datetime import datetime
 from pathlib import Path
 
-# Default home location - Redding, CT
-HOME_LOCATION = {"lat": 41.3034, "lon": -73.3832, "name": "Redding"}
+from config import HOME_LOCATION
 
 # Recency tiers (days since stocking)
 TIER_HOT = 2      # 0-2 days: Hot - just stocked

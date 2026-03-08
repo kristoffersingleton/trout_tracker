@@ -8,7 +8,7 @@ import math
 from datetime import datetime, timedelta
 from pathlib import Path
 
-HOME_LOCATION = {"lat": 41.3034, "lon": -73.3832, "name": "Redding"}
+from config import HOME_LOCATION
 MAX_DISTANCE_MILES = 100
 
 # Recency tiers (days since stocking)

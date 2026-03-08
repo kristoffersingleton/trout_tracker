@@ -29,6 +29,22 @@ CT DEEP PDF Report
                     (green/blue/orange/yellow pins)
 ```
 
+## Setup
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
+
+Then set your home location:
+
+```bash
+cp config.example.yaml config.yaml
+# edit config.yaml with your coordinates
+git update-index --skip-worktree config.yaml  # prevent personal info from being committed
+```
+
 ## Quick Start
 
 ```bash
