@@ -1,0 +1,7 @@
+# Copy this file to config.yaml and set your home location.
+# After editing, run: git update-index --skip-worktree config.yaml
+# to prevent your personal coordinates from being committed.
+home:
+  name: IKEA New Haven
+  lat: 41.2945
+  lon: -72.9202

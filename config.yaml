@@ -1,0 +1,9 @@
+# Home location for distance calculations.
+# Edit lat/lon/name to your actual location.
+# After setting your location, run:
+#   git update-index --skip-worktree config.yaml
+# This keeps the file in the repo but stops git from tracking your changes.
+home:
+  name: IKEA New Haven
+  lat: 41.2945
+  lon: -72.9202
