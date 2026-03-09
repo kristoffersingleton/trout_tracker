@@ -58,9 +58,9 @@ def google_maps_url(lat, lon, label=None):
 
 def get_recency_tier(stocked_date, report_date):
     """Determine recency tier based on stocking date."""
-    report_dt = datetime.strptime(report_date, "%Y-%m-%d")
+    today = datetime.today().replace(hour=0, minute=0, second=0, microsecond=0)
     stock_dt = datetime.strptime(stocked_date, "%Y-%m-%d")
-    days_ago = (report_dt - stock_dt).days
+    days_ago = (today - stock_dt).days
 
     if days_ago <= TIER_HOT:
         return 'hot', days_ago
