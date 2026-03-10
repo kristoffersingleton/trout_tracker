@@ -1,9 +1,135 @@
 {
-  "report_date": "2026-03-05",
+  "report_date": "2026-03-09",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-03-09",
+      "locations": [
+        {
+          "waterbody": "Bigelow Pond",
+          "towns": [
+            "Union"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Coventry Lake (Wangumbaug Lake)",
+          "towns": [
+            "Coventry"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Crystal Lake",
+          "towns": [
+            "Ellington"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Mashapaug Lake",
+          "towns": [
+            "Union"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Mill River (Sleeping Giant State Park)",
+          "towns": [
+            "Hamden"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Pequabuck River (RTS 229-177)",
+          "towns": [
+            "Bristol"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Saugatuck Reservoir",
+          "towns": [
+            "Easton",
+            "Redding",
+            "Weston"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Saugatuck River- TMA (Fly Area)",
+          "towns": [
+            "Westport"
+          ],
+          "management_type": null
+        }
+      ]
+    },
+    {
+      "date": "2026-03-06",
+      "locations": [
+        {
+          "waterbody": "Bashan Lake",
+          "towns": [
+            "East Haddam"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Beach Pond",
+          "towns": [
+            "Voluntown"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Gardner Lake",
+          "towns": [
+            "Salem",
+            "Bozrah"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Horse Pond",
+          "towns": [
+            "Salem"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Howells Pond",
+          "towns": [
+            "Hartland"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Mount Tom Pond",
+          "towns": [
+            "Litchfield \u2013 Washington"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Rogers Lake",
+          "towns": [
+            "Lyme",
+            "Old Lyme"
+          ],
+          "management_type": "TML"
+        },
+        {
+          "waterbody": "Scoville Reservoir",
+          "towns": [
+            "Wolcott"
+          ],
+          "management_type": null
+        }
+      ]
+    },
     {
       "date": "2026-03-05",
       "locations": [
@@ -291,7 +417,9 @@
         "East Haddam"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-06"
+      ]
     },
     {
       "waterbody": "Baummer Pond",
@@ -307,7 +435,9 @@
         "Voluntown"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-06"
+      ]
     },
     {
       "waterbody": "Beacon Hill Brook",
@@ -373,7 +503,9 @@
         "Union"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-09"
+      ]
     },
     {
       "waterbody": "Billings Lake",
@@ -632,7 +764,9 @@
         "Coventry"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-09"
+      ]
     },
     {
       "waterbody": "Crystal Lake",
@@ -641,7 +775,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-03"
+        "2026-03-03",
+        "2026-03-09"
       ]
     },
     {
@@ -889,7 +1024,9 @@
         "Bozrah"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-06"
+      ]
     },
     {
       "waterbody": "Gay City Park Pond",
@@ -1044,7 +1181,9 @@
         "Salem"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-06"
+      ]
     },
     {
       "waterbody": "Housatonic River (Bull\u2019s Bridge TMA)",
@@ -1071,7 +1210,9 @@
         "Hartland"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-06"
+      ]
     },
     {
       "waterbody": "Indiantown Brook",
@@ -1259,7 +1400,9 @@
         "Union"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-09"
+      ]
     },
     {
       "waterbody": "McGovern Pond",
@@ -1333,7 +1476,9 @@
         "Hamden"
       ],
       "management_type": "TMA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-09"
+      ]
     },
     {
       "waterbody": "Millers Pond",
@@ -1443,7 +1588,9 @@
         "Litchfield \u2013 Washington"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-06"
+      ]
     },
     {
       "waterbody": "Muddy River",
@@ -1629,7 +1776,9 @@
         "Bristol"
       ],
       "management_type": "TMA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-09"
+      ]
     },
     {
       "waterbody": "Pequonnock River (Beardsley Park)",
@@ -1837,7 +1986,8 @@
       ],
       "management_type": "TML",
       "stocked_dates": [
-        "2026-03-02"
+        "2026-03-02",
+        "2026-03-06"
       ]
     },
     {
@@ -1932,7 +2082,9 @@
         "Weston"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-09"
+      ]
     },
     {
       "waterbody": "Saugatuck River- TMA (Fly Area)",
@@ -1940,7 +2092,9 @@
         "Westport"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-09"
+      ]
     },
     {
       "waterbody": "Saugatuck River, Lower",
@@ -2007,7 +2161,9 @@
         "Wolcott"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-06"
+      ]
     },
     {
       "waterbody": "Shenipset Lake",
@@ -2305,15 +2461,6 @@
       "waterbody": "Whetstone Brook",
       "towns": [
         "Killingly"
-      ],
-      "management_type": null,
-      "stocked_dates": []
-    },
-    {
-      "waterbody": "Whitfords Brook",
-      "towns": [
-        "Ledyard",
-        "Stonington"
       ],
       "management_type": null,
       "stocked_dates": []
