@@ -102,6 +102,7 @@ def build_locations():
 def generate():
     locations, report_date, catch_release = build_locations()
     stocked = [l for l in locations if l["tier"] != "scheduled"]
+    generated_at = datetime.now().strftime("%Y-%m-%d %H:%M")
 
     locs_json = json.dumps(locations)
     home_json = json.dumps(HOME_LOCATION)
@@ -177,7 +178,7 @@ def generate():
 
 <header>
   <h1>CT Trout Stocking</h1>
-  <p>Report: {report_date} &nbsp;·&nbsp; C&R until {catch_release} &nbsp;·&nbsp; From {HOME_LOCATION['name']}</p>
+  <p>Report: {report_date} &nbsp;·&nbsp; C&R until {catch_release} &nbsp;·&nbsp; From {HOME_LOCATION['name']} &nbsp;·&nbsp; Updated: {generated_at}</p>
 </header>
 
 <div id="map"></div>
