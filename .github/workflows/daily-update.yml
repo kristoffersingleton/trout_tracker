@@ -1,0 +1,51 @@
+name: Daily Stocking Update
+
+on:
+  schedule:
+    - cron: '15 14 * * *'  # 10:15 AM EDT (UTC-4)
+    - cron: '0 16 * * *'   # 12:00 PM EDT (UTC-4)
+  workflow_dispatch:        # allow manual trigger from GitHub UI
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install pdfplumber pyyaml
+
+      - name: Download stocking report
+        run: |
+          DATE=$(date +%Y-%m-%d)
+          PDF="pdf/${DATE}-CurrentStockingReport.pdf"
+          curl -sf -o "$PDF" \
+            "https://portal.ct.gov/-/media/DEEP/fishing/weekly_reports/CurrentStockingReport.pdf"
+          echo "PDF_PATH=$PDF" >> $GITHUB_ENV
+          echo "DATE=$DATE" >> $GITHUB_ENV
+
+      - name: Parse PDF
+        run: python parse_pdf.py
+
+      - name: Generate HTML map
+        run: python generate_html.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add "$PDF_PATH" stocking_data.json docs/index.html
+          if git diff --cached --quiet; then
+            echo "No changes — already up to date."
+          else
+            git commit -m "Daily update $DATE"
+            git push
+          fi
