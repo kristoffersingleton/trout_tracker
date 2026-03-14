@@ -1,9 +1,213 @@
 {
-  "report_date": "2026-03-09",
+  "report_date": "2026-03-11",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-03-11",
+      "locations": [
+        {
+          "waterbody": "Aspetuck River",
+          "towns": [
+            "Easton",
+            "Fairfield",
+            "Weston"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Byram River",
+          "towns": [
+            "Greenwich"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Cedar Lake",
+          "towns": [
+            "Chester"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "East Swamp Brook",
+          "towns": [
+            "Bethel",
+            "Danbury"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Eightmile Brook",
+          "towns": [
+            "Oxford",
+            "Southbury"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Moosup River",
+          "towns": [
+            "Plainfield"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Pattaconk Brook",
+          "towns": [
+            "Chester"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Pattaconk Lake",
+          "towns": [
+            "Chester"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Pond Brook",
+          "towns": [
+            "Newtown"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Ponset Brook",
+          "towns": [
+            "Haddam"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Pootatuck River (Lower)",
+          "towns": [
+            "Newtown"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Quonnipaug Lake",
+          "towns": [
+            "Guilford"
+          ],
+          "management_type": "TML"
+        },
+        {
+          "waterbody": "Rippowam River",
+          "towns": [
+            "Stamford"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Still River",
+          "towns": [
+            "Danbury"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "West River",
+          "towns": [
+            "Guilford"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Yantic River- TMA",
+          "towns": [
+            "Bozrah"
+          ],
+          "management_type": null
+        }
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "locations": [
+        {
+          "waterbody": "Amos Lake",
+          "towns": [
+            "Preston"
+          ],
+          "management_type": "TML"
+        },
+        {
+          "waterbody": "Fountain Lake",
+          "towns": [
+            "Ansonia"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Lake Stibbs",
+          "towns": [
+            "Southbury"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Mohegan Lake",
+          "towns": [
+            "Fairfield"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Morgan Brook",
+          "towns": [
+            "Barkhamsted"
+          ],
+          "management_type": "WTMA Class 3"
+        },
+        {
+          "waterbody": "Mount Tom Pond",
+          "towns": [
+            "Litchfield \u2013 Washington"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Prospect Town Park Pond",
+          "towns": [
+            "Prospect"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Stony Brook",
+          "towns": [
+            "Suffield"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Tyler Pond",
+          "towns": [
+            "Goshen"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "West Hill Pond",
+          "towns": [
+            "Barkhamsted",
+            "New Hartford"
+          ],
+          "management_type": "TML"
+        },
+        {
+          "waterbody": "West Side Pond",
+          "towns": [
+            "Goshen"
+          ],
+          "management_type": null
+        }
+      ]
+    },
     {
       "date": "2026-03-09",
       "locations": [
@@ -339,7 +543,8 @@
       ],
       "management_type": "TML",
       "stocked_dates": [
-        "2026-03-02"
+        "2026-03-02",
+        "2026-03-10"
       ]
     },
     {
@@ -358,7 +563,9 @@
         "Weston"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-11"
+      ]
     },
     {
       "waterbody": "Baldwin Pond",
@@ -664,7 +871,9 @@
         "Greenwich"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-11"
+      ]
     },
     {
       "waterbody": "Candlewood Lake- TML",
@@ -681,7 +890,9 @@
         "Chester"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-11"
+      ]
     },
     {
       "waterbody": "Center Springs Park Pond",
@@ -819,7 +1030,9 @@
         "Danbury"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-11"
+      ]
     },
     {
       "waterbody": "East Twin Lake",
@@ -849,7 +1062,9 @@
         "Southbury"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-11"
+      ]
     },
     {
       "waterbody": "Eightmile Brook (Southford Falls State Park)- TP",
@@ -991,7 +1206,9 @@
         "Ansonia"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-10"
+      ]
     },
     {
       "waterbody": "Freshwater Pond",
@@ -1290,7 +1507,9 @@
         "Southbury"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-10"
+      ]
     },
     {
       "waterbody": "Lake Wintergreen",
@@ -1511,7 +1730,9 @@
         "Fairfield"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-10"
+      ]
     },
     {
       "waterbody": "Mohegan Park Pond",
@@ -1537,7 +1758,9 @@
         "Plainfield"
       ],
       "management_type": "TMA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-11"
+      ]
     },
     {
       "waterbody": "Moosup River (outside of TMA)",
@@ -1554,7 +1777,9 @@
         "Barkhamsted"
       ],
       "management_type": "WTMA Class 3",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-10"
+      ]
     },
     {
       "waterbody": "Morrissey Brook",
@@ -1589,7 +1814,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-06"
+        "2026-03-06",
+        "2026-03-10"
       ]
     },
     {
@@ -1752,7 +1978,9 @@
         "Chester"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-11"
+      ]
     },
     {
       "waterbody": "Pattaconk Lake",
@@ -1760,7 +1988,9 @@
         "Chester"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-11"
+      ]
     },
     {
       "waterbody": "Pequabuck River (Rockwell Park",
@@ -1844,7 +2074,9 @@
         "Newtown"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-11"
+      ]
     },
     {
       "waterbody": "Ponset Brook",
@@ -1852,7 +2084,9 @@
         "Haddam"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-11"
+      ]
     },
     {
       "waterbody": "Pootatuck River (Lower)",
@@ -1860,7 +2094,9 @@
         "Newtown"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-11"
+      ]
     },
     {
       "waterbody": "Prospect Town Park Pond",
@@ -1868,7 +2104,9 @@
         "Prospect"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-10"
+      ]
     },
     {
       "waterbody": "Quanduck Brook",
@@ -1942,7 +2180,8 @@
       ],
       "management_type": "TML",
       "stocked_dates": [
-        "2026-03-02"
+        "2026-03-02",
+        "2026-03-11"
       ]
     },
     {
@@ -1959,7 +2198,9 @@
         "Stamford"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-11"
+      ]
     },
     {
       "waterbody": "Roaring Brook",
@@ -2279,7 +2520,9 @@
         "Danbury"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-11"
+      ]
     },
     {
       "waterbody": "Still River",
@@ -2303,7 +2546,9 @@
         "Suffield"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-10"
+      ]
     },
     {
       "waterbody": "Stratton Brook Park Pond",
@@ -2361,7 +2606,9 @@
         "Goshen"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-10"
+      ]
     },
     {
       "waterbody": "Uncas Lake",
@@ -2430,7 +2677,8 @@
       ],
       "management_type": "TML",
       "stocked_dates": [
-        "2026-03-03"
+        "2026-03-03",
+        "2026-03-10"
       ]
     },
     {
@@ -2439,7 +2687,9 @@
         "Guilford"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-11"
+      ]
     },
     {
       "waterbody": "West Side Pond",
@@ -2447,7 +2697,9 @@
         "Goshen"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-10"
+      ]
     },
     {
       "waterbody": "Wharton Brook Pond",
@@ -2524,7 +2776,9 @@
         "Bozrah"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-11"
+      ]
     }
   ]
 }
