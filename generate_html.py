@@ -12,7 +12,7 @@ from pathlib import Path
 from config import HOME_LOCATION
 
 BASE = Path(__file__).parent
-OUTPUT = BASE / "html" / "index.html"
+OUTPUT = BASE / "docs" / "index.html"
 
 TIER_HOT = 2
 TIER_FRESH = 5
@@ -334,7 +334,7 @@ applyFilters();
 </body>
 </html>"""
 
-    OUTPUT.parent.mkdir(exist_ok=True)
+    OUTPUT.parent.mkdir(exist_ok=True)  # docs/
     OUTPUT.write_text(html)
     print(f"Generated: {OUTPUT}")
     print(f"  {len(stocked)} stocked locations, {len(locations)} total")
