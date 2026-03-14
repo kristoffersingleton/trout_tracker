@@ -5,11 +5,13 @@ Tools to find the closest recently stocked trout fishing locations in Connecticu
 ## Project Structure
 
 - `find_stocked.py` - Detailed query tool with distance calculations
-- `map_stocked.py` - Compact view with Google Maps links  
+- `map_stocked.py` - Compact view with Google Maps links
 - `generate_kml.py` - Generate KML for Google Maps/Earth import
+- `generate_html.py` - Generate mobile-friendly map site (`html/index.html`)
 - `stocking_data.json` - Parsed stocking data with dates and locations
 - `ct_town_coords.json` - Coordinates for 120+ CT towns
 - `pdf/` - Directory for downloaded CT DEEP stocking report PDFs
+- `html/` - Generated static site (served via GitHub Pages)
 
 ## Configuration
 
@@ -34,7 +36,14 @@ python3 generate_kml.py     # Creates trout_stocking.kml
 
 ### Update stocking data
 1. Download new PDF from CT DEEP to `pdf/` directory
-2. Parse PDF to update `stocking_data.json` (manually or with Claude)
+2. Parse PDF to update `stocking_data.json`: `python3 parse_pdf.py`
+3. Regenerate the HTML map: `python3 generate_html.py`
+
+### Generate mobile map site
+```bash
+python3 generate_html.py     # Creates html/index.html
+```
+Host on GitHub Pages for phone access: Settings → Pages → Deploy from `main` branch `/html` folder.
 
 ## Data Source
 

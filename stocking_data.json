@@ -1,9 +1,136 @@
 {
-  "report_date": "2026-03-11",
+  "report_date": "2026-03-13",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-03-13",
+      "locations": [
+        {
+          "waterbody": "Candlewood Lake- TML",
+          "towns": [
+            "New Fairfield",
+            "Sherman"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Mianus River",
+          "towns": [
+            "Greenwich",
+            "Stamford"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Mill River",
+          "towns": [
+            "Fairfield"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Nepaug River",
+          "towns": [
+            "New Hartford"
+          ],
+          "management_type": null
+        }
+      ]
+    },
+    {
+      "date": "2026-03-12",
+      "locations": [
+        {
+          "waterbody": "Bartlett Brook",
+          "towns": [
+            "Lebanon"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Beaver Brook (including ponds)",
+          "towns": [
+            "Franklin"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Bicentennial Pond",
+          "towns": [
+            "Mansfield"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Farmington River, West Branch (Hogback to WBR. TMA)",
+          "towns": [
+            "Hartland",
+            "Barkhamsted"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Hammonasset River",
+          "towns": [
+            "Madison",
+            "Killingworth"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Lower Storrs Pumping Station Pond",
+          "towns": [
+            "Mansfield"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Mansfield Training Ponds",
+          "towns": [
+            "Mansfield"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Snake Meadow Brook",
+          "towns": [
+            "Killingly"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Susquetonscut Brook",
+          "towns": [
+            "Franklin"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Ten Mile River",
+          "towns": [
+            "Lebanon",
+            "Columbia"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Uncas Lake",
+          "towns": [
+            "Lyme"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Whetstone Brook",
+          "towns": [
+            "Killingly"
+          ],
+          "management_type": null
+        }
+      ]
+    },
     {
       "date": "2026-03-11",
       "locations": [
@@ -616,7 +743,9 @@
         "Lebanon"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-12"
+      ]
     },
     {
       "waterbody": "Bashan Lake",
@@ -660,7 +789,9 @@
         "Franklin"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-12"
+      ]
     },
     {
       "waterbody": "Beaver Brook Park Ponds",
@@ -694,7 +825,9 @@
         "Mansfield"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-12"
+      ]
     },
     {
       "waterbody": "Bigelow Brook",
@@ -882,7 +1015,9 @@
         "Sherman"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-13"
+      ]
     },
     {
       "waterbody": "Cedar Lake",
@@ -1162,7 +1297,9 @@
         "Barkhamsted"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-12"
+      ]
     },
     {
       "waterbody": "Farmington River, West Branch (W. Branch TMA)",
@@ -1302,7 +1439,9 @@
         "Killingworth"
       ],
       "management_type": "TMA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-12"
+      ]
     },
     {
       "waterbody": "Hancock Brook Impoundment",
@@ -1570,7 +1709,9 @@
         "Mansfield"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-12"
+      ]
     },
     {
       "waterbody": "Macedonia Brook (State Park)",
@@ -1603,7 +1744,9 @@
         "Mansfield"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-12"
+      ]
     },
     {
       "waterbody": "Mashamoquet Brook",
@@ -1647,7 +1790,9 @@
         "Stamford"
       ],
       "management_type": "TMA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-13"
+      ]
     },
     {
       "waterbody": "Middle River",
@@ -1671,7 +1816,9 @@
         "Fairfield"
       ],
       "management_type": "TMA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-13"
+      ]
     },
     {
       "waterbody": "Mill River (outside TMA)",
@@ -1911,7 +2058,9 @@
         "New Hartford"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-13"
+      ]
     },
     {
       "waterbody": "Nonewaug River",
@@ -2457,7 +2606,9 @@
         "Killingly"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-12"
+      ]
     },
     {
       "waterbody": "Somersville Mill Pond",
@@ -2564,7 +2715,9 @@
         "Franklin"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-12"
+      ]
     },
     {
       "waterbody": "Taylor Brook",
@@ -2581,7 +2734,9 @@
         "Columbia"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-12"
+      ]
     },
     {
       "waterbody": "Tenmile River, Bull\u2019s Bridge- TMA",
@@ -2616,7 +2771,9 @@
         "Lyme"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-12"
+      ]
     },
     {
       "waterbody": "Upper Fulton Park Pond",
@@ -2715,7 +2872,9 @@
         "Killingly"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-12"
+      ]
     },
     {
       "waterbody": "Willimantic River",
