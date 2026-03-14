@@ -23,8 +23,13 @@ echo "==> Generating HTML map..."
 
 echo "==> Committing and pushing..."
 git add "$PDF_PATH" stocking_data.json docs/index.html
-git commit -m "Daily update ${DATE}"
-git push
+if git diff --cached --quiet; then
+    echo "    No changes since last update — already up to date."
+else
+    git commit -m "Daily update ${DATE}"
+    git push
+    echo "    Pushed!"
+fi
 
 echo ""
 echo "Done! Live at: https://kristoffersingleton.github.io/trout_tracker/"
