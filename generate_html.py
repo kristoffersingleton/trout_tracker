@@ -123,6 +123,9 @@ def generate():
   header {{ padding: 12px 16px; background: #1e293b; border-bottom: 1px solid #334155; }}
   header h1 {{ font-size: 1.1rem; font-weight: 700; color: #f8fafc; }}
   header p {{ font-size: 0.75rem; color: #94a3b8; margin-top: 2px; }}
+  .ig-link {{ color: #e1306c; text-decoration: none; font-weight: 600; }}
+  .ig-link:hover {{ text-decoration: underline; }}
+  footer {{ padding: 14px 16px; background: #1e293b; border-top: 1px solid #334155; text-align: center; font-size: 0.75rem; color: #64748b; }}
 
   #map {{ height: 45vh; width: 100%; }}
 
@@ -178,7 +181,7 @@ def generate():
 <body>
 
 <header>
-  <h1>CT Trout Stocking</h1>
+  <h1>CT Trout Stocking &nbsp;<a class="ig-link" href="https://www.instagram.com/uncleconntucky" target="_blank">@uncleconntucky</a></h1>
   <p>Report: {report_date} &nbsp;·&nbsp; C&R until {catch_release} &nbsp;·&nbsp; From {HOME_LOCATION['name']} &nbsp;·&nbsp; Updated: {generated_at}</p>
 </header>
 
@@ -333,6 +336,9 @@ function updateMarkers() {{
 
 applyFilters();
 </script>
+<footer>
+  Made by <a class="ig-link" href="https://www.instagram.com/uncleconntucky" target="_blank">@uncleconntucky</a> &nbsp;·&nbsp; Data: CT DEEP Fisheries Division
+</footer>
 </body>
 </html>"""
 
