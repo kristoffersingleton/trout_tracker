@@ -65,9 +65,9 @@ def get_recency_tier(stocked_dates, report_date):
     if not stocked_dates:
         return 'scheduled'
 
-    report_dt = datetime.strptime(report_date, "%Y-%m-%d")
+    today = datetime.today().replace(hour=0, minute=0, second=0, microsecond=0)
     most_recent = max(datetime.strptime(d, "%Y-%m-%d") for d in stocked_dates)
-    days_ago = (report_dt - most_recent).days
+    days_ago = (today - most_recent).days
 
     if days_ago <= TIER_HOT:
         return 'hot'
@@ -80,9 +80,9 @@ def get_days_since(stocked_dates, report_date):
     """Get days since most recent stocking."""
     if not stocked_dates:
         return None
-    report_dt = datetime.strptime(report_date, "%Y-%m-%d")
+    today = datetime.today().replace(hour=0, minute=0, second=0, microsecond=0)
     most_recent = max(datetime.strptime(d, "%Y-%m-%d") for d in stocked_dates)
-    return (report_dt - most_recent).days
+    return (today - most_recent).days
 
 def generate_kml():
     data = load_data()

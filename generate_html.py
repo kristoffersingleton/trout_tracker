@@ -7,6 +7,7 @@ Outputs html/index.html with a Leaflet map and sortable distance table.
 import json
 import math
 from datetime import datetime
+from zoneinfo import ZoneInfo
 from pathlib import Path
 
 from config import HOME_LOCATION
@@ -102,7 +103,7 @@ def build_locations():
 def generate():
     locations, report_date, catch_release = build_locations()
     stocked = [l for l in locations if l["tier"] != "scheduled"]
-    generated_at = datetime.now().strftime("%Y-%m-%d %H:%M")
+    generated_at = datetime.now(ZoneInfo("America/New_York")).strftime("%Y-%m-%d %H:%M ET")
 
     locs_json = json.dumps(locations)
     home_json = json.dumps(HOME_LOCATION)

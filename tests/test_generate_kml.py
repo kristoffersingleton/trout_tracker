@@ -1,7 +1,9 @@
 """Tests for generate_kml.py"""
 import pytest
 import sys
+from datetime import datetime
 from pathlib import Path
+from unittest.mock import patch
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
@@ -10,6 +12,8 @@ from generate_kml import (
     get_recency_tier,
     get_days_since,
 )
+
+FIXED_TODAY = datetime(2026, 3, 11)
 
 
 class TestEscapeXml:
@@ -40,42 +44,53 @@ class TestEscapeXml:
 
 
 class TestKmlRecencyTier:
+    def _tier(self, dates, report="2026-03-11"):
+        with patch("generate_kml.datetime") as mock_dt:
+            mock_dt.today.return_value = FIXED_TODAY
+            mock_dt.strptime.side_effect = datetime.strptime
+            return get_recency_tier(dates, report)
+
     def test_scheduled_no_dates(self):
-        assert get_recency_tier([], "2026-03-11") == "scheduled"
+        assert self._tier([]) == "scheduled"
 
     def test_hot_same_day(self):
-        assert get_recency_tier(["2026-03-11"], "2026-03-11") == "hot"
+        assert self._tier(["2026-03-11"]) == "hot"
 
     def test_hot_one_day(self):
-        assert get_recency_tier(["2026-03-10"], "2026-03-11") == "hot"
+        assert self._tier(["2026-03-10"]) == "hot"
 
     def test_hot_two_days(self):
-        assert get_recency_tier(["2026-03-09"], "2026-03-11") == "hot"
+        assert self._tier(["2026-03-09"]) == "hot"
 
     def test_fresh_three_days(self):
-        assert get_recency_tier(["2026-03-08"], "2026-03-11") == "fresh"
+        assert self._tier(["2026-03-08"]) == "fresh"
 
     def test_fresh_five_days(self):
-        assert get_recency_tier(["2026-03-06"], "2026-03-11") == "fresh"
+        assert self._tier(["2026-03-06"]) == "fresh"
 
     def test_aging_six_days(self):
-        assert get_recency_tier(["2026-03-05"], "2026-03-11") == "aging"
+        assert self._tier(["2026-03-05"]) == "aging"
 
     def test_uses_most_recent_date(self):
         # Multiple dates — most recent (3/10) is 1 day ago → hot
-        tier = get_recency_tier(["2026-03-01", "2026-03-10"], "2026-03-11")
-        assert tier == "hot"
+        assert self._tier(["2026-03-01", "2026-03-10"]) == "hot"
 
 
 class TestGetDaysSince:
+    def _days(self, dates, report="2026-03-11"):
+        with patch("generate_kml.datetime") as mock_dt:
+            mock_dt.today.return_value = FIXED_TODAY
+            mock_dt.strptime.side_effect = datetime.strptime
+            return get_days_since(dates, report)
+
     def test_same_day(self):
-        assert get_days_since(["2026-03-11"], "2026-03-11") == 0
+        assert self._days(["2026-03-11"]) == 0
 
     def test_one_day(self):
-        assert get_days_since(["2026-03-10"], "2026-03-11") == 1
+        assert self._days(["2026-03-10"]) == 1
 
     def test_uses_most_recent(self):
-        assert get_days_since(["2026-03-01", "2026-03-09"], "2026-03-11") == 2
+        assert self._days(["2026-03-01", "2026-03-09"]) == 2
 
     def test_empty_returns_none(self):
-        assert get_days_since([], "2026-03-11") is None
+        assert self._days([]) is None
