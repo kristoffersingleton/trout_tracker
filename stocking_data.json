@@ -1,9 +1,72 @@
 {
-  "report_date": "2026-03-16",
+  "report_date": "2026-03-17",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-03-17",
+      "locations": [
+        {
+          "waterbody": "Black Pond",
+          "towns": [
+            "Woodstock"
+          ],
+          "management_type": "TML"
+        },
+        {
+          "waterbody": "Branford Supply Ponds",
+          "towns": [
+            "Branford"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Hancock Brook Impoundment",
+          "towns": [
+            "Plymouth"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Hewitt Fly Pond",
+          "towns": [
+            "North Stonington"
+          ],
+          "management_type": "Fly fishing only"
+        },
+        {
+          "waterbody": "Keach/Peck Pond",
+          "towns": [
+            "Thompson"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Lake Saltonstall",
+          "towns": [
+            "Branford",
+            "East Haven"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Mohawk Pond",
+          "towns": [
+            "Cornwall",
+            "Goshen"
+          ],
+          "management_type": "TML"
+        },
+        {
+          "waterbody": "Northfield Impoundment",
+          "towns": [
+            "Thomaston"
+          ],
+          "management_type": null
+        }
+      ]
+    },
     {
       "date": "2026-03-16",
       "locations": [
@@ -913,7 +976,9 @@
         "Woodstock"
       ],
       "management_type": "TML",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-17"
+      ]
     },
     {
       "waterbody": "Black Rock Lake",
@@ -987,7 +1052,9 @@
         "Branford"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-17"
+      ]
     },
     {
       "waterbody": "Broad Brook",
@@ -1489,7 +1556,9 @@
         "Plymouth"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-17"
+      ]
     },
     {
       "waterbody": "Hanover Reservoir",
@@ -1507,7 +1576,9 @@
         "North Stonington"
       ],
       "management_type": "Fly fishing only",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-17"
+      ]
     },
     {
       "waterbody": "Higganum Reservoir",
@@ -1634,7 +1705,9 @@
         "Thompson"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-17"
+      ]
     },
     {
       "waterbody": "Keney Park Pond",
@@ -1678,7 +1751,9 @@
         "East Haven"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-17"
+      ]
     },
     {
       "waterbody": "Lake Stibbs",
@@ -1909,7 +1984,9 @@
         "Goshen"
       ],
       "management_type": "TML",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-17"
+      ]
     },
     {
       "waterbody": "Mohegan Lake",
@@ -2126,7 +2203,9 @@
         "Thomaston"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-17"
+      ]
     },
     {
       "waterbody": "Norwalk River",
