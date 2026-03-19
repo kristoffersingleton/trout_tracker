@@ -1,9 +1,72 @@
 {
-  "report_date": "2026-03-17",
+  "report_date": "2026-03-18",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-03-18",
+      "locations": [
+        {
+          "waterbody": "Baldwin Pond",
+          "towns": [
+            "Meriden"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Black Pond",
+          "towns": [
+            "Middlefield",
+            "Meriden"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Bunnells Pond (Beardsley Park Pond)",
+          "towns": [
+            "Bridgeport"
+          ],
+          "management_type": "CFW"
+        },
+        {
+          "waterbody": "Higganum Reservoir",
+          "towns": [
+            "Haddam"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Millers Pond",
+          "towns": [
+            "Durham"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Southford Falls Pond",
+          "towns": [
+            "Oxford",
+            "Southbury"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Starret Pond (Huntington Pond)",
+          "towns": [
+            "Redding"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Twin Brooks Pond\nPermit required for non-residents to park in Trumbull Town parks. Please\ncall 203-452-5060 to make an appt with the P&R Dept. A valid Fishing\nLicense, Vehicle Registration, and ID are required.",
+          "towns": [
+            "Trumbull"
+          ],
+          "management_type": null
+        }
+      ]
+    },
     {
       "date": "2026-03-17",
       "locations": [
@@ -378,13 +441,6 @@
             "Fairfield"
           ],
           "management_type": null
-        },
-        {
-          "waterbody": "Morgan Brook",
-          "towns": [
-            "Barkhamsted"
-          ],
-          "management_type": "WTMA Class 3"
         },
         {
           "waterbody": "Mount Tom Pond",
@@ -796,7 +852,9 @@
         "Meriden"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-18"
+      ]
     },
     {
       "waterbody": "Ball Pond",
@@ -968,7 +1026,9 @@
         "Meriden"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-18"
+      ]
     },
     {
       "waterbody": "Black Pond",
@@ -1088,7 +1148,9 @@
         "Bridgeport"
       ],
       "management_type": "CFW",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-18"
+      ]
     },
     {
       "waterbody": "Butternut Brook",
@@ -1586,7 +1648,9 @@
         "Haddam"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-18"
+      ]
     },
     {
       "waterbody": "Highland Lake",
@@ -1967,7 +2031,9 @@
         "Durham"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-18"
+      ]
     },
     {
       "waterbody": "Mirror Lake (Hubbard Park Pond)",
@@ -2034,16 +2100,6 @@
       ],
       "management_type": null,
       "stocked_dates": []
-    },
-    {
-      "waterbody": "Morgan Brook",
-      "towns": [
-        "Barkhamsted"
-      ],
-      "management_type": "WTMA Class 3",
-      "stocked_dates": [
-        "2026-03-10"
-      ]
     },
     {
       "waterbody": "Morrissey Brook",
@@ -2746,7 +2802,9 @@
         "Southbury"
       ],
       "management_type": "TP",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-18"
+      ]
     },
     {
       "waterbody": "Squantz Pond",
@@ -2773,7 +2831,9 @@
         "Redding"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-18"
+      ]
     },
     {
       "waterbody": "Still River",
@@ -2872,7 +2932,9 @@
         "Trumbull"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-18"
+      ]
     },
     {
       "waterbody": "Tyler Pond",
