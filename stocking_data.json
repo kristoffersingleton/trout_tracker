@@ -1,9 +1,152 @@
 {
-  "report_date": "2026-03-18",
+  "report_date": "2026-03-19",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-03-19",
+      "locations": [
+        {
+          "waterbody": "Beaver Park Pond (North Side Pond)",
+          "towns": [
+            "New Haven"
+          ],
+          "management_type": "CFW"
+        },
+        {
+          "waterbody": "Blackwells Brook",
+          "towns": [
+            "Canterbury"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Broad Brook",
+          "towns": [
+            "Preston"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Bungee Brook",
+          "towns": [
+            "Eastford"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Choate Brook",
+          "towns": [
+            "Preston"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Colony Park Pond",
+          "towns": [
+            "Ansonia"
+          ],
+          "management_type": "CFW"
+        },
+        {
+          "waterbody": "Indiantown Brook",
+          "towns": [
+            "Preston",
+            "Ledyard"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Kitt Brook",
+          "towns": [
+            "Canterbury"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Mill Brook",
+          "towns": [
+            "Woodstock"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Mirror Lake (Hubbard Park Pond)",
+          "towns": [
+            "Meriden"
+          ],
+          "management_type": "CFW"
+        },
+        {
+          "waterbody": "Myron Kinnie Brook",
+          "towns": [
+            "Voluntown"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Pachaug River",
+          "towns": [
+            "Griswold",
+            "Voluntown"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Quinnipiac River",
+          "towns": [
+            "Cheshire",
+            "Meriden",
+            "Wallingford",
+            "North Haven"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Rogers Park Pond",
+          "towns": [
+            "Danbury"
+          ],
+          "management_type": "CFW"
+        },
+        {
+          "waterbody": "Rowan\u2019s Pond (Butternut Park Pond)",
+          "towns": [
+            "Middletown"
+          ],
+          "management_type": "CFW"
+        },
+        {
+          "waterbody": "Still River",
+          "towns": [
+            "Eastford"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Taylor Brook",
+          "towns": [
+            "Woodstock"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Upper Fulton Park Pond",
+          "towns": [
+            "Waterbury"
+          ],
+          "management_type": "CFW"
+        },
+        {
+          "waterbody": "West Branch Reservoir",
+          "towns": [
+            "Colebrook"
+          ],
+          "management_type": null
+        }
+      ]
+    },
     {
       "date": "2026-03-18",
       "locations": [
@@ -963,7 +1106,9 @@
         "New Haven"
       ],
       "management_type": "CFW",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-19"
+      ]
     },
     {
       "waterbody": "Bible Rock Brook",
@@ -1088,7 +1233,9 @@
         "Canterbury"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-19"
+      ]
     },
     {
       "waterbody": "Branch Brook",
@@ -1122,7 +1269,9 @@
         "Preston"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-19"
+      ]
     },
     {
       "waterbody": "Broad Brook Mill Pond",
@@ -1140,7 +1289,9 @@
         "Eastford"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-19"
+      ]
     },
     {
       "waterbody": "Bunnells Pond (Beardsley Park Pond)",
@@ -1221,7 +1372,9 @@
         "Preston"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-19"
+      ]
     },
     {
       "waterbody": "Christensen\u2019s Pond",
@@ -1256,7 +1409,9 @@
         "Ansonia"
       ],
       "management_type": "CFW",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-19"
+      ]
     },
     {
       "waterbody": "Congamond Lakes",
@@ -1752,7 +1907,9 @@
         "Ledyard"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-19"
+      ]
     },
     {
       "waterbody": "Jeremy River",
@@ -1795,7 +1952,9 @@
         "Canterbury"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-19"
+      ]
     },
     {
       "waterbody": "Lake McDonough",
@@ -1987,7 +2146,9 @@
         "Woodstock"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-19"
+      ]
     },
     {
       "waterbody": "Mill River",
@@ -2041,7 +2202,9 @@
         "Meriden"
       ],
       "management_type": "CFW",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-19"
+      ]
     },
     {
       "waterbody": "Mohawk Pond",
@@ -2153,7 +2316,9 @@
         "Voluntown"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-19"
+      ]
     },
     {
       "waterbody": "Natchaug River",
@@ -2286,7 +2451,9 @@
         "Voluntown"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-19"
+      ]
     },
     {
       "waterbody": "Pasture Pond",
@@ -2495,7 +2662,9 @@
         "North Haven"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-19"
+      ]
     },
     {
       "waterbody": "Quonnipaug Lake",
@@ -2561,7 +2730,9 @@
         "Danbury"
       ],
       "management_type": "CFW",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-19"
+      ]
     },
     {
       "waterbody": "Roseland Lake",
@@ -2579,7 +2750,9 @@
         "Middletown"
       ],
       "management_type": "CFW",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-19"
+      ]
     },
     {
       "waterbody": "Saint Martha\u2019s Pond",
@@ -2860,7 +3033,9 @@
         "Eastford"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-19"
+      ]
     },
     {
       "waterbody": "Stillwater Pond",
@@ -2904,7 +3079,9 @@
         "Woodstock"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-19"
+      ]
     },
     {
       "waterbody": "Ten Mile River",
@@ -2962,7 +3139,9 @@
         "Waterbury"
       ],
       "management_type": "CFW",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-19"
+      ]
     },
     {
       "waterbody": "Valley Falls Park Pond",
@@ -3005,7 +3184,9 @@
         "Colebrook"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-19"
+      ]
     },
     {
       "waterbody": "West Hill Pond",
