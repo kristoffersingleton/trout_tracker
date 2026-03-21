@@ -1,9 +1,88 @@
 {
-  "report_date": "2026-03-19",
+  "report_date": "2026-03-20",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-03-20",
+      "locations": [
+        {
+          "waterbody": "Center Springs Park Pond",
+          "towns": [
+            "Manchester"
+          ],
+          "management_type": "CFW"
+        },
+        {
+          "waterbody": "East Aspetuck River",
+          "towns": [
+            "New Milford",
+            "New Preston"
+          ],
+          "management_type": "WTMA Class 3"
+        },
+        {
+          "waterbody": "Hockanum River",
+          "towns": [
+            "Manchester"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Jeremy River",
+          "towns": [
+            "Colchester",
+            "Hebron"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Naugatuck River, E. Branch",
+          "towns": [
+            "Torrington",
+            "Winchester"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Naugatuck River, W. Branch",
+          "towns": [
+            "Torrington"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Pequabuck River (Rockwell Park",
+          "towns": [
+            "Bristol"
+          ],
+          "management_type": "Blvd.)"
+        },
+        {
+          "waterbody": "Salmon River- TMA",
+          "towns": [
+            "Colchester"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Shunock Brook",
+          "towns": [
+            "North Stonington"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Willimantic River",
+          "towns": [
+            "Tolland",
+            "Willington"
+          ],
+          "management_type": "TMA"
+        }
+      ]
+    },
     {
       "date": "2026-03-19",
       "locations": [
@@ -1348,7 +1427,9 @@
         "Manchester"
       ],
       "management_type": "CFW",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-20"
+      ]
     },
     {
       "waterbody": "Chatfield Hollow Pond (Schreeder Pond)",
@@ -1475,7 +1556,9 @@
         "New Preston"
       ],
       "management_type": "WTMA Class 3",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-20"
+      ]
     },
     {
       "waterbody": "East Swamp Brook",
@@ -1824,7 +1907,9 @@
         "Manchester"
       ],
       "management_type": "TMA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-20"
+      ]
     },
     {
       "waterbody": "Hop Brook",
@@ -1918,7 +2003,9 @@
         "Hebron"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-20"
+      ]
     },
     {
       "waterbody": "Keach/Peck Pond",
@@ -2372,7 +2459,9 @@
         "Winchester"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-20"
+      ]
     },
     {
       "waterbody": "Naugatuck River, W. Branch",
@@ -2380,7 +2469,9 @@
         "Torrington"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-20"
+      ]
     },
     {
       "waterbody": "Nells Rock Reservoir",
@@ -2489,7 +2580,9 @@
         "Bristol"
       ],
       "management_type": "Blvd.)",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-20"
+      ]
     },
     {
       "waterbody": "Pequabuck River (RTS 229-177)",
@@ -2802,7 +2895,9 @@
         "Colchester"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-20"
+      ]
     },
     {
       "waterbody": "Sandy Brook",
@@ -2937,7 +3032,9 @@
         "North Stonington"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-20"
+      ]
     },
     {
       "waterbody": "Skungamaug River",
@@ -3245,7 +3342,9 @@
         "Willington"
       ],
       "management_type": "TMA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-20"
+      ]
     },
     {
       "waterbody": "Willimantic River (above TMA)",
