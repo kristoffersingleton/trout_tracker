@@ -50,5 +50,6 @@ jobs:
             echo "No changes — already up to date."
           else
             git commit -m "Daily update $DATE"
+            git pull --rebase
             git push
           fi
