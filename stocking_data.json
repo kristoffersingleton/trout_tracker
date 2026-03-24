@@ -1,12 +1,98 @@
 {
-  "report_date": "2026-03-20",
+  "report_date": "2026-03-23",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
     {
+      "date": "2026-03-23",
+      "locations": [
+        {
+          "waterbody": "Bible Rock Brook",
+          "towns": [
+            "Haddam"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Blackberry River",
+          "towns": [
+            "Canaan",
+            "Norfolk"
+          ],
+          "management_type": "WTMA class 3 (and Open)"
+        },
+        {
+          "waterbody": "Branford River",
+          "towns": [
+            "Branford"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Falls River",
+          "towns": [
+            "Essex"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Farm River (lower section)",
+          "towns": [
+            "East Haven"
+          ],
+          "management_type": "WTMA Class 3"
+        },
+        {
+          "waterbody": "Farm River (upper section)",
+          "towns": [
+            "North Branford"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Farmington River",
+          "towns": [
+            "New Hartford",
+            "Canton"
+          ],
+          "management_type": "TMA (Route 219 to Lower Collinsville)"
+        },
+        {
+          "waterbody": "Muddy River",
+          "towns": [
+            "North Haven",
+            "Wallingford"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Oxoboxo Brook",
+          "towns": [
+            "Montville"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Skungamaug River",
+          "towns": [
+            "Coventry",
+            "Tolland"
+          ],
+          "management_type": null
+        }
+      ]
+    },
+    {
       "date": "2026-03-20",
       "locations": [
+        {
+          "waterbody": "Angus Park Pond (aka Eastbury Pond)",
+          "towns": [
+            "Glastonbury"
+          ],
+          "management_type": null
+        },
         {
           "waterbody": "Center Springs Park Pond",
           "towns": [
@@ -1054,7 +1140,9 @@
         "Glastonbury"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-20"
+      ]
     },
     {
       "waterbody": "Aspetuck River",
@@ -1195,7 +1283,9 @@
         "Haddam"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-23"
+      ]
     },
     {
       "waterbody": "Bicentennial Pond",
@@ -1287,7 +1377,9 @@
         "Norfolk"
       ],
       "management_type": "WTMA class 3 (and Open)",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-23"
+      ]
     },
     {
       "waterbody": "Blackledge River (lower section)",
@@ -1330,7 +1422,9 @@
         "Branford"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-23"
+      ]
     },
     {
       "waterbody": "Branford Supply Ponds",
@@ -1628,7 +1722,9 @@
         "Essex"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-23"
+      ]
     },
     {
       "waterbody": "Farm River (lower section)",
@@ -1636,7 +1732,9 @@
         "East Haven"
       ],
       "management_type": "WTMA Class 3",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-23"
+      ]
     },
     {
       "waterbody": "Farm River (upper section)",
@@ -1644,7 +1742,9 @@
         "North Branford"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-23"
+      ]
     },
     {
       "waterbody": "Farmill River",
@@ -1691,7 +1791,9 @@
         "Canton"
       ],
       "management_type": "TMA (Route 219 to Lower Collinsville)",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-23"
+      ]
     },
     {
       "waterbody": "Farmington River, West Branch (Hogback to WBR. TMA)",
@@ -2395,7 +2497,9 @@
         "Wallingford"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-23"
+      ]
     },
     {
       "waterbody": "Myron Kinnie Brook",
@@ -2533,7 +2637,9 @@
         "Montville"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-23"
+      ]
     },
     {
       "waterbody": "Pachaug River",
@@ -3043,7 +3149,9 @@
         "Tolland"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-23"
+      ]
     },
     {
       "waterbody": "Snake Meadow Brook",
