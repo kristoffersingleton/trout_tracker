@@ -1,9 +1,106 @@
 {
-  "report_date": "2026-03-23",
+  "report_date": "2026-03-24",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-03-24",
+      "locations": [
+        {
+          "waterbody": "Bigelow Brook (outside State Park)",
+          "towns": [
+            "Union"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Coginchaug River",
+          "towns": [
+            "Durham",
+            "Middlefield"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Farmington River",
+          "towns": [
+            "Avon",
+            "Canton",
+            "Unionville"
+          ],
+          "management_type": "TMA (Lower Collinsville to RT 177 )"
+        },
+        {
+          "waterbody": "Furnace Brook",
+          "towns": [
+            "Stafford"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Hop Brook",
+          "towns": [
+            "Middlebury"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Hop Brook Impoundment",
+          "towns": [
+            "Middlebury",
+            "Waterbury"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Middle River",
+          "towns": [
+            "Stafford"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Quinnipiac River",
+          "towns": [
+            "Cheshire",
+            "Meriden",
+            "Wallingford",
+            "North Haven"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Reservoir Brook",
+          "towns": [
+            "Portland"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Roaring Brook",
+          "towns": [
+            "Glastonbury"
+          ],
+          "management_type": "WTMA 3"
+        },
+        {
+          "waterbody": "Roaring Brook",
+          "towns": [
+            "Stafford",
+            "Willington"
+          ],
+          "management_type": "WTMA 3"
+        },
+        {
+          "waterbody": "Salmon Brook Pond",
+          "towns": [
+            "Glastonbury"
+          ],
+          "management_type": null
+        }
+      ]
+    },
     {
       "date": "2026-03-23",
       "locations": [
@@ -1298,12 +1395,14 @@
       ]
     },
     {
-      "waterbody": "Bigelow Brook",
+      "waterbody": "Bigelow Brook (outside State Park)",
       "towns": [
         "Union"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-24"
+      ]
     },
     {
       "waterbody": "Bigelow Pond",
@@ -1566,7 +1665,9 @@
         "Middlefield"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-24"
+      ]
     },
     {
       "waterbody": "Colebrook River Lake",
@@ -1762,7 +1863,9 @@
         "Unionville"
       ],
       "management_type": "TMA (Lower Collinsville to RT 177 )",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-24"
+      ]
     },
     {
       "waterbody": "Farmington River (Tarrifville)",
@@ -1876,7 +1979,9 @@
         "Stafford"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-24"
+      ]
     },
     {
       "waterbody": "Gardner Lake",
@@ -2019,7 +2124,9 @@
         "Middlebury"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-24"
+      ]
     },
     {
       "waterbody": "Hop Brook Impoundment",
@@ -2028,7 +2135,9 @@
         "Waterbury"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-24"
+      ]
     },
     {
       "waterbody": "Hop River",
@@ -2327,7 +2436,9 @@
         "Stafford"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-24"
+      ]
     },
     {
       "waterbody": "Mill Brook",
@@ -2862,7 +2973,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-19"
+        "2026-03-19",
+        "2026-03-24"
       ]
     },
     {
@@ -2882,7 +2994,9 @@
         "Portland"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-24"
+      ]
     },
     {
       "waterbody": "Rippowam River",
@@ -2900,7 +3014,9 @@
         "Glastonbury"
       ],
       "management_type": "WTMA 3",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-24"
+      ]
     },
     {
       "waterbody": "Roaring Brook",
@@ -2909,7 +3025,9 @@
         "Willington"
       ],
       "management_type": "WTMA 3",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-24"
+      ]
     },
     {
       "waterbody": "Rogers Lake",
@@ -2967,7 +3085,9 @@
         "Glastonbury"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-24"
+      ]
     },
     {
       "waterbody": "Salmon Brook, E. Branch",
