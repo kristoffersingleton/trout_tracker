@@ -1,9 +1,91 @@
 {
-  "report_date": "2026-03-25",
+  "report_date": "2026-03-26",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-03-26",
+      "locations": [
+        {
+          "waterbody": "Fenton River- WTMA Class 3",
+          "towns": [
+            "Mansfield",
+            "Willington"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Fivemile River (lower section)",
+          "towns": [
+            "Thompson",
+            "Putnam",
+            "Killingly"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Fivemile River (upper section)",
+          "towns": [
+            "Thompson"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "French River",
+          "towns": [
+            "Thompson"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Green Falls River",
+          "towns": [
+            "North Stonington"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Hop River",
+          "towns": [
+            "Bolton",
+            "Coventry"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Naugatuck River (Lower)",
+          "towns": [
+            "Waterbury \u2013 Beacon Falls"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Naugatuck River (Middle)",
+          "towns": [
+            "Thomaston \u2013 Waterbury"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Naugatuck River (Upper)",
+          "towns": [
+            "Harwinton",
+            "Litchfield",
+            "Torrington"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Yantic River",
+          "towns": [
+            "Lebanon",
+            "Bozrah"
+          ],
+          "management_type": null
+        }
+      ]
+    },
     {
       "date": "2026-03-25",
       "locations": [
@@ -2010,7 +2092,9 @@
         "Willington"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-26"
+      ]
     },
     {
       "waterbody": "Fivemile River (lower section)",
@@ -2020,7 +2104,9 @@
         "Killingly"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-26"
+      ]
     },
     {
       "waterbody": "Fivemile River (upper section)",
@@ -2028,7 +2114,9 @@
         "Thompson"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-26"
+      ]
     },
     {
       "waterbody": "Fountain Lake",
@@ -2056,7 +2144,9 @@
         "Thompson"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-26"
+      ]
     },
     {
       "waterbody": "Furnace Brook",
@@ -2111,7 +2201,9 @@
         "North Stonington"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-26"
+      ]
     },
     {
       "waterbody": "Hall Meadow Brook",
@@ -2231,7 +2323,9 @@
         "Coventry"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-26"
+      ]
     },
     {
       "waterbody": "Hopeville Pond",
@@ -2742,7 +2836,19 @@
         "Waterbury \u2013 Beacon Falls"
       ],
       "management_type": "TTA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-26"
+      ]
+    },
+    {
+      "waterbody": "Naugatuck River (Middle)",
+      "towns": [
+        "Thomaston \u2013 Waterbury"
+      ],
+      "management_type": "TTA",
+      "stocked_dates": [
+        "2026-03-26"
+      ]
     },
     {
       "waterbody": "Naugatuck River (Upper)",
@@ -2752,7 +2858,9 @@
         "Torrington"
       ],
       "management_type": "TTA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-26"
+      ]
     },
     {
       "waterbody": "Naugatuck River, E. Branch",
@@ -3705,7 +3813,9 @@
         "Bozrah"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-26"
+      ]
     },
     {
       "waterbody": "Yantic River- TMA",
