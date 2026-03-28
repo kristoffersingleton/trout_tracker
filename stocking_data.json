@@ -1,9 +1,87 @@
 {
-  "report_date": "2026-03-26",
+  "report_date": "2026-03-27",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-03-27",
+      "locations": [
+        {
+          "waterbody": "Birge Pond",
+          "towns": [
+            "Bristol"
+          ],
+          "management_type": "CFW"
+        },
+        {
+          "waterbody": "Eightmile River, East Branch",
+          "towns": [
+            "Salem",
+            "Lyme"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Latimer Brook (*no stocking along I-95 due to construction)",
+          "towns": [
+            "East Lyme"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Little River",
+          "towns": [
+            "Canterbury \u2013 Sprague"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Mad River",
+          "towns": [
+            "Norfolk",
+            "Winchester"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Mad River Impoundment",
+          "towns": [
+            "Winchester"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Pine Lake/Malones Pond",
+          "towns": [
+            "Bristol"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Quinebaug River",
+          "towns": [
+            "Thompson"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Sandy Brook",
+          "towns": [
+            "Colebrook"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Still River",
+          "towns": [
+            "Barkhamsted",
+            "Colebrook"
+          ],
+          "management_type": null
+        }
+      ]
+    },
     {
       "date": "2026-03-26",
       "locations": [
@@ -1583,7 +1661,9 @@
         "Bristol"
       ],
       "management_type": "CFW",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-27"
+      ]
     },
     {
       "waterbody": "Black Pond",
@@ -1980,7 +2060,9 @@
         "Lyme"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-27"
+      ]
     },
     {
       "waterbody": "Falls River",
@@ -2479,7 +2561,9 @@
         "East Lyme"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-27"
+      ]
     },
     {
       "waterbody": "Leadmine Brook",
@@ -2496,7 +2580,9 @@
         "Canterbury \u2013 Sprague"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-27"
+      ]
     },
     {
       "waterbody": "Little River",
@@ -2543,7 +2629,9 @@
         "Winchester"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-27"
+      ]
     },
     {
       "waterbody": "Mad River Impoundment",
@@ -2551,7 +2639,9 @@
         "Winchester"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-27"
+      ]
     },
     {
       "waterbody": "Mansfield Training Ponds",
@@ -3055,7 +3145,9 @@
         "Bristol"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-27"
+      ]
     },
     {
       "waterbody": "Pomperaug River",
@@ -3139,7 +3231,9 @@
         "Thompson"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-27"
+      ]
     },
     {
       "waterbody": "Quinebaug River",
@@ -3328,7 +3422,9 @@
         "Colebrook"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-27"
+      ]
     },
     {
       "waterbody": "Saugatuck Reservoir",
@@ -3537,7 +3633,9 @@
         "Colebrook"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-27"
+      ]
     },
     {
       "waterbody": "Still River",
