@@ -1,9 +1,92 @@
 {
-  "report_date": "2026-03-27",
+  "report_date": "2026-03-30",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-03-30",
+      "locations": [
+        {
+          "waterbody": "Baummer Pond",
+          "towns": [
+            "Naugatuck"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Beacon Hill Brook",
+          "towns": [
+            "Naugatuck"
+          ],
+          "management_type": "WTMA class 3"
+        },
+        {
+          "waterbody": "Little River",
+          "towns": [
+            "Oxford",
+            "Seymour"
+          ],
+          "management_type": "WTMA Class 3"
+        },
+        {
+          "waterbody": "Moosup River (outside of TMA)",
+          "towns": [
+            "Sterling",
+            "Plainfield"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Mount Hope River",
+          "towns": [
+            "Ashford",
+            "Mansfield"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Nonewaug River",
+          "towns": [
+            "Bethlehem",
+            "Woodbury"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Quinebaug River",
+          "towns": [
+            "Killingly",
+            "Putnam"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Quinebaug River",
+          "towns": [
+            "Griswold",
+            "Lisbon",
+            "Preston"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Weekeepeemee River",
+          "towns": [
+            "Woodbury"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Wepawaug River",
+          "towns": [
+            "Milford",
+            "Orange"
+          ],
+          "management_type": null
+        }
+      ]
+    },
     {
       "date": "2026-03-27",
       "locations": [
@@ -1555,7 +1638,9 @@
         "Naugatuck"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-30"
+      ]
     },
     {
       "waterbody": "Beach Pond",
@@ -1573,7 +1658,9 @@
         "Naugatuck"
       ],
       "management_type": "WTMA class 3",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-30"
+      ]
     },
     {
       "waterbody": "Beaver Brook (including ponds)",
@@ -2591,7 +2678,9 @@
         "Seymour"
       ],
       "management_type": "WTMA Class 3",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-30"
+      ]
     },
     {
       "waterbody": "Long Pond",
@@ -2831,7 +2920,9 @@
         "Plainfield"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-30"
+      ]
     },
     {
       "waterbody": "Morrissey Brook",
@@ -2849,7 +2940,9 @@
         "Mansfield"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-30"
+      ]
     },
     {
       "waterbody": "Mount Misery Brook",
@@ -2998,7 +3091,9 @@
         "Woodbury"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-30"
+      ]
     },
     {
       "waterbody": "Northfield Brook",
@@ -3223,7 +3318,9 @@
         "Putnam"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-30"
+      ]
     },
     {
       "waterbody": "Quinebaug River",
@@ -3252,7 +3349,9 @@
         "Preston"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-30"
+      ]
     },
     {
       "waterbody": "Quinnipiac River",
@@ -3787,7 +3886,9 @@
         "Woodbury"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-30"
+      ]
     },
     {
       "waterbody": "Wepawaug River",
@@ -3796,7 +3897,9 @@
         "Orange"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-30"
+      ]
     },
     {
       "waterbody": "West Branch Reservoir",
