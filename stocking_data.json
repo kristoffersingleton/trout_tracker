@@ -1,9 +1,117 @@
 {
-  "report_date": "2026-03-30",
+  "report_date": "2026-03-31",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-03-31",
+      "locations": [
+        {
+          "waterbody": "Bantam River (inlet to Bantam Lake)",
+          "towns": [
+            "Litchfield"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Bantam River (outlet from Bantam Lake)",
+          "towns": [
+            "Litchfield"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Bantam River, West Branch",
+          "towns": [
+            "Goshen",
+            "Litchfield"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Butternut Brook",
+          "towns": [
+            "Litchfield"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Hall Meadow Brook",
+          "towns": [
+            "Torrington"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Morrissey Brook",
+          "towns": [
+            "New Milford",
+            "Sherman"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Saint Martha\u2019s Pond",
+          "towns": [
+            "Enfield"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Sawmill Brook",
+          "towns": [
+            "Sherman"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Scantic River (lower)",
+          "towns": [
+            "East Windsor"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Scantic River (upper)",
+          "towns": [
+            "Somers",
+            "Enfield"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Shepaug River",
+          "towns": [
+            "Roxbury"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Willimantic River",
+          "towns": [
+            "Tolland",
+            "Willington"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Willimantic River (above TMA)",
+          "towns": [
+            "Stafford"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Willimantic River (below TMA)",
+          "towns": [
+            "Mansfield",
+            "Coventry"
+          ],
+          "management_type": null
+        }
+      ]
+    },
     {
       "date": "2026-03-30",
       "locations": [
@@ -1593,7 +1701,9 @@
         "Litchfield"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-31"
+      ]
     },
     {
       "waterbody": "Bantam River (outlet from Bantam Lake)",
@@ -1601,7 +1711,9 @@
         "Litchfield"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-31"
+      ]
     },
     {
       "waterbody": "Bantam River, West Branch",
@@ -1610,7 +1722,9 @@
         "Litchfield"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-31"
+      ]
     },
     {
       "waterbody": "Bartlett Brook",
@@ -1911,7 +2025,9 @@
         "Litchfield"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-31"
+      ]
     },
     {
       "waterbody": "Byram River",
@@ -2380,7 +2496,9 @@
         "Torrington"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-31"
+      ]
     },
     {
       "waterbody": "Hammonasset River",
@@ -2931,7 +3049,9 @@
         "Sherman"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-31"
+      ]
     },
     {
       "waterbody": "Mount Hope River",
@@ -3467,7 +3587,9 @@
         "Enfield"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-31"
+      ]
     },
     {
       "waterbody": "Salmon Brook Pond",
@@ -3579,7 +3701,9 @@
         "Sherman"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-31"
+      ]
     },
     {
       "waterbody": "Sawmill Pond",
@@ -3595,7 +3719,9 @@
         "East Windsor"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-31"
+      ]
     },
     {
       "waterbody": "Scantic River (upper)",
@@ -3604,7 +3730,9 @@
         "Enfield"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-31"
+      ]
     },
     {
       "waterbody": "Scoville Reservoir",
@@ -3632,7 +3760,9 @@
         "Roxbury"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-31"
+      ]
     },
     {
       "waterbody": "Shetucket River",
@@ -3969,7 +4099,8 @@
       ],
       "management_type": "TMA",
       "stocked_dates": [
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-31"
       ]
     },
     {
@@ -3978,7 +4109,9 @@
         "Stafford"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-31"
+      ]
     },
     {
       "waterbody": "Willimantic River (below TMA)",
@@ -3987,7 +4120,9 @@
         "Coventry"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-31"
+      ]
     },
     {
       "waterbody": "Wononskopomuc Lake",
