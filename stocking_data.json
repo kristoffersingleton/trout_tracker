@@ -1,9 +1,67 @@
 {
-  "report_date": "2026-03-31",
+  "report_date": "2026-04-01",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-04-01",
+      "locations": [
+        {
+          "waterbody": "Moosup River",
+          "towns": [
+            "Plainfield"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Pasture Pond",
+          "towns": [
+            "Plainfield"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Pomperaug River",
+          "towns": [
+            "Woodbury",
+            "Southbury"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Quinebaug River",
+          "towns": [
+            "Plainfield",
+            "Canterbury"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Sawmill Pond",
+          "towns": [
+            "Ledyard"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Shetucket River",
+          "towns": [
+            "Windham",
+            "Scotland",
+            "Sprague"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Yantic River- TMA",
+          "towns": [
+            "Bozrah"
+          ],
+          "management_type": null
+        }
+      ]
+    },
     {
       "date": "2026-03-31",
       "locations": [
@@ -3028,7 +3086,8 @@
       ],
       "management_type": "TMA",
       "stocked_dates": [
-        "2026-03-11"
+        "2026-03-11",
+        "2026-04-01"
       ]
     },
     {
@@ -3271,7 +3330,9 @@
         "Plainfield"
       ],
       "management_type": "TP",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-01"
+      ]
     },
     {
       "waterbody": "Pattaconk Brook",
@@ -3371,7 +3432,9 @@
         "Southbury"
       ],
       "management_type": "TTA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-01"
+      ]
     },
     {
       "waterbody": "Pond Brook",
@@ -3459,7 +3522,9 @@
         "Canterbury"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-01"
+      ]
     },
     {
       "waterbody": "Quinebaug River",
@@ -3711,7 +3776,9 @@
         "Ledyard"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-01"
+      ]
     },
     {
       "waterbody": "Scantic River (lower)",
@@ -3772,7 +3839,9 @@
         "Sprague"
       ],
       "management_type": "TTA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-01"
+      ]
     },
     {
       "waterbody": "Shunock Brook",
@@ -4160,7 +4229,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-11"
+        "2026-03-11",
+        "2026-04-01"
       ]
     }
   ]
