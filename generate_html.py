@@ -182,7 +182,7 @@ def generate():
 
 <header>
   <h1>CT Trout Stocking &nbsp;<a class="ig-link" href="https://www.instagram.com/uncleconntucky" target="_blank">@uncleconntucky</a></h1>
-  <p>Report: {report_date} &nbsp;·&nbsp; C&R until {catch_release} &nbsp;·&nbsp; From {HOME_LOCATION['name']} &nbsp;·&nbsp; Updated: {generated_at}</p>
+  <p>Report: {report_date} &nbsp;·&nbsp; C&R until {catch_release} &nbsp;·&nbsp; <span id="loc-label">From {HOME_LOCATION['name']}</span> &nbsp;·&nbsp; Updated: {generated_at}</p>
 </header>
 
 <div id="map"></div>
@@ -195,6 +195,7 @@ def generate():
 </div>
 
 <div class="filter-bar">
+  <button id="loc-btn" onclick="requestLocation()" style="background:#1e293b;border:1px solid #334155;color:#38bdf8;padding:4px 10px;border-radius:6px;font-size:0.8rem;cursor:pointer;">📍 Use my location</button>
   <label>Filter:</label>
   <select id="tier-filter" onchange="applyFilters()">
     <option value="all">All tiers</option>
@@ -238,10 +239,6 @@ const map = L.map('map').setView([HOME.lat, HOME.lon], 10);
 L.tileLayer('https://{{s}}.tile.openstreetmap.org/{{z}}/{{x}}/{{y}}.png', {{
   attribution: '© OpenStreetMap contributors', maxZoom: 18
 }}).addTo(map);
-
-L.circleMarker([HOME.lat, HOME.lon], {{
-  radius: 9, color: '#fff', weight: 2, fillColor: '#ef4444', fillOpacity: 1
-}}).bindPopup('<b>Home: {HOME_LOCATION["name"]}</b>').addTo(map);
 
 const markerLayer = L.layerGroup().addTo(map);
 
@@ -332,6 +329,59 @@ function render() {{
 function updateMarkers() {{
   markerLayer.clearLayers();
   filtered.forEach(loc => makeMarker(loc).addTo(markerLayer));
+}}
+
+// --- Geolocation ---
+let homeMarker = L.circleMarker([HOME.lat, HOME.lon], {{
+  radius: 9, color: '#fff', weight: 2, fillColor: '#ef4444', fillOpacity: 1
+}}).bindPopup('<b>Home: {HOME_LOCATION["name"]}</b>').addTo(map);
+
+function haversine(lat1, lon1, lat2, lon2) {{
+  const R = 3959;
+  const dLat = (lat2 - lat1) * Math.PI / 180;
+  const dLon = (lon2 - lon1) * Math.PI / 180;
+  const a = Math.sin(dLat/2)**2 + Math.cos(lat1*Math.PI/180) * Math.cos(lat2*Math.PI/180) * Math.sin(dLon/2)**2;
+  return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+}}
+
+function applyUserLocation(lat, lon) {{
+  ALL_LOCATIONS.forEach(loc => {{
+    loc.distance = Math.round(haversine(lat, lon, loc.lat, loc.lon) * 10) / 10;
+  }});
+  homeMarker.remove();
+  homeMarker = L.circleMarker([lat, lon], {{
+    radius: 9, color: '#fff', weight: 2, fillColor: '#ef4444', fillOpacity: 1
+  }}).bindPopup('<b>Your location</b>').addTo(map);
+  map.setView([lat, lon], 10);
+  document.getElementById('loc-label').textContent = 'From: your location';
+  document.getElementById('loc-btn').textContent = '✓ Using your location';
+  document.getElementById('loc-btn').style.color = '#22c55e';
+  if (sortKey === 'distance') sortAsc = true;
+  applyFilters();
+}}
+
+function requestLocation() {{
+  if (!navigator.geolocation) {{
+    alert('Geolocation is not supported by your browser.');
+    return;
+  }}
+  document.getElementById('loc-btn').textContent = '⏳ Locating…';
+  navigator.geolocation.getCurrentPosition(
+    pos => applyUserLocation(pos.coords.latitude, pos.coords.longitude),
+    () => {{
+      document.getElementById('loc-btn').textContent = '📍 Use my location';
+      alert('Location access denied — showing distances from {HOME_LOCATION["name"]}.');
+    }},
+    {{ timeout: 10000 }}
+  );
+}}
+
+// Auto-request on load (silently falls back if denied)
+if (navigator.geolocation) {{
+  navigator.geolocation.getCurrentPosition(
+    pos => applyUserLocation(pos.coords.latitude, pos.coords.longitude),
+    () => {{}} // silent fallback
+  );
 }}
 
 applyFilters();
