@@ -1,9 +1,214 @@
 {
-  "report_date": "2026-04-02",
+  "report_date": "2026-04-07",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-04-07",
+      "locations": [
+        {
+          "waterbody": "Eightmile Brook (Southford Falls State Park)- TP",
+          "towns": [
+            "Oxford",
+            "Southbury"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Hopeville Pond",
+          "towns": [
+            "Griswold",
+            "Voluntown"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Kent Falls Brook",
+          "towns": [
+            "Kent"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Macedonia Brook (State Park)",
+          "towns": [
+            "Kent"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Mianus River",
+          "towns": [
+            "Greenwich",
+            "Stamford"
+          ],
+          "management_type": "outside TMA"
+        },
+        {
+          "waterbody": "Mianus River",
+          "towns": [
+            "Greenwich",
+            "Stamford"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Mill River",
+          "towns": [
+            "Fairfield"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Mill River (outside TMA)",
+          "towns": [
+            "Fairfield"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Mount Misery Brook",
+          "towns": [
+            "Voluntown"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Natchaug River",
+          "towns": [
+            "Eastford",
+            "Chaplin",
+            "Windham"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Natchaug River- TP",
+          "towns": [
+            "Eastford"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Pickett\u2019s Pond",
+          "towns": [
+            "Derby"
+          ],
+          "management_type": "CFW"
+        },
+        {
+          "waterbody": "Southford Falls Pond",
+          "towns": [
+            "Oxford",
+            "Southbury"
+          ],
+          "management_type": "TP"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-06",
+      "locations": [
+        {
+          "waterbody": "Christensen\u2019s Pond",
+          "towns": [
+            "Granby"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Day Pond",
+          "towns": [
+            "Colchester"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Gay City Park Pond",
+          "towns": [
+            "Hebron"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Salmon Brook, E. Branch",
+          "towns": [
+            "Granby",
+            "E Granby"
+          ],
+          "management_type": "WTMA Class 3 & Open"
+        },
+        {
+          "waterbody": "Salmon Brook, W. Branch",
+          "towns": [
+            "Granby"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Salmon River",
+          "towns": [
+            "Colchester",
+            "East Hampton"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Salmon River",
+          "towns": [
+            "Colchester"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Stratton Brook Park Pond",
+          "towns": [
+            "Simsbury"
+          ],
+          "management_type": "TP"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-03",
+      "locations": [
+        {
+          "waterbody": "Farmington River",
+          "towns": [
+            "Avon",
+            "Canton",
+            "Unionville"
+          ],
+          "management_type": "TMA (Lower Collinsville to RT 177 )"
+        },
+        {
+          "waterbody": "Farmington River (RT 177 to RT 4)",
+          "towns": [
+            "Avon",
+            "Farmington",
+            "Unionville"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Farmington River",
+          "towns": [
+            "New Hartford",
+            "Canton"
+          ],
+          "management_type": "TMA (Route 219 to Lower Collinsville)"
+        },
+        {
+          "waterbody": "Naugatuck River",
+          "towns": [
+            "Harwinton",
+            "Litchfield"
+          ],
+          "management_type": "TMA"
+        }
+      ]
+    },
     {
       "date": "2026-04-02",
       "locations": [
@@ -51,6 +256,13 @@
             "Manchester"
           ],
           "management_type": "TMA"
+        },
+        {
+          "waterbody": "Mashamoquet Brook",
+          "towns": [
+            "Pomfret"
+          ],
+          "management_type": "TP"
         },
         {
           "waterbody": "Mohegan Park Pond",
@@ -447,7 +659,8 @@
           "waterbody": "Hop River",
           "towns": [
             "Bolton",
-            "Coventry"
+            "Coventry",
+            "Andover"
           ],
           "management_type": null
         },
@@ -794,11 +1007,11 @@
           "management_type": "Blvd.)"
         },
         {
-          "waterbody": "Salmon River- TMA",
+          "waterbody": "Salmon River",
           "towns": [
             "Colchester"
           ],
-          "management_type": null
+          "management_type": "TMA"
         },
         {
           "waterbody": "Shunock Brook",
@@ -2236,7 +2449,9 @@
         "Granby"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-06"
+      ]
     },
     {
       "waterbody": "Coginchaug River",
@@ -2306,7 +2521,9 @@
         "Colchester"
       ],
       "management_type": "TP",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-06"
+      ]
     },
     {
       "waterbody": "Dickenson Creek",
@@ -2388,7 +2605,9 @@
         "Southbury"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-07"
+      ]
     },
     {
       "waterbody": "Eightmile River, East Branch",
@@ -2450,7 +2669,8 @@
       ],
       "management_type": "TMA (Lower Collinsville to RT 177 )",
       "stocked_dates": [
-        "2026-03-24"
+        "2026-03-24",
+        "2026-04-03"
       ]
     },
     {
@@ -2471,7 +2691,9 @@
         "Unionville"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-03"
+      ]
     },
     {
       "waterbody": "Farmington River",
@@ -2481,7 +2703,8 @@
       ],
       "management_type": "TMA (Route 219 to Lower Collinsville)",
       "stocked_dates": [
-        "2026-03-23"
+        "2026-03-23",
+        "2026-04-03"
       ]
     },
     {
@@ -2594,7 +2817,9 @@
         "Hebron"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-06"
+      ]
     },
     {
       "waterbody": "Great Hollow Lake at Wolfe Park",
@@ -2745,7 +2970,8 @@
       "waterbody": "Hop River",
       "towns": [
         "Bolton",
-        "Coventry"
+        "Coventry",
+        "Andover"
       ],
       "management_type": null,
       "stocked_dates": [
@@ -2759,7 +2985,9 @@
         "Voluntown"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-07"
+      ]
     },
     {
       "waterbody": "Horse Pond",
@@ -2846,7 +3074,9 @@
         "Kent"
       ],
       "management_type": "TP",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-07"
+      ]
     },
     {
       "waterbody": "Kitt Brook",
@@ -2965,7 +3195,9 @@
         "Kent"
       ],
       "management_type": "TP",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-07"
+      ]
     },
     {
       "waterbody": "Mad River",
@@ -3004,7 +3236,9 @@
         "Pomfret"
       ],
       "management_type": "TP",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-02"
+      ]
     },
     {
       "waterbody": "Mashapaug Lake",
@@ -3031,7 +3265,9 @@
         "Stamford"
       ],
       "management_type": "outside TMA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-07"
+      ]
     },
     {
       "waterbody": "Mianus River",
@@ -3041,7 +3277,8 @@
       ],
       "management_type": "TMA",
       "stocked_dates": [
-        "2026-03-13"
+        "2026-03-13",
+        "2026-04-07"
       ]
     },
     {
@@ -3071,7 +3308,8 @@
       ],
       "management_type": "TMA",
       "stocked_dates": [
-        "2026-03-13"
+        "2026-03-13",
+        "2026-04-07"
       ]
     },
     {
@@ -3088,7 +3326,9 @@
         "Fairfield"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-07"
+      ]
     },
     {
       "waterbody": "Mill River (Sleeping Giant State Park)",
@@ -3211,7 +3451,9 @@
         "Voluntown"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-07"
+      ]
     },
     {
       "waterbody": "Mount Tom Pond",
@@ -3253,7 +3495,9 @@
         "Windham"
       ],
       "management_type": "TTA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-07"
+      ]
     },
     {
       "waterbody": "Natchaug River- TP",
@@ -3261,7 +3505,9 @@
         "Eastford"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-07"
+      ]
     },
     {
       "waterbody": "Naugatuck River",
@@ -3271,7 +3517,8 @@
       ],
       "management_type": "TMA",
       "stocked_dates": [
-        "2026-03-25"
+        "2026-03-25",
+        "2026-04-03"
       ]
     },
     {
@@ -3497,7 +3744,9 @@
         "Derby"
       ],
       "management_type": "CFW",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-07"
+      ]
     },
     {
       "waterbody": "Pine Lake/Malones Pond",
@@ -3757,7 +4006,9 @@
         "E Granby"
       ],
       "management_type": "WTMA Class 3 & Open",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-06"
+      ]
     },
     {
       "waterbody": "Salmon Brook, W. Branch",
@@ -3765,7 +4016,9 @@
         "Granby"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-06"
+      ]
     },
     {
       "waterbody": "Salmon River",
@@ -3774,16 +4027,19 @@
         "East Hampton"
       ],
       "management_type": "TTA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-06"
+      ]
     },
     {
-      "waterbody": "Salmon River- TMA",
+      "waterbody": "Salmon River",
       "towns": [
         "Colchester"
       ],
-      "management_type": null,
+      "management_type": "TMA",
       "stocked_dates": [
-        "2026-03-20"
+        "2026-03-20",
+        "2026-04-06"
       ]
     },
     {
@@ -3976,7 +4232,8 @@
       ],
       "management_type": "TP",
       "stocked_dates": [
-        "2026-03-18"
+        "2026-03-18",
+        "2026-04-07"
       ]
     },
     {
@@ -4063,7 +4320,9 @@
         "Simsbury"
       ],
       "management_type": "TP",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-06"
+      ]
     },
     {
       "waterbody": "Susquetonscut Brook",
