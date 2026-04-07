@@ -221,9 +221,6 @@ def generate():
         <th onclick="sortBy('distance')" id="th-distance">Miles</th>
         <th onclick="sortBy('days_ago')" id="th-days_ago" class="sorted">Days ▲</th>
         <th onclick="sortBy('tier')" id="th-tier">Tier</th>
-        <script>
-          const TH_LABELS = {{ waterbody: 'Location', distance: 'Miles', days_ago: 'Days', tier: 'Tier' }};
-        </script>
       </tr>
     </thead>
     <tbody id="tbody"></tbody>
@@ -260,6 +257,7 @@ function makeMarker(loc) {{
 }}
 
 // --- Table ---
+const TH_LABELS = {{ waterbody: 'Location', distance: 'Miles', days_ago: 'Days', tier: 'Tier' }};
 let sortKey = 'days_ago';
 let sortAsc = true;
 let filtered = [...ALL_LOCATIONS];

@@ -72,7 +72,7 @@
 
 <header>
   <h1>CT Trout Stocking &nbsp;<a class="ig-link" href="https://www.instagram.com/uncleconntucky" target="_blank">@uncleconntucky</a></h1>
-  <p>Report: 2026-04-07 &nbsp;·&nbsp; C&R until 2026-04-11 &nbsp;·&nbsp; <span id="loc-label">From Mark Twain Library</span> &nbsp;·&nbsp; Updated: 2026-04-07 17:35 ET</p>
+  <p>Report: 2026-04-07 &nbsp;·&nbsp; C&R until 2026-04-11 &nbsp;·&nbsp; <span id="loc-label">From Mark Twain Library</span> &nbsp;·&nbsp; Updated: 2026-04-07 17:39 ET</p>
 </header>
 
 <div id="map"></div>
@@ -111,9 +111,6 @@
         <th onclick="sortBy('distance')" id="th-distance">Miles</th>
         <th onclick="sortBy('days_ago')" id="th-days_ago" class="sorted">Days ▲</th>
         <th onclick="sortBy('tier')" id="th-tier">Tier</th>
-        <script>
-          const TH_LABELS = { waterbody: 'Location', distance: 'Miles', days_ago: 'Days', tier: 'Tier' };
-        </script>
       </tr>
     </thead>
     <tbody id="tbody"></tbody>
@@ -150,6 +147,7 @@ function makeMarker(loc) {
 }
 
 // --- Table ---
+const TH_LABELS = { waterbody: 'Location', distance: 'Miles', days_ago: 'Days', tier: 'Tier' };
 let sortKey = 'days_ago';
 let sortAsc = true;
 let filtered = [...ALL_LOCATIONS];
