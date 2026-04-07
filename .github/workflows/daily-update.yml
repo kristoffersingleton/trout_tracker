@@ -21,6 +21,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v5
 
+      - name: Configure git and sync
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git rebase origin/main
+
       - name: Set up Python
         uses: actions/setup-python@v6
         with:
@@ -29,13 +36,6 @@ jobs:
 
       - name: Install dependencies
         run: pip install pdfplumber pyyaml
-
-      - name: Configure git and sync
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git fetch origin main
-          git rebase origin/main
 
       - name: Download stocking report
         run: |
