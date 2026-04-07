@@ -218,9 +218,12 @@ def generate():
     <thead>
       <tr>
         <th onclick="sortBy('waterbody')" id="th-waterbody">Location</th>
-        <th onclick="sortBy('distance')" id="th-distance" class="sorted">Miles ▲</th>
-        <th onclick="sortBy('days_ago')" id="th-days_ago">Days</th>
+        <th onclick="sortBy('distance')" id="th-distance">Miles</th>
+        <th onclick="sortBy('days_ago')" id="th-days_ago" class="sorted">Days ▲</th>
         <th onclick="sortBy('tier')" id="th-tier">Tier</th>
+        <script>
+          const TH_LABELS = {{ waterbody: 'Location', distance: 'Miles', days_ago: 'Days', tier: 'Tier' }};
+        </script>
       </tr>
     </thead>
     <tbody id="tbody"></tbody>
@@ -257,7 +260,7 @@ function makeMarker(loc) {{
 }}
 
 // --- Table ---
-let sortKey = 'distance';
+let sortKey = 'days_ago';
 let sortAsc = true;
 let filtered = [...ALL_LOCATIONS];
 
@@ -266,9 +269,16 @@ function tierOrder(t) {{ return {{hot:0,fresh:1,aging:2,scheduled:3}}[t] ?? 4; }
 function sortBy(key) {{
   if (sortKey === key) sortAsc = !sortAsc;
   else {{ sortKey = key; sortAsc = true; }}
-  document.querySelectorAll('thead th').forEach(th => th.classList.remove('sorted'));
+  document.querySelectorAll('thead th').forEach(th => {{
+    th.classList.remove('sorted');
+    const label = TH_LABELS[th.id.replace('th-', '')];
+    if (label) th.textContent = label;
+  }});
   const th = document.getElementById('th-' + key);
-  if (th) th.classList.add('sorted');
+  if (th) {{
+    th.classList.add('sorted');
+    th.textContent = TH_LABELS[key] + (sortAsc ? ' ▲' : ' ▼');
+  }}
   render();
 }}
 
@@ -356,7 +366,7 @@ function applyUserLocation(lat, lon) {{
   document.getElementById('loc-label').textContent = 'From: your location';
   document.getElementById('loc-btn').textContent = '✓ Using your location';
   document.getElementById('loc-btn').style.color = '#22c55e';
-  if (sortKey === 'distance') sortAsc = true;
+  sortBy('distance');
   applyFilters();
 }}
 
