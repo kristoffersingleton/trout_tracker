@@ -30,6 +30,13 @@ jobs:
       - name: Install dependencies
         run: pip install pdfplumber pyyaml
 
+      - name: Configure git and sync
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git rebase origin/main
+
       - name: Download stocking report
         run: |
           DATE=$(date +%Y-%m-%d)
@@ -47,10 +54,6 @@ jobs:
 
       - name: Commit and push if changed
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git fetch origin main
-          git rebase origin/main
           git add "$PDF_PATH" stocking_data.json docs/index.html
           if git diff --cached --quiet; then
             echo "No changes — already up to date."
