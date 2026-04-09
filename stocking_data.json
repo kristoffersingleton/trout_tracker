@@ -1,9 +1,96 @@
 {
-  "report_date": "2026-04-07",
+  "report_date": "2026-04-08",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-04-08",
+      "locations": [
+        {
+          "waterbody": "Eightmile River",
+          "towns": [
+            "Salem",
+            "East Haddam",
+            "Lyme"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Green Falls Reservoir",
+          "towns": [
+            "Voluntown"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Lake Wintergreen",
+          "towns": [
+            "Hamden"
+          ],
+          "management_type": "CFW"
+        },
+        {
+          "waterbody": "Leadmine Brook",
+          "towns": [
+            "Harwinton",
+            "Thomaston"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Mill River (outside TMA)",
+          "towns": [
+            "Hamden"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Mill River (Sleeping Giant State Park)",
+          "towns": [
+            "Hamden"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Saugatuck River- TMA (Fly Area)",
+          "towns": [
+            "Westport"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Saugatuck River, Lower",
+          "towns": [
+            "Weston",
+            "Westport"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Saugatuck River, Upper",
+          "towns": [
+            "Danbury",
+            "Redding"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Saugatuck River, W. Branch",
+          "towns": [
+            "Wilton \u2013 Westport"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Wharton Brook Pond",
+          "towns": [
+            "Wallingford"
+          ],
+          "management_type": "TP"
+        }
+      ]
+    },
     {
       "date": "2026-04-07",
       "locations": [
@@ -2585,7 +2672,9 @@
         "Lyme"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-08"
+      ]
     },
     {
       "waterbody": "Eightmile Brook",
@@ -2837,7 +2926,9 @@
         "Voluntown"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-08"
+      ]
     },
     {
       "waterbody": "Green Falls River",
@@ -3126,7 +3217,9 @@
         "Hamden"
       ],
       "management_type": "CFW",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-08"
+      ]
     },
     {
       "waterbody": "Latimer Brook (*no stocking along I-95 due to construction)",
@@ -3145,7 +3238,9 @@
         "Thomaston"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-08"
+      ]
     },
     {
       "waterbody": "Little River",
@@ -3318,7 +3413,9 @@
         "Hamden"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-08"
+      ]
     },
     {
       "waterbody": "Mill River (outside TMA)",
@@ -3337,7 +3434,8 @@
       ],
       "management_type": "TMA",
       "stocked_dates": [
-        "2026-03-09"
+        "2026-03-09",
+        "2026-04-08"
       ]
     },
     {
@@ -4071,7 +4169,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-09"
+        "2026-03-09",
+        "2026-04-08"
       ]
     },
     {
@@ -4081,7 +4180,9 @@
         "Westport"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-08"
+      ]
     },
     {
       "waterbody": "Saugatuck River, Upper",
@@ -4090,7 +4191,9 @@
         "Redding"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-08"
+      ]
     },
     {
       "waterbody": "Saugatuck River, W. Branch",
@@ -4098,7 +4201,9 @@
         "Wilton \u2013 Westport"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-08"
+      ]
     },
     {
       "waterbody": "Sawmill Brook",
@@ -4493,7 +4598,9 @@
         "Wallingford"
       ],
       "management_type": "TP",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-08"
+      ]
     },
     {
       "waterbody": "Whetstone Brook",
