@@ -1,9 +1,64 @@
 {
-  "report_date": "2026-04-08",
+  "report_date": "2026-04-09",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-04-09",
+      "locations": [
+        {
+          "waterbody": "Driscoll Pond (Phillips Pond)",
+          "towns": [
+            "Voluntown"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "McGovern Pond",
+          "towns": [
+            "West Hartford"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Pequonnock River (Beardsley Park)",
+          "towns": [
+            "Bridgeport"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Pequonnock River (Trumbull Basin) \u2013 TTA\nPermit required for non-residents to park in Trumbull Town parks. Please\ncall 203-452-5060 to make an appt with the P&R Dept. A valid Fishing\nLicense, Vehicle Registration, and ID are required.",
+          "towns": [
+            "Trumbull"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Pequonnock River, Open\nPermit required for non-residents to park in Trumbull Town parks. Please\ncall 203-452-5060 to make an appt with the P&R Dept. A valid Fishing\nLicense, Vehicle Registration, and ID are required.",
+          "towns": [
+            "Trumbull",
+            "Bridgeport"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Pequonnock River, W Branch",
+          "towns": [
+            "Monroe"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Stanley Quarter Park Pond",
+          "towns": [
+            "New Britain"
+          ],
+          "management_type": "CFW"
+        }
+      ]
+    },
     {
       "date": "2026-04-08",
       "locations": [
@@ -2628,7 +2683,9 @@
         "Voluntown"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-09"
+      ]
     },
     {
       "waterbody": "East Aspetuck River",
@@ -3351,7 +3408,9 @@
         "West Hartford"
       ],
       "management_type": "TP",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-09"
+      ]
     },
     {
       "waterbody": "Mianus River",
@@ -3809,7 +3868,9 @@
         "Bridgeport"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-09"
+      ]
     },
     {
       "waterbody": "Pequonnock River (Trumbull Basin) \u2013 TTA\nPermit required for non-residents to park in Trumbull Town parks. Please\ncall 203-452-5060 to make an appt with the P&R Dept. A valid Fishing\nLicense, Vehicle Registration, and ID are required.",
@@ -3817,7 +3878,9 @@
         "Trumbull"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-09"
+      ]
     },
     {
       "waterbody": "Pequonnock River, Open\nPermit required for non-residents to park in Trumbull Town parks. Please\ncall 203-452-5060 to make an appt with the P&R Dept. A valid Fishing\nLicense, Vehicle Registration, and ID are required.",
@@ -3826,7 +3889,9 @@
         "Bridgeport"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-09"
+      ]
     },
     {
       "waterbody": "Pequonnock River, W Branch",
@@ -3834,7 +3899,9 @@
         "Monroe"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-09"
+      ]
     },
     {
       "waterbody": "Pickett\u2019s Pond",
@@ -4358,7 +4425,9 @@
         "New Britain"
       ],
       "management_type": "CFW",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-09"
+      ]
     },
     {
       "waterbody": "Starret Pond (Huntington Pond)",
