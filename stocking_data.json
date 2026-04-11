@@ -1,9 +1,59 @@
 {
-  "report_date": "2026-04-09",
+  "report_date": "2026-04-10",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-04-10",
+      "locations": [
+        {
+          "waterbody": "Beaver Brook Park Ponds",
+          "towns": [
+            "Windham"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Black Pond",
+          "towns": [
+            "Woodstock"
+          ],
+          "management_type": "TML"
+        },
+        {
+          "waterbody": "Farmington River (Tarrifville)",
+          "towns": [
+            "Avon",
+            "Farmington",
+            "Simsbury"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Farmington River, West Branch (Hogback to WBR. TMA)",
+          "towns": [
+            "Hartland",
+            "Barkhamsted"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Keney Park Pond",
+          "towns": [
+            "Hartford"
+          ],
+          "management_type": "CFW"
+        },
+        {
+          "waterbody": "Sandy Brook",
+          "towns": [
+            "Colebrook"
+          ],
+          "management_type": null
+        }
+      ]
+    },
     {
       "date": "2026-04-09",
       "locations": [
@@ -1921,6 +1971,13 @@
             "Wolcott"
           ],
           "management_type": null
+        },
+        {
+          "waterbody": "Stillwater Pond",
+          "towns": [
+            "Torrington"
+          ],
+          "management_type": null
         }
       ]
     },
@@ -2278,7 +2335,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-05"
+        "2026-03-05",
+        "2026-04-10"
       ]
     },
     {
@@ -2369,7 +2427,8 @@
       ],
       "management_type": "TML",
       "stocked_dates": [
-        "2026-03-17"
+        "2026-03-17",
+        "2026-04-10"
       ]
     },
     {
@@ -2827,7 +2886,9 @@
         "Simsbury"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-10"
+      ]
     },
     {
       "waterbody": "Farmington River (RT 177 to RT 4)",
@@ -2861,7 +2922,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-12"
+        "2026-03-12",
+        "2026-04-10"
       ]
     },
     {
@@ -3214,7 +3276,9 @@
         "Hartford"
       ],
       "management_type": "CFW",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-10"
+      ]
     },
     {
       "waterbody": "Kent Falls Brook",
@@ -4214,7 +4278,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-27"
+        "2026-03-27",
+        "2026-04-10"
       ]
     },
     {
@@ -4476,7 +4541,9 @@
         "Torrington"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-03-06"
+      ]
     },
     {
       "waterbody": "Stony Brook",
