@@ -1,9 +1,218 @@
 {
-  "report_date": "2026-04-10",
+  "report_date": "2026-04-13",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-04-13",
+      "locations": [
+        {
+          "waterbody": "Farmington River, West Branch (W. Branch TMA)",
+          "towns": [
+            "Barkhamsted",
+            "New Hartford"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Hewitt Fly Pond",
+          "towns": [
+            "North Stonington"
+          ],
+          "management_type": "Fly fishing only"
+        },
+        {
+          "waterbody": "Indiantown Brook",
+          "towns": [
+            "Preston",
+            "Ledyard"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Moosup River (outside of TMA)",
+          "towns": [
+            "Sterling",
+            "Plainfield"
+          ],
+          "management_type": null
+        }
+      ]
+    },
+    {
+      "date": "2026-04-11",
+      "locations": [
+        {
+          "waterbody": "Black Rock Pond",
+          "towns": [
+            "Watertown"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Branch Brook",
+          "towns": [
+            "Watertown"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Branford Supply Ponds",
+          "towns": [
+            "Branford"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Chatfield Hollow Pond (Schreeder Pond)",
+          "towns": [
+            "Killingworth"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Chatfield Hollow Brook",
+          "towns": [
+            "Killingworth"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Day Pond",
+          "towns": [
+            "Colchester"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Eightmile River",
+          "towns": [
+            "Salem",
+            "East Haddam",
+            "Lyme"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Great Hollow Lake at Wolfe Park",
+          "towns": [
+            "Monroe"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Hopeville Pond",
+          "towns": [
+            "Griswold",
+            "Voluntown"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Kent Falls Brook",
+          "towns": [
+            "Kent"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Macedonia Brook (State Park)",
+          "towns": [
+            "Kent"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Mashamoquet Brook",
+          "towns": [
+            "Pomfret"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "McGovern Pond",
+          "towns": [
+            "West Hartford"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Mohegan Park Pond",
+          "towns": [
+            "Norwich"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Natchaug River",
+          "towns": [
+            "Eastford",
+            "Chaplin",
+            "Windham"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Natchaug River- TP",
+          "towns": [
+            "Eastford"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Pasture Pond",
+          "towns": [
+            "Plainfield"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Pequonnock River, Open\nPermit required for non-residents to park in Trumbull Town parks. Please\ncall 203-452-5060 to make an appt with the P&R Dept. A valid Fishing\nLicense, Vehicle Registration, and ID are required.",
+          "towns": [
+            "Trumbull",
+            "Bridgeport"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Sawmill Pond",
+          "towns": [
+            "Ledyard"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Southford Falls Pond",
+          "towns": [
+            "Oxford",
+            "Southbury"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Stratton Brook Park Pond",
+          "towns": [
+            "Simsbury"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Valley Falls Park Pond",
+          "towns": [
+            "Vernon"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Wharton Brook Pond",
+          "towns": [
+            "Wallingford"
+          ],
+          "management_type": "TP"
+        }
+      ]
+    },
     {
       "date": "2026-04-10",
       "locations": [
@@ -2448,7 +2657,8 @@
       ],
       "management_type": "TP",
       "stocked_dates": [
-        "2026-03-25"
+        "2026-03-25",
+        "2026-04-11"
       ]
     },
     {
@@ -2500,7 +2710,8 @@
       ],
       "management_type": "TP",
       "stocked_dates": [
-        "2026-03-25"
+        "2026-03-25",
+        "2026-04-11"
       ]
     },
     {
@@ -2520,7 +2731,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-17"
+        "2026-03-17",
+        "2026-04-11"
       ]
     },
     {
@@ -2621,7 +2833,8 @@
       ],
       "management_type": "TP",
       "stocked_dates": [
-        "2026-04-02"
+        "2026-04-02",
+        "2026-04-11"
       ]
     },
     {
@@ -2631,7 +2844,8 @@
       ],
       "management_type": "TP",
       "stocked_dates": [
-        "2026-04-02"
+        "2026-04-02",
+        "2026-04-11"
       ]
     },
     {
@@ -2723,7 +2937,8 @@
       ],
       "management_type": "TP",
       "stocked_dates": [
-        "2026-04-06"
+        "2026-04-06",
+        "2026-04-11"
       ]
     },
     {
@@ -2789,7 +3004,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-04-08"
+        "2026-04-08",
+        "2026-04-11"
       ]
     },
     {
@@ -2933,7 +3149,9 @@
         "New Hartford"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-13"
+      ]
     },
     {
       "waterbody": "Fenton River- WTMA Class 3",
@@ -3036,7 +3254,8 @@
       ],
       "management_type": "TP",
       "stocked_dates": [
-        "2026-03-16"
+        "2026-03-16",
+        "2026-04-11"
       ]
     },
     {
@@ -3120,7 +3339,8 @@
       ],
       "management_type": "Fly fishing only",
       "stocked_dates": [
-        "2026-03-17"
+        "2026-03-17",
+        "2026-04-13"
       ]
     },
     {
@@ -3196,7 +3416,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-11"
       ]
     },
     {
@@ -3246,7 +3467,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-19"
+        "2026-03-19",
+        "2026-04-13"
       ]
     },
     {
@@ -3287,7 +3509,8 @@
       ],
       "management_type": "TP",
       "stocked_dates": [
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-11"
       ]
     },
     {
@@ -3412,7 +3635,8 @@
       ],
       "management_type": "TP",
       "stocked_dates": [
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-11"
       ]
     },
     {
@@ -3453,7 +3677,8 @@
       ],
       "management_type": "TP",
       "stocked_dates": [
-        "2026-04-02"
+        "2026-04-02",
+        "2026-04-11"
       ]
     },
     {
@@ -3473,7 +3698,8 @@
       ],
       "management_type": "TP",
       "stocked_dates": [
-        "2026-04-09"
+        "2026-04-09",
+        "2026-04-11"
       ]
     },
     {
@@ -3609,7 +3835,8 @@
       ],
       "management_type": "TP",
       "stocked_dates": [
-        "2026-04-02"
+        "2026-04-02",
+        "2026-04-11"
       ]
     },
     {
@@ -3641,7 +3868,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-30"
+        "2026-03-30",
+        "2026-04-13"
       ]
     },
     {
@@ -3717,7 +3945,8 @@
       ],
       "management_type": "TTA",
       "stocked_dates": [
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-11"
       ]
     },
     {
@@ -3727,7 +3956,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-11"
       ]
     },
     {
@@ -3883,7 +4113,8 @@
       ],
       "management_type": "TP",
       "stocked_dates": [
-        "2026-04-01"
+        "2026-04-01",
+        "2026-04-11"
       ]
     },
     {
@@ -3954,7 +4185,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-04-09"
+        "2026-04-09",
+        "2026-04-11"
       ]
     },
     {
@@ -4354,7 +4586,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-04-01"
+        "2026-04-01",
+        "2026-04-11"
       ]
     },
     {
@@ -4470,7 +4703,8 @@
       "management_type": "TP",
       "stocked_dates": [
         "2026-03-18",
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-11"
       ]
     },
     {
@@ -4562,7 +4796,8 @@
       ],
       "management_type": "TP",
       "stocked_dates": [
-        "2026-04-06"
+        "2026-04-06",
+        "2026-04-11"
       ]
     },
     {
@@ -4652,7 +4887,8 @@
       ],
       "management_type": "TP",
       "stocked_dates": [
-        "2026-04-02"
+        "2026-04-02",
+        "2026-04-11"
       ]
     },
     {
@@ -4735,7 +4971,8 @@
       ],
       "management_type": "TP",
       "stocked_dates": [
-        "2026-04-08"
+        "2026-04-08",
+        "2026-04-11"
       ]
     },
     {
