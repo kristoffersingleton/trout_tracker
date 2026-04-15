@@ -1,9 +1,74 @@
 {
-  "report_date": "2026-04-13",
+  "report_date": "2026-04-14",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-04-14",
+      "locations": [
+        {
+          "waterbody": "Bigelow Brook (outside State Park)",
+          "towns": [
+            "Union"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Bigelow Pond",
+          "towns": [
+            "Union"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Farmington River, West Branch (W. Branch TMA)",
+          "towns": [
+            "Barkhamsted",
+            "New Hartford"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Fenton River- WTMA Class 3",
+          "towns": [
+            "Mansfield",
+            "Willington"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Mohawk Pond",
+          "towns": [
+            "Cornwall",
+            "Goshen"
+          ],
+          "management_type": "TML"
+        },
+        {
+          "waterbody": "Mount Hope River",
+          "towns": [
+            "Ashford",
+            "Mansfield"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Pequonnock River (Trumbull Basin) \u2013 TTA\nPermit required for non-residents to park in Trumbull Town parks. Please\ncall 203-452-5060 to make an appt with the P&R Dept. A valid Fishing\nLicense, Vehicle Registration, and ID are required.",
+          "towns": [
+            "Trumbull"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Walkers Reservoir",
+          "towns": [
+            "Vernon"
+          ],
+          "management_type": null
+        }
+      ]
+    },
     {
       "date": "2026-04-13",
       "locations": [
@@ -2585,7 +2650,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-24"
+        "2026-03-24",
+        "2026-04-14"
       ]
     },
     {
@@ -2595,7 +2661,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-09"
+        "2026-03-09",
+        "2026-04-14"
       ]
     },
     {
@@ -3150,7 +3217,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ]
     },
     {
@@ -3161,7 +3229,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-26"
+        "2026-03-26",
+        "2026-04-14"
       ]
     },
     {
@@ -3815,7 +3884,8 @@
       ],
       "management_type": "TML",
       "stocked_dates": [
-        "2026-03-17"
+        "2026-03-17",
+        "2026-04-14"
       ]
     },
     {
@@ -3891,7 +3961,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-30"
+        "2026-03-30",
+        "2026-04-14"
       ]
     },
     {
@@ -4174,7 +4245,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-04-09"
+        "2026-04-09",
+        "2026-04-14"
       ]
     },
     {
@@ -4898,7 +4970,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-05"
+        "2026-03-05",
+        "2026-04-14"
       ]
     },
     {
