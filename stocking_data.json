@@ -1,9 +1,123 @@
 {
-  "report_date": "2026-04-14",
+  "report_date": "2026-04-15",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-04-15",
+      "locations": [
+        {
+          "waterbody": "Angus Park Pond (aka Eastbury Pond)",
+          "towns": [
+            "Glastonbury"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Coginchaug River",
+          "towns": [
+            "Durham",
+            "Middlefield"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Colebrook River Lake",
+          "towns": [
+            "Colebrook"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Lake McDonough",
+          "towns": [
+            "Barkhamsted",
+            "New Hartford"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Lake Saltonstall",
+          "towns": [
+            "Branford",
+            "East Haven"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Naugatuck River",
+          "towns": [
+            "Harwinton",
+            "Litchfield"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Naugatuck River (Lower)",
+          "towns": [
+            "Waterbury \u2013 Beacon Falls"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Pond Brook",
+          "towns": [
+            "Newtown"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Pootatuck River (Lower)",
+          "towns": [
+            "Newtown"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Quonnipaug Lake",
+          "towns": [
+            "Guilford"
+          ],
+          "management_type": "TML"
+        },
+        {
+          "waterbody": "Reservoir Brook",
+          "towns": [
+            "Portland"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Roaring Brook",
+          "towns": [
+            "Glastonbury"
+          ],
+          "management_type": "WTMA 3"
+        },
+        {
+          "waterbody": "Salmon Brook Pond",
+          "towns": [
+            "Glastonbury"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Starret Pond (Huntington Pond)",
+          "towns": [
+            "Redding"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Uncas Lake",
+          "towns": [
+            "Lyme"
+          ],
+          "management_type": null
+        }
+      ]
+    },
     {
       "date": "2026-04-14",
       "locations": [
@@ -2476,7 +2590,8 @@
       "management_type": null,
       "stocked_dates": [
         "2026-03-20",
-        "2026-04-02"
+        "2026-04-02",
+        "2026-04-15"
       ]
     },
     {
@@ -2943,7 +3058,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-24"
+        "2026-03-24",
+        "2026-04-15"
       ]
     },
     {
@@ -2953,7 +3069,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-16"
+        "2026-03-16",
+        "2026-04-15"
       ]
     },
     {
@@ -3600,7 +3717,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-05"
+        "2026-03-05",
+        "2026-04-15"
       ]
     },
     {
@@ -3611,7 +3729,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-17"
+        "2026-03-17",
+        "2026-04-15"
       ]
     },
     {
@@ -4040,7 +4159,8 @@
       "management_type": "TMA",
       "stocked_dates": [
         "2026-03-25",
-        "2026-04-03"
+        "2026-04-03",
+        "2026-04-15"
       ]
     },
     {
@@ -4050,7 +4170,8 @@
       ],
       "management_type": "TTA",
       "stocked_dates": [
-        "2026-03-26"
+        "2026-03-26",
+        "2026-04-15"
       ]
     },
     {
@@ -4309,7 +4430,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-11"
+        "2026-03-11",
+        "2026-04-15"
       ]
     },
     {
@@ -4329,7 +4451,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-11"
+        "2026-03-11",
+        "2026-04-15"
       ]
     },
     {
@@ -4426,7 +4549,8 @@
       "management_type": "TML",
       "stocked_dates": [
         "2026-03-02",
-        "2026-03-11"
+        "2026-03-11",
+        "2026-04-15"
       ]
     },
     {
@@ -4436,7 +4560,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-24"
+        "2026-03-24",
+        "2026-04-15"
       ]
     },
     {
@@ -4456,7 +4581,8 @@
       ],
       "management_type": "WTMA 3",
       "stocked_dates": [
-        "2026-03-24"
+        "2026-03-24",
+        "2026-04-15"
       ]
     },
     {
@@ -4529,7 +4655,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-24"
+        "2026-03-24",
+        "2026-04-15"
       ]
     },
     {
@@ -4807,7 +4934,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-18"
+        "2026-03-18",
+        "2026-04-15"
       ]
     },
     {
@@ -4939,7 +5067,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-12"
+        "2026-03-12",
+        "2026-04-15"
       ]
     },
     {
