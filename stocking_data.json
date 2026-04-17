@@ -1,9 +1,127 @@
 {
-  "report_date": "2026-04-15",
+  "report_date": "2026-04-16",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-04-16",
+      "locations": [
+        {
+          "waterbody": "Ball Pond",
+          "towns": [
+            "New Fairfield"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Beaver Brook (including ponds)",
+          "towns": [
+            "Franklin"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Beaver Park Pond (North Side Pond)",
+          "towns": [
+            "New Haven"
+          ],
+          "management_type": "CFW"
+        },
+        {
+          "waterbody": "Branford River",
+          "towns": [
+            "Branford"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Broad Brook Mill Pond",
+          "towns": [
+            "East Windsor"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Bunnells Pond (Beardsley Park Pond)",
+          "towns": [
+            "Bridgeport"
+          ],
+          "management_type": "CFW"
+        },
+        {
+          "waterbody": "Day Pond",
+          "towns": [
+            "Colchester"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Farm River (lower section)",
+          "towns": [
+            "East Haven"
+          ],
+          "management_type": "WTMA Class 3"
+        },
+        {
+          "waterbody": "Farm River (upper section)",
+          "towns": [
+            "North Branford"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Hop Brook",
+          "towns": [
+            "Middlebury"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Hop Brook Impoundment",
+          "towns": [
+            "Middlebury",
+            "Waterbury"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Mohegan Lake",
+          "towns": [
+            "Fairfield"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Rowan\u2019s Pond (Butternut Park Pond)",
+          "towns": [
+            "Middletown"
+          ],
+          "management_type": "CFW"
+        },
+        {
+          "waterbody": "Scantic River (lower)",
+          "towns": [
+            "East Windsor"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Valley Falls Park Pond",
+          "towns": [
+            "Vernon"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Yantic River- TMA",
+          "towns": [
+            "Bozrah"
+          ],
+          "management_type": null
+        }
+      ]
+    },
     {
       "date": "2026-04-15",
       "locations": [
@@ -2623,7 +2741,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-05"
+        "2026-03-05",
+        "2026-04-16"
       ]
     },
     {
@@ -2714,7 +2833,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-12"
+        "2026-03-12",
+        "2026-04-16"
       ]
     },
     {
@@ -2735,7 +2855,8 @@
       ],
       "management_type": "CFW",
       "stocked_dates": [
-        "2026-03-19"
+        "2026-03-19",
+        "2026-04-16"
       ]
     },
     {
@@ -2903,7 +3024,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-23"
+        "2026-03-23",
+        "2026-04-16"
       ]
     },
     {
@@ -2934,7 +3056,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-05"
+        "2026-03-05",
+        "2026-04-16"
       ]
     },
     {
@@ -2954,7 +3077,8 @@
       ],
       "management_type": "CFW",
       "stocked_dates": [
-        "2026-03-18"
+        "2026-03-18",
+        "2026-04-16"
       ]
     },
     {
@@ -3122,7 +3246,8 @@
       "management_type": "TP",
       "stocked_dates": [
         "2026-04-06",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-16"
       ]
     },
     {
@@ -3242,7 +3367,8 @@
       ],
       "management_type": "WTMA Class 3",
       "stocked_dates": [
-        "2026-03-23"
+        "2026-03-23",
+        "2026-04-16"
       ]
     },
     {
@@ -3252,7 +3378,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-23"
+        "2026-03-23",
+        "2026-04-16"
       ]
     },
     {
@@ -3568,7 +3695,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-24"
+        "2026-03-24",
+        "2026-04-16"
       ]
     },
     {
@@ -3579,7 +3707,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-24"
+        "2026-03-24",
+        "2026-04-16"
       ]
     },
     {
@@ -4014,7 +4143,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-10"
+        "2026-03-10",
+        "2026-04-16"
       ]
     },
     {
@@ -4635,7 +4765,8 @@
       ],
       "management_type": "CFW",
       "stocked_dates": [
-        "2026-03-19"
+        "2026-03-19",
+        "2026-04-16"
       ]
     },
     {
@@ -4796,7 +4927,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-31"
+        "2026-03-31",
+        "2026-04-16"
       ]
     },
     {
@@ -5089,7 +5221,8 @@
       "management_type": "TP",
       "stocked_dates": [
         "2026-04-02",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-16"
       ]
     },
     {
@@ -5257,7 +5390,8 @@
       "management_type": null,
       "stocked_dates": [
         "2026-03-11",
-        "2026-04-01"
+        "2026-04-01",
+        "2026-04-16"
       ]
     }
   ]
