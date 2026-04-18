@@ -1,9 +1,132 @@
 {
-  "report_date": "2026-04-16",
+  "report_date": "2026-04-17",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-04-17",
+      "locations": [
+        {
+          "waterbody": "Birge Pond",
+          "towns": [
+            "Bristol"
+          ],
+          "management_type": "CFW"
+        },
+        {
+          "waterbody": "Blackberry River",
+          "towns": [
+            "Canaan",
+            "Norfolk"
+          ],
+          "management_type": "WTMA class 3 (and Open)"
+        },
+        {
+          "waterbody": "Chatfield Hollow Pond (Schreeder Pond)",
+          "towns": [
+            "Killingworth"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Chatfield Hollow Brook",
+          "towns": [
+            "Killingworth"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Colony Park Pond",
+          "towns": [
+            "Ansonia"
+          ],
+          "management_type": "CFW"
+        },
+        {
+          "waterbody": "Fountain Lake",
+          "towns": [
+            "Ansonia"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Hall Meadow Brook",
+          "towns": [
+            "Torrington"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Hop River",
+          "towns": [
+            "Bolton",
+            "Coventry",
+            "Andover"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Jeremy River",
+          "towns": [
+            "Colchester",
+            "Hebron"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Mashamoquet Brook",
+          "towns": [
+            "Pomfret"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Naugatuck River, E. Branch",
+          "towns": [
+            "Torrington",
+            "Winchester"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Naugatuck River, W. Branch",
+          "towns": [
+            "Torrington"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Nells Rock Reservoir",
+          "towns": [
+            "Shelton"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Pasture Pond",
+          "towns": [
+            "Plainfield"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Skungamaug River",
+          "towns": [
+            "Coventry",
+            "Tolland"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Wononskopomuc Lake",
+          "towns": [
+            "Salisbury"
+          ],
+          "management_type": "TML"
+        }
+      ]
+    },
     {
       "date": "2026-04-16",
       "locations": [
@@ -2918,7 +3041,8 @@
       ],
       "management_type": "CFW",
       "stocked_dates": [
-        "2026-03-27"
+        "2026-03-27",
+        "2026-04-17"
       ]
     },
     {
@@ -2972,7 +3096,8 @@
       ],
       "management_type": "WTMA class 3 (and Open)",
       "stocked_dates": [
-        "2026-03-23"
+        "2026-03-23",
+        "2026-04-17"
       ]
     },
     {
@@ -3140,7 +3265,8 @@
       "management_type": "TP",
       "stocked_dates": [
         "2026-04-02",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-17"
       ]
     },
     {
@@ -3151,7 +3277,8 @@
       "management_type": "TP",
       "stocked_dates": [
         "2026-04-02",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-17"
       ]
     },
     {
@@ -3204,7 +3331,8 @@
       ],
       "management_type": "CFW",
       "stocked_dates": [
-        "2026-03-19"
+        "2026-03-19",
+        "2026-04-17"
       ]
     },
     {
@@ -3506,7 +3634,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-10"
+        "2026-03-10",
+        "2026-04-17"
       ]
     },
     {
@@ -3598,7 +3727,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-31"
+        "2026-03-31",
+        "2026-04-17"
       ]
     },
     {
@@ -3720,7 +3850,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-26"
+        "2026-03-26",
+        "2026-04-17"
       ]
     },
     {
@@ -3794,7 +3925,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-20"
+        "2026-03-20",
+        "2026-04-17"
       ]
     },
     {
@@ -3995,7 +4127,8 @@
       "management_type": "TP",
       "stocked_dates": [
         "2026-04-02",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-17"
       ]
     },
     {
@@ -4334,7 +4467,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-20"
+        "2026-03-20",
+        "2026-04-17"
       ]
     },
     {
@@ -4344,7 +4478,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-20"
+        "2026-03-20",
+        "2026-04-17"
       ]
     },
     {
@@ -4353,7 +4488,9 @@
         "Shelton"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-17"
+      ]
     },
     {
       "waterbody": "Nepaug River",
@@ -4436,7 +4573,8 @@
       "management_type": "TP",
       "stocked_dates": [
         "2026-04-01",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-17"
       ]
     },
     {
@@ -5002,7 +5140,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-23"
+        "2026-03-23",
+        "2026-04-17"
       ]
     },
     {
@@ -5359,7 +5498,9 @@
         "Salisbury"
       ],
       "management_type": "TML",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-17"
+      ]
     },
     {
       "waterbody": "Wyassup Lake",
