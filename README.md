@@ -1,179 +1,81 @@
 # CT Trout Stocking Finder
 
-Find the closest recently stocked trout fishing locations in Connecticut based on CT DEEP Fisheries Division stocking reports.
+**[🗺️ Open the Live Map →](https://kristoffersingleton.github.io/trout_tracker/)**
 
-## How It Works
+Find the closest recently stocked trout fishing locations in Connecticut, updated daily from CT DEEP Fisheries Division stocking reports.
 
-```
-CT DEEP PDF Report
-      │
-      ▼
- stocking_data.json  ◄──  ct_town_coords.json
-      │                         │
-      │    (haversine distance)  │
-      ▼                         ▼
- find_stocked.py ──────── town coordinates
-      │
-      ├──► find_stocked.sh   (prints + copies to clipboard)
-      │
- map_stocked.py  ──────── Google Maps URLs
-      │
-      ├── compact view (default)
-      ├── --md   markdown table
-      └── --links  links only
+## Features
 
- generate_kml.py ──────── trout_stocking.kml
-                               │
-                               ▼
-                       Google My Maps import
-                    (green/blue/orange/yellow pins)
-```
-
-## Setup
-
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-```
-
-Then set your home location:
-
-```bash
-cp config.example.yaml config.yaml
-# edit config.yaml with your coordinates
-git update-index --skip-worktree config.yaml  # prevent personal info from being committed
-```
-
-## Quick Start
-
-```bash
-# Show closest stocked locations + copy to clipboard (WSL2)
-./find_stocked.sh
-
-# Compact view with Google Maps links
-python3 map_stocked.py
-
-# Detailed view sorted by distance
-python3 find_stocked.py
-
-# All recently stocked locations by date
-python3 find_stocked.py --all
-
-# Search locations near a specific town
-python3 find_stocked.py --town Danbury
-```
-
-## Sample Output
-
-```
-======================================================================
-CLOSEST RECENTLY STOCKED LOCATIONS
-From: Redding, CT  |  Report Date: 2026-03-05
-🔥 Hot (0-2d)  ✓ Fresh (3-5d)  ⏳ Aging (6+d)
-======================================================================
-
-   Waterbody                        Town              Miles   Days  Tier
-   -------------------------------- ---------------- ------  ----  -----
-🔥  Ball Pond                        New Fairfield     12.4     0d  HOT
-✓   Squantz Pond [TML]               New Fairfield     16.1     1d  FRESH
-⏳  Quonnipaug Lake [TML]            Guilford          36.4     6d  AGING
-
-* Catch & Release until April 11, 2026 at 6:00 AM
-* TML = Trout Management Lake (1 trout/day limit)
-```
+- Interactive Leaflet map with color-coded freshness markers
+- Sortable table by distance, days since stocking, or tier
+- Browser geolocation — distances recalculate from your actual position
+- Filter by tier (Hot / Fresh / Aging / Scheduled) and distance radius
+- Google Maps links for every location
+- Auto-updated daily via GitHub Actions
 
 ## Recency Tiers
 
-| Symbol | Tier | Days Since Stocking | Meaning |
-|--------|------|--------------------:|---------|
-| 🔥 | Hot | 0–2 days | Just stocked, best chance |
-| ✓ | Fresh | 3–5 days | Still good |
-| ⏳ | Aging | 6+ days | May be fished out |
+| Tier | Days Since Stocking | Meaning |
+|------|--------------------:|---------|
+| 🔥 Hot | 0–2 days | Just stocked, best chance |
+| ✓ Fresh | 3–5 days | Still good |
+| ⏳ Aging | 6+ days | May be fished out |
+| — Scheduled | not yet | On the list, not stocked yet |
 
-## Scripts
+## Local Scripts
 
-| File | Description |
-|------|-------------|
-| `find_stocked.sh` | Runs `find_stocked.py`, displays output, and copies to clipboard |
-| `find_stocked.py` | Detailed table with distance, days, and recency tier |
-| `map_stocked.py` | Compact view with Google Maps links |
-| `generate_kml.py` | Generates `trout_stocking.kml` for Google Maps/Earth import |
+```bash
+python3 map_stocked.py      # Compact view with Google Maps links
+python3 find_stocked.py     # Detailed table with distance and tier
+python3 generate_kml.py     # Creates trout_stocking.kml for Google Maps import
+python3 generate_html.py    # Regenerates docs/index.html
+```
 
-## Data Files
+## Updating Stocking Data
 
-| File | Description |
-|------|-------------|
-| `stocking_data.json` | Parsed stocking data with dates and locations |
-| `ct_town_coords.json` | Coordinates for 120+ Connecticut towns |
-| `trout_stocking.kml` | Generated KML for map import |
-| `pdf/` | Directory for downloaded CT DEEP stocking report PDFs |
+Data updates automatically each morning via GitHub Actions. To update manually:
+
+```bash
+DATE=$(date +%Y-%m-%d)
+curl -o "pdf/${DATE}-CurrentStockingReport.pdf" \
+  "https://portal.ct.gov/-/media/DEEP/fishing/weekly_reports/CurrentStockingReport.pdf"
+python3 parse_pdf.py
+python3 generate_html.py
+```
 
 ## Configuration
 
-Edit `HOME_LOCATION` at the top of any script to change your home location:
+Home location defaults to Redding, CT. Edit `HOME_LOCATION` in `config.py`:
 
 ```python
 HOME_LOCATION = {"lat": 41.3034, "lon": -73.3832, "name": "Redding"}
 ```
 
-## map_stocked.py Options
+## Project Structure
 
-```bash
-python3 map_stocked.py           # Compact view with map links
-python3 map_stocked.py --md      # Markdown table (for notes/docs)
-python3 map_stocked.py --links   # Links only (minimal)
-```
-
-## Google Maps / KML Integration
-
-Generate a KML file to import all locations into Google My Maps:
-
-```bash
-python3 generate_kml.py
-# Creates trout_stocking.kml
-```
-
-KML pin colors:
-- **Green** - Hot (0–2 days)
-- **Blue** - Fresh (3–5 days)
-- **Orange** - Aging (6+ days)
-- **Yellow** - Scheduled, not yet stocked
-- **Red star** - Your home location
-
-Import steps:
-1. Go to [Google My Maps](https://www.google.com/maps/d/)
-2. Create new map → Import → Select `trout_stocking.kml`
-3. Save to access from the Google Maps app on your phone
-
-## Updating Stocking Data
-
-1. Download the latest stocking report PDF from [CT DEEP Fisheries](https://portal.ct.gov/DEEP/Fishing/Freshwater/Freshwater-Fishing)
-2. Save it to the `pdf/` directory
-3. Parse the PDF to update `stocking_data.json`
+| File | Description |
+|------|-------------|
+| `parse_pdf.py` | Parses CT DEEP PDF → `stocking_data.json` |
+| `generate_html.py` | Builds `docs/index.html` (the live map) |
+| `generate_kml.py` | Generates KML for Google Maps/Earth import |
+| `find_stocked.py` | CLI: detailed table with distance and tier |
+| `map_stocked.py` | CLI: compact view with Google Maps links |
+| `stocking_data.json` | Parsed stocking data with dates and locations |
+| `ct_town_coords.json` | Coordinates for 120+ Connecticut towns |
+| `pdf/` | Downloaded CT DEEP stocking report PDFs |
+| `docs/` | Generated static site (served via GitHub Pages) |
 
 ## Management Type Abbreviations
 
-| Code | Meaning | Notes |
-|------|---------|-------|
-| TML | Trout Management Lake | 1 trout/day limit |
-| TMA | Trout Management Area | Special regulations apply |
-| TTA | Trophy Trout Area | Larger fish, special regs |
-| TP | Trout Park | Family-friendly locations |
-| WTMA | Wild Trout Management Area | Catch and release encouraged |
-| CFW | Community Fishing Waters | Urban/accessible locations |
-
-## Regulations Reminder
-
-- **Catch and Release Season**: March 1 – April 11 (6:00 AM)
-- All trout must be released without avoidable injury during this period
-- Exceptions: TML (1/day), Sea Run streams (2/day, 15" min), Tidal Waters
+| Code | Meaning |
+|------|---------|
+| TML | Trout Management Lake — 1 trout/day limit |
+| TMA | Trout Management Area — special regulations |
+| TTA | Trophy Trout Area — larger fish, special regs |
+| TP | Trout Park — family-friendly |
+| CFW | Community Fishing Waters — urban/accessible |
 
 ## Data Source
 
-CT DEEP Fisheries Division Spring 2026 Stocking Reports.
-
-- Website: [CT DEEP Fishing](https://portal.ct.gov/DEEP/Fishing)
-- Facebook: [CTFishandWildlife](https://www.facebook.com/CTFishandWildlife)
-- Instagram: [@ctfishandwildlife](https://www.instagram.com/ctfishandwildlife)
-- Interactive Map: [CT DEEP Stocking Map](https://portal.ct.gov/DEEP/Fishing/Freshwater/Trout-Stocking-Report)
+[CT DEEP Fisheries Division](https://portal.ct.gov/DEEP/Fishing) Spring 2026 Stocking Reports  
+Follow [@ctfishandwildlife](https://www.instagram.com/ctfishandwildlife) for updates
