@@ -1,9 +1,60 @@
 {
-  "report_date": "2026-04-17",
+  "report_date": "2026-04-20",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-04-20",
+      "locations": [
+        {
+          "waterbody": "Green Falls Reservoir",
+          "towns": [
+            "Voluntown"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Housatonic River (Upper TMA)",
+          "towns": [
+            "Cornwall",
+            "Sharon"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Mount Misery Brook",
+          "towns": [
+            "Voluntown"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Myron Kinnie Brook",
+          "towns": [
+            "Voluntown"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Quinnipiac River",
+          "towns": [
+            "Cheshire",
+            "Meriden",
+            "Wallingford",
+            "North Haven"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Stanley Quarter Park Pond",
+          "towns": [
+            "New Britain"
+          ],
+          "management_type": "CFW"
+        }
+      ]
+    },
     {
       "date": "2026-04-17",
       "locations": [
@@ -3707,7 +3758,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-04-08"
+        "2026-04-08",
+        "2026-04-20"
       ]
     },
     {
@@ -3893,7 +3945,9 @@
         "Sharon"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-20"
+      ]
     },
     {
       "waterbody": "Howells Pond",
@@ -4354,7 +4408,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-20"
       ]
     },
     {
@@ -4386,7 +4441,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-19"
+        "2026-03-19",
+        "2026-04-20"
       ]
     },
     {
@@ -4806,7 +4862,8 @@
       "management_type": null,
       "stocked_dates": [
         "2026-03-19",
-        "2026-03-24"
+        "2026-03-24",
+        "2026-04-20"
       ]
     },
     {
@@ -5195,7 +5252,8 @@
       ],
       "management_type": "CFW",
       "stocked_dates": [
-        "2026-04-09"
+        "2026-04-09",
+        "2026-04-20"
       ]
     },
     {
