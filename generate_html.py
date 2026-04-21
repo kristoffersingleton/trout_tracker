@@ -125,6 +125,8 @@ def generate():
   header p {{ font-size: 0.75rem; color: #94a3b8; margin-top: 2px; }}
   .ig-link {{ color: #e1306c; text-decoration: none; font-weight: 600; }}
   .ig-link:hover {{ text-decoration: underline; }}
+  .amzn-link {{ color: #ff9900; text-decoration: none; font-weight: 600; }}
+  .amzn-link:hover {{ text-decoration: underline; }}
   .kofi-link {{ color: #ff5e5b; text-decoration: none; font-weight: 600; }}
   .kofi-link:hover {{ text-decoration: underline; }}
   footer {{ padding: 14px 16px; background: #1e293b; border-top: 1px solid #334155; text-align: center; font-size: 0.75rem; color: #64748b; }}
@@ -185,6 +187,7 @@ def generate():
 <header>
   <h1>CT Trout Stocking &nbsp;<a class="ig-link" href="https://www.instagram.com/uncleconntucky" target="_blank">@uncleconntucky</a></h1>
   <p>Report: {report_date} &nbsp;·&nbsp; C&R until {catch_release} &nbsp;·&nbsp; <span id="loc-label">From {HOME_LOCATION['name']}</span> &nbsp;·&nbsp; Updated: {generated_at}</p>
+  <p><a class="amzn-link" href="https://amzn.to/4vHrRb9" target="_blank">🛒 Buy cool stuff on Amazon</a></p>
 </header>
 
 <div id="map"></div>
