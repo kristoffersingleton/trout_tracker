@@ -1,9 +1,61 @@
 {
-  "report_date": "2026-04-20",
+  "report_date": "2026-04-21",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-04-21",
+      "locations": [
+        {
+          "waterbody": "Freshwater Pond",
+          "towns": [
+            "Enfield"
+          ],
+          "management_type": "CFW"
+        },
+        {
+          "waterbody": "Housatonic River (Bull\u2019s Bridge TMA)",
+          "towns": [
+            "Kent",
+            "Sherman",
+            "New Milford"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Mohegan Park Pond",
+          "towns": [
+            "Norwich"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Quinebaug River",
+          "towns": [
+            "Griswold",
+            "Lisbon",
+            "Preston"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Saint Martha\u2019s Pond",
+          "towns": [
+            "Enfield"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Scantic River (upper)",
+          "towns": [
+            "Somers",
+            "Enfield"
+          ],
+          "management_type": null
+        }
+      ]
+    },
     {
       "date": "2026-04-20",
       "locations": [
@@ -3696,7 +3748,8 @@
       ],
       "management_type": "CFW",
       "stocked_dates": [
-        "2026-03-16"
+        "2026-03-16",
+        "2026-04-21"
       ]
     },
     {
@@ -3936,7 +3989,9 @@
         "New Milford"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-21"
+      ]
     },
     {
       "waterbody": "Housatonic River (Upper TMA)",
@@ -4342,7 +4397,8 @@
       "management_type": "TP",
       "stocked_dates": [
         "2026-04-02",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-21"
       ]
     },
     {
@@ -4848,7 +4904,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-30"
+        "2026-03-30",
+        "2026-04-21"
       ]
     },
     {
@@ -4971,7 +5028,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-31"
+        "2026-03-31",
+        "2026-04-21"
       ]
     },
     {
@@ -5134,7 +5192,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-31"
+        "2026-03-31",
+        "2026-04-21"
       ]
     },
     {
