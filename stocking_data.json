@@ -1,9 +1,215 @@
 {
-  "report_date": "2026-04-21",
+  "report_date": "2026-04-23",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-04-23",
+      "locations": [
+        {
+          "waterbody": "Black Rock Lake",
+          "towns": [
+            "Thomaston"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Black Rock Pond",
+          "towns": [
+            "Watertown"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Branch Brook",
+          "towns": [
+            "Watertown"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Eightmile River",
+          "towns": [
+            "Salem",
+            "East Haddam",
+            "Lyme"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Eightmile River, East Branch",
+          "towns": [
+            "Salem",
+            "Lyme"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Farmington River",
+          "towns": [
+            "Avon",
+            "Canton",
+            "Unionville"
+          ],
+          "management_type": "TMA (Lower Collinsville to RT 177 )"
+        },
+        {
+          "waterbody": "Farmington River (Tarrifville)",
+          "towns": [
+            "Avon",
+            "Farmington",
+            "Simsbury"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Farmington River (RT 177 to RT 4)",
+          "towns": [
+            "Avon",
+            "Farmington",
+            "Unionville"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Hammonasset River",
+          "towns": [
+            "Clinton",
+            "Madison",
+            "Killingworth"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Hammonasset River",
+          "towns": [
+            "Madison",
+            "Killingworth"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "McGovern Pond",
+          "towns": [
+            "West Hartford"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Natchaug River",
+          "towns": [
+            "Eastford",
+            "Chaplin",
+            "Windham"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Natchaug River- TP",
+          "towns": [
+            "Eastford"
+          ],
+          "management_type": null
+        }
+      ]
+    },
+    {
+      "date": "2026-04-22",
+      "locations": [
+        {
+          "waterbody": "Blackledge River (lower section)",
+          "towns": [
+            "Marlborough"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Eightmile Brook (Southford Falls State Park)- TP",
+          "towns": [
+            "Oxford",
+            "Southbury"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Great Hollow Lake at Wolfe Park",
+          "towns": [
+            "Monroe"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Mill River (Sleeping Giant State Park)",
+          "towns": [
+            "Hamden"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Salmon River",
+          "towns": [
+            "Colchester",
+            "East Hampton"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Salmon River",
+          "towns": [
+            "Colchester"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Shetucket River",
+          "towns": [
+            "Windham",
+            "Scotland",
+            "Sprague"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Southford Falls Pond",
+          "towns": [
+            "Oxford",
+            "Southbury"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Stratton Brook Park Pond",
+          "towns": [
+            "Simsbury"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Tenmile River, Bull\u2019s Bridge- TMA",
+          "towns": [
+            "Kent",
+            "Sherman"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Wharton Brook Pond",
+          "towns": [
+            "Wallingford"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Yantic River",
+          "towns": [
+            "Lebanon",
+            "Bozrah"
+          ],
+          "management_type": null
+        }
+      ]
+    },
     {
       "date": "2026-04-21",
       "locations": [
@@ -560,6 +766,15 @@
             "Plainfield"
           ],
           "management_type": null
+        },
+        {
+          "waterbody": "Shetucket River",
+          "towns": [
+            "Windham",
+            "Scotland",
+            "Sprague"
+          ],
+          "management_type": "TTA"
         }
       ]
     },
@@ -3177,7 +3392,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-25"
+        "2026-03-25",
+        "2026-04-23"
       ]
     },
     {
@@ -3188,7 +3404,8 @@
       "management_type": "TP",
       "stocked_dates": [
         "2026-03-25",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-23"
       ]
     },
     {
@@ -3210,7 +3427,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-25"
+        "2026-03-25",
+        "2026-04-22"
       ]
     },
     {
@@ -3242,7 +3460,8 @@
       "management_type": "TP",
       "stocked_dates": [
         "2026-03-25",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-23"
       ]
     },
     {
@@ -3545,7 +3764,8 @@
       "management_type": null,
       "stocked_dates": [
         "2026-04-08",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-23"
       ]
     },
     {
@@ -3567,7 +3787,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-22"
       ]
     },
     {
@@ -3578,7 +3799,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-27"
+        "2026-03-27",
+        "2026-04-23"
       ]
     },
     {
@@ -3633,7 +3855,8 @@
       "management_type": "TMA (Lower Collinsville to RT 177 )",
       "stocked_dates": [
         "2026-03-24",
-        "2026-04-03"
+        "2026-04-03",
+        "2026-04-23"
       ]
     },
     {
@@ -3645,7 +3868,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-04-10"
+        "2026-04-10",
+        "2026-04-23"
       ]
     },
     {
@@ -3657,7 +3881,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-04-03"
+        "2026-04-03",
+        "2026-04-23"
       ]
     },
     {
@@ -3801,7 +4026,8 @@
       "management_type": "TP",
       "stocked_dates": [
         "2026-03-16",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-22"
       ]
     },
     {
@@ -3845,7 +4071,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-04-02"
+        "2026-04-02",
+        "2026-04-23"
       ]
     },
     {
@@ -3857,7 +4084,8 @@
       "management_type": "TMA",
       "stocked_dates": [
         "2026-03-12",
-        "2026-04-02"
+        "2026-04-02",
+        "2026-04-23"
       ]
     },
     {
@@ -4258,7 +4486,8 @@
       "management_type": "TP",
       "stocked_dates": [
         "2026-04-09",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-23"
       ]
     },
     {
@@ -4343,7 +4572,8 @@
       "management_type": "TMA",
       "stocked_dates": [
         "2026-03-09",
-        "2026-04-08"
+        "2026-04-08",
+        "2026-04-22"
       ]
     },
     {
@@ -4511,7 +4741,8 @@
       "management_type": "TTA",
       "stocked_dates": [
         "2026-04-07",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-23"
       ]
     },
     {
@@ -4522,7 +4753,8 @@
       "management_type": null,
       "stocked_dates": [
         "2026-04-07",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-23"
       ]
     },
     {
@@ -5072,7 +5304,8 @@
       ],
       "management_type": "TTA",
       "stocked_dates": [
-        "2026-04-06"
+        "2026-04-06",
+        "2026-04-22"
       ]
     },
     {
@@ -5083,7 +5316,8 @@
       "management_type": "TMA",
       "stocked_dates": [
         "2026-03-20",
-        "2026-04-06"
+        "2026-04-06",
+        "2026-04-22"
       ]
     },
     {
@@ -5235,7 +5469,9 @@
       ],
       "management_type": "TTA",
       "stocked_dates": [
-        "2026-04-01"
+        "2026-04-01",
+        "2026-04-13",
+        "2026-04-22"
       ]
     },
     {
@@ -5290,7 +5526,8 @@
       "stocked_dates": [
         "2026-03-18",
         "2026-04-07",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-22"
       ]
     },
     {
@@ -5385,7 +5622,8 @@
       "management_type": "TP",
       "stocked_dates": [
         "2026-04-06",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-22"
       ]
     },
     {
@@ -5426,7 +5664,9 @@
         "Sherman"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-04-22"
+      ]
     },
     {
       "waterbody": "Twin Brooks Pond\nPermit required for non-residents to park in Trumbull Town parks. Please\ncall 203-452-5060 to make an appt with the P&R Dept. A valid Fishing\nLicense, Vehicle Registration, and ID are required.",
@@ -5563,7 +5803,8 @@
       "management_type": "TP",
       "stocked_dates": [
         "2026-04-08",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-22"
       ]
     },
     {
@@ -5637,7 +5878,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-26"
+        "2026-03-26",
+        "2026-04-22"
       ]
     },
     {
