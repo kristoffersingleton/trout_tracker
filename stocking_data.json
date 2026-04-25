@@ -1,9 +1,125 @@
 {
-  "report_date": "2026-04-23",
+  "report_date": "2026-04-24",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-04-24",
+      "locations": [
+        {
+          "waterbody": "Center Springs Park Pond",
+          "towns": [
+            "Manchester"
+          ],
+          "management_type": "CFW"
+        },
+        {
+          "waterbody": "East Aspetuck River",
+          "towns": [
+            "New Milford",
+            "New Preston"
+          ],
+          "management_type": "WTMA Class 3"
+        },
+        {
+          "waterbody": "Farmington River",
+          "towns": [
+            "New Hartford",
+            "Canton"
+          ],
+          "management_type": "TMA (Route 219 to Lower Collinsville)"
+        },
+        {
+          "waterbody": "Furnace Brook",
+          "towns": [
+            "Stafford"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Middle River",
+          "towns": [
+            "Stafford"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Mill River",
+          "towns": [
+            "Fairfield"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Mill River (outside TMA)",
+          "towns": [
+            "Fairfield"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Pasture Pond",
+          "towns": [
+            "Plainfield"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Quinebaug River",
+          "towns": [
+            "Killingly",
+            "Putnam"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Quinebaug River",
+          "towns": [
+            "Thompson"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Quinebaug River",
+          "towns": [
+            "Plainfield",
+            "Canterbury"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Roaring Brook",
+          "towns": [
+            "Stafford",
+            "Willington"
+          ],
+          "management_type": "WTMA 3"
+        },
+        {
+          "waterbody": "Shepaug River",
+          "towns": [
+            "Roxbury"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Willimantic River (above TMA)",
+          "towns": [
+            "Stafford"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Willimantic River (below TMA)",
+          "towns": [
+            "Mansfield",
+            "Coventry"
+          ],
+          "management_type": null
+        }
+      ]
+    },
     {
       "date": "2026-04-23",
       "locations": [
@@ -3576,7 +3692,8 @@
       ],
       "management_type": "CFW",
       "stocked_dates": [
-        "2026-03-20"
+        "2026-03-20",
+        "2026-04-24"
       ]
     },
     {
@@ -3728,7 +3845,8 @@
       ],
       "management_type": "WTMA Class 3",
       "stocked_dates": [
-        "2026-03-20"
+        "2026-03-20",
+        "2026-04-24"
       ]
     },
     {
@@ -3894,7 +4012,8 @@
       "management_type": "TMA (Route 219 to Lower Collinsville)",
       "stocked_dates": [
         "2026-03-23",
-        "2026-04-03"
+        "2026-04-03",
+        "2026-04-24"
       ]
     },
     {
@@ -3994,7 +4113,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-24"
+        "2026-03-24",
+        "2026-04-24"
       ]
     },
     {
@@ -4520,7 +4640,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-24"
+        "2026-03-24",
+        "2026-04-24"
       ]
     },
     {
@@ -4541,7 +4662,8 @@
       "management_type": "TMA",
       "stocked_dates": [
         "2026-03-13",
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-24"
       ]
     },
     {
@@ -4561,7 +4683,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-24"
       ]
     },
     {
@@ -4918,7 +5041,8 @@
       "stocked_dates": [
         "2026-04-01",
         "2026-04-11",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-24"
       ]
     },
     {
@@ -5103,7 +5227,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-30"
+        "2026-03-30",
+        "2026-04-24"
       ]
     },
     {
@@ -5113,7 +5238,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-27"
+        "2026-03-27",
+        "2026-04-24"
       ]
     },
     {
@@ -5124,7 +5250,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-04-01"
+        "2026-04-01",
+        "2026-04-24"
       ]
     },
     {
@@ -5207,7 +5334,8 @@
       ],
       "management_type": "WTMA 3",
       "stocked_dates": [
-        "2026-03-24"
+        "2026-03-24",
+        "2026-04-24"
       ]
     },
     {
@@ -5457,7 +5585,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-31"
+        "2026-03-31",
+        "2026-04-24"
       ]
     },
     {
@@ -5836,7 +5965,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-31"
+        "2026-03-31",
+        "2026-04-24"
       ]
     },
     {
@@ -5847,7 +5977,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-31"
+        "2026-03-31",
+        "2026-04-24"
       ]
     },
     {
