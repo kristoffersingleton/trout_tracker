@@ -1,9 +1,146 @@
 {
-  "report_date": "2026-04-24",
+  "report_date": "2026-04-27",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-04-27",
+      "locations": [
+        {
+          "waterbody": "Broad Brook",
+          "towns": [
+            "Preston"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Choate Brook",
+          "towns": [
+            "Preston"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Day Pond",
+          "towns": [
+            "Colchester"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Dickenson Creek",
+          "towns": [
+            "Marlborough"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Farmington River, West Branch (Hogback to WBR. TMA)",
+          "towns": [
+            "Hartland",
+            "Barkhamsted"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Horse Pond",
+          "towns": [
+            "Salem"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Latimer Brook (*no stocking along I-95 due to construction)",
+          "towns": [
+            "East Lyme"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Little River",
+          "towns": [
+            "Oxford",
+            "Seymour"
+          ],
+          "management_type": "WTMA Class 3"
+        },
+        {
+          "waterbody": "Long Pond",
+          "towns": [
+            "North Stonington",
+            "Ledyard"
+          ],
+          "management_type": "TML"
+        },
+        {
+          "waterbody": "Mohegan Park Pond",
+          "towns": [
+            "Norwich"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Moosup River",
+          "towns": [
+            "Plainfield"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Nepaug River",
+          "towns": [
+            "New Hartford"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Pachaug River",
+          "towns": [
+            "Griswold",
+            "Voluntown"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Rogers Lake",
+          "towns": [
+            "Lyme",
+            "Old Lyme"
+          ],
+          "management_type": "TML"
+        },
+        {
+          "waterbody": "Sawmill Pond",
+          "towns": [
+            "Ledyard"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Scantic River (upper)",
+          "towns": [
+            "Somers",
+            "Enfield"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Shunock Brook",
+          "towns": [
+            "North Stonington"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Susquetonscut Brook",
+          "towns": [
+            "Franklin"
+          ],
+          "management_type": null
+        }
+      ]
+    },
     {
       "date": "2026-04-24",
       "locations": [
@@ -3609,7 +3746,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-19"
+        "2026-03-19",
+        "2026-04-27"
       ]
     },
     {
@@ -3727,7 +3865,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-19"
+        "2026-03-19",
+        "2026-04-27"
       ]
     },
     {
@@ -3814,7 +3953,8 @@
       "stocked_dates": [
         "2026-04-06",
         "2026-04-11",
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-27"
       ]
     },
     {
@@ -3824,7 +3964,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-25"
+        "2026-03-25",
+        "2026-04-27"
       ]
     },
     {
@@ -4025,7 +4166,8 @@
       "management_type": null,
       "stocked_dates": [
         "2026-03-12",
-        "2026-04-10"
+        "2026-04-10",
+        "2026-04-27"
       ]
     },
     {
@@ -4326,7 +4468,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-06"
+        "2026-03-06",
+        "2026-04-27"
       ]
     },
     {
@@ -4478,7 +4621,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-27"
+        "2026-03-27",
+        "2026-04-27"
       ]
     },
     {
@@ -4510,7 +4654,8 @@
       ],
       "management_type": "WTMA Class 3",
       "stocked_dates": [
-        "2026-03-30"
+        "2026-03-30",
+        "2026-04-27"
       ]
     },
     {
@@ -4521,7 +4666,8 @@
       ],
       "management_type": "TML",
       "stocked_dates": [
-        "2026-03-05"
+        "2026-03-05",
+        "2026-04-27"
       ]
     },
     {
@@ -4751,7 +4897,8 @@
       "stocked_dates": [
         "2026-04-02",
         "2026-04-11",
-        "2026-04-21"
+        "2026-04-21",
+        "2026-04-27"
       ]
     },
     {
@@ -4772,7 +4919,8 @@
       "management_type": "TMA",
       "stocked_dates": [
         "2026-03-11",
-        "2026-04-01"
+        "2026-04-01",
+        "2026-04-27"
       ]
     },
     {
@@ -4966,7 +5114,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-13"
+        "2026-03-13",
+        "2026-04-27"
       ]
     },
     {
@@ -5029,7 +5178,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-19"
+        "2026-03-19",
+        "2026-04-27"
       ]
     },
     {
@@ -5347,7 +5497,8 @@
       "management_type": "TML",
       "stocked_dates": [
         "2026-03-02",
-        "2026-03-06"
+        "2026-03-06",
+        "2026-04-27"
       ]
     },
     {
@@ -5532,7 +5683,8 @@
       "management_type": null,
       "stocked_dates": [
         "2026-04-01",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-27"
       ]
     },
     {
@@ -5555,7 +5707,8 @@
       "management_type": null,
       "stocked_dates": [
         "2026-03-31",
-        "2026-04-21"
+        "2026-04-21",
+        "2026-04-27"
       ]
     },
     {
@@ -5610,7 +5763,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-20"
+        "2026-03-20",
+        "2026-04-27"
       ]
     },
     {
@@ -5762,7 +5916,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-12"
+        "2026-03-12",
+        "2026-04-27"
       ]
     },
     {
