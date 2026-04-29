@@ -1,9 +1,65 @@
 {
-  "report_date": "2026-04-27",
+  "report_date": "2026-04-28",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-04-28",
+      "locations": [
+        {
+          "waterbody": "Blackwells Brook",
+          "towns": [
+            "Canterbury"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Hanover Reservoir",
+          "towns": [
+            "Canterbury"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Little River",
+          "towns": [
+            "Canterbury \u2013 Sprague"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Pomperaug River",
+          "towns": [
+            "Woodbury",
+            "Southbury"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Southford Falls Pond",
+          "towns": [
+            "Oxford",
+            "Southbury"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Still River",
+          "towns": [
+            "Eastford"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Wharton Brook Pond",
+          "towns": [
+            "Wallingford"
+          ],
+          "management_type": "CFW"
+        }
+      ]
+    },
     {
       "date": "2026-04-27",
       "locations": [
@@ -451,7 +507,7 @@
           "towns": [
             "Wallingford"
           ],
-          "management_type": "TP"
+          "management_type": "CFW"
         },
         {
           "waterbody": "Yantic River",
@@ -1200,7 +1256,7 @@
           "towns": [
             "Wallingford"
           ],
-          "management_type": "TP"
+          "management_type": "CFW"
         }
       ]
     },
@@ -1392,7 +1448,7 @@
           "towns": [
             "Wallingford"
           ],
-          "management_type": "TP"
+          "management_type": "CFW"
         }
       ]
     },
@@ -3702,7 +3758,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-19"
+        "2026-03-19",
+        "2026-04-28"
       ]
     },
     {
@@ -4367,7 +4424,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-03"
+        "2026-03-03",
+        "2026-04-28"
       ]
     },
     {
@@ -4643,7 +4701,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-27"
+        "2026-03-27",
+        "2026-04-28"
       ]
     },
     {
@@ -5306,7 +5365,8 @@
       ],
       "management_type": "TTA",
       "stocked_dates": [
-        "2026-04-01"
+        "2026-04-01",
+        "2026-04-28"
       ]
     },
     {
@@ -5810,7 +5870,8 @@
         "2026-03-18",
         "2026-04-07",
         "2026-04-11",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-28"
       ]
     },
     {
@@ -5874,7 +5935,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-19"
+        "2026-03-19",
+        "2026-04-28"
       ]
     },
     {
@@ -6084,11 +6146,12 @@
       "towns": [
         "Wallingford"
       ],
-      "management_type": "TP",
+      "management_type": "CFW",
       "stocked_dates": [
         "2026-04-08",
         "2026-04-11",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-28"
       ]
     },
     {
