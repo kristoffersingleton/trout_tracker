@@ -1,9 +1,78 @@
 {
-  "report_date": "2026-04-28",
+  "report_date": "2026-04-29",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-04-29",
+      "locations": [
+        {
+          "waterbody": "Higganum Reservoir",
+          "towns": [
+            "Haddam"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Millers Pond",
+          "towns": [
+            "Durham"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Norwalk River",
+          "towns": [
+            "Ridgefield \u2013 Norwalk"
+          ],
+          "management_type": "WTMA 3"
+        },
+        {
+          "waterbody": "Pattaconk Lake",
+          "towns": [
+            "Chester"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Pequabuck River (Rockwell Park",
+          "towns": [
+            "Bristol"
+          ],
+          "management_type": "Blvd.)"
+        },
+        {
+          "waterbody": "Pequabuck River (RTS 229-177)",
+          "towns": [
+            "Bristol"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Stanley Quarter Park Pond",
+          "towns": [
+            "New Britain"
+          ],
+          "management_type": "CFW"
+        },
+        {
+          "waterbody": "West River",
+          "towns": [
+            "Guilford"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Willimantic River",
+          "towns": [
+            "Tolland",
+            "Willington"
+          ],
+          "management_type": "TMA"
+        }
+      ]
+    },
     {
       "date": "2026-04-28",
       "locations": [
@@ -4446,7 +4515,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-18"
+        "2026-03-18",
+        "2026-04-29"
       ]
     },
     {
@@ -4911,7 +4981,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-18"
+        "2026-03-18",
+        "2026-04-29"
       ]
     },
     {
@@ -5216,7 +5287,8 @@
       ],
       "management_type": "WTMA 3",
       "stocked_dates": [
-        "2026-04-02"
+        "2026-04-02",
+        "2026-04-29"
       ]
     },
     {
@@ -5271,7 +5343,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-11"
+        "2026-03-11",
+        "2026-04-29"
       ]
     },
     {
@@ -5281,7 +5354,8 @@
       ],
       "management_type": "Blvd.)",
       "stocked_dates": [
-        "2026-03-20"
+        "2026-03-20",
+        "2026-04-29"
       ]
     },
     {
@@ -5291,7 +5365,8 @@
       ],
       "management_type": "TMA",
       "stocked_dates": [
-        "2026-03-09"
+        "2026-03-09",
+        "2026-04-29"
       ]
     },
     {
@@ -5893,7 +5968,8 @@
       "management_type": "CFW",
       "stocked_dates": [
         "2026-04-09",
-        "2026-04-20"
+        "2026-04-20",
+        "2026-04-29"
       ]
     },
     {
@@ -6128,7 +6204,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-11"
+        "2026-03-11",
+        "2026-04-29"
       ]
     },
     {
@@ -6173,7 +6250,8 @@
       "management_type": "TMA",
       "stocked_dates": [
         "2026-03-20",
-        "2026-03-31"
+        "2026-03-31",
+        "2026-04-29"
       ]
     },
     {
