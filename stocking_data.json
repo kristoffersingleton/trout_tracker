@@ -1,9 +1,116 @@
 {
-  "report_date": "2026-04-29",
+  "report_date": "2026-04-30",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-04-30",
+      "locations": [
+        {
+          "waterbody": "Chatfield Hollow Pond (Schreeder Pond)",
+          "towns": [
+            "Killingworth"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Chatfield Hollow Brook",
+          "towns": [
+            "Killingworth"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Fivemile River (lower section)",
+          "towns": [
+            "Thompson",
+            "Putnam",
+            "Killingly"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Great Hollow Lake at Wolfe Park",
+          "towns": [
+            "Monroe"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Mashamoquet Brook",
+          "towns": [
+            "Pomfret"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Pequonnock River (Beardsley Park)",
+          "towns": [
+            "Bridgeport"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Pequonnock River, Open\nPermit required for non-residents to park in Trumbull Town parks. Please\ncall 203-452-5060 to make an appt with the P&R Dept. A valid Fishing\nLicense, Vehicle Registration, and ID are required.",
+          "towns": [
+            "Trumbull",
+            "Bridgeport"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Roaring Brook",
+          "towns": [
+            "Glastonbury"
+          ],
+          "management_type": "WTMA 3"
+        },
+        {
+          "waterbody": "Rogers Park Pond",
+          "towns": [
+            "Danbury"
+          ],
+          "management_type": "CFW"
+        },
+        {
+          "waterbody": "Somersville Mill Pond",
+          "towns": [
+            "Somers"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Squantz Pond",
+          "towns": [
+            "New Fairfield",
+            "Sherman"
+          ],
+          "management_type": "TML"
+        },
+        {
+          "waterbody": "Twin Brooks Pond\nPermit required for non-residents to park in Trumbull Town parks. Please\ncall 203-452-5060 to make an appt with the P&R Dept. A valid Fishing\nLicense, Vehicle Registration, and ID are required.",
+          "towns": [
+            "Trumbull"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Upper Fulton Park Pond",
+          "towns": [
+            "Waterbury"
+          ],
+          "management_type": "CFW"
+        },
+        {
+          "waterbody": "Valley Falls Park Pond",
+          "towns": [
+            "Vernon"
+          ],
+          "management_type": "TP"
+        }
+      ]
+    },
     {
       "date": "2026-04-29",
       "locations": [
@@ -3969,7 +4076,8 @@
       "stocked_dates": [
         "2026-04-02",
         "2026-04-11",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-30"
       ]
     },
     {
@@ -3981,7 +4089,8 @@
       "stocked_dates": [
         "2026-04-02",
         "2026-04-11",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-30"
       ]
     },
     {
@@ -4329,7 +4438,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-26"
+        "2026-03-26",
+        "2026-04-30"
       ]
     },
     {
@@ -4415,7 +4525,8 @@
       "stocked_dates": [
         "2026-03-16",
         "2026-04-11",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-30"
       ]
     },
     {
@@ -4860,7 +4971,8 @@
       "stocked_dates": [
         "2026-04-02",
         "2026-04-11",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-30"
       ]
     },
     {
@@ -5376,7 +5488,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-04-09"
+        "2026-04-09",
+        "2026-04-30"
       ]
     },
     {
@@ -5399,7 +5512,8 @@
       "management_type": null,
       "stocked_dates": [
         "2026-04-09",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-30"
       ]
     },
     {
@@ -5608,7 +5722,8 @@
       "management_type": "WTMA 3",
       "stocked_dates": [
         "2026-03-24",
-        "2026-04-15"
+        "2026-04-15",
+        "2026-04-30"
       ]
     },
     {
@@ -5643,7 +5758,8 @@
       ],
       "management_type": "CFW",
       "stocked_dates": [
-        "2026-03-19"
+        "2026-03-19",
+        "2026-04-30"
       ]
     },
     {
@@ -5931,7 +6047,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-05"
+        "2026-03-05",
+        "2026-04-30"
       ]
     },
     {
@@ -5957,7 +6074,8 @@
       ],
       "management_type": "TML",
       "stocked_dates": [
-        "2026-03-04"
+        "2026-03-04",
+        "2026-04-30"
       ]
     },
     {
@@ -6097,7 +6215,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-18"
+        "2026-03-18",
+        "2026-04-30"
       ]
     },
     {
@@ -6128,7 +6247,8 @@
       ],
       "management_type": "CFW",
       "stocked_dates": [
-        "2026-03-19"
+        "2026-03-19",
+        "2026-04-30"
       ]
     },
     {
@@ -6140,7 +6260,8 @@
       "stocked_dates": [
         "2026-04-02",
         "2026-04-11",
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-30"
       ]
     },
     {
