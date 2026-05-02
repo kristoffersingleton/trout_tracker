@@ -1,9 +1,99 @@
 {
-  "report_date": "2026-04-30",
+  "report_date": "2026-05-01",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-05-01",
+      "locations": [
+        {
+          "waterbody": "Fenton River- WTMA Class 3",
+          "towns": [
+            "Mansfield",
+            "Willington"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Hewitt Fly Pond",
+          "towns": [
+            "North Stonington"
+          ],
+          "management_type": "Fly fishing only"
+        },
+        {
+          "waterbody": "Mianus River",
+          "towns": [
+            "Greenwich",
+            "Stamford"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Mount Hope River",
+          "towns": [
+            "Ashford",
+            "Mansfield"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Naugatuck River (Lower)",
+          "towns": [
+            "Waterbury \u2013 Beacon Falls"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Naugatuck River (Middle)",
+          "towns": [
+            "Thomaston \u2013 Waterbury"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Naugatuck River (Upper)",
+          "towns": [
+            "Harwinton",
+            "Litchfield",
+            "Torrington"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Saugatuck River- TMA (Fly Area)",
+          "towns": [
+            "Westport"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Shetucket River",
+          "towns": [
+            "Windham",
+            "Scotland",
+            "Sprague"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Yantic River",
+          "towns": [
+            "Lebanon",
+            "Bozrah"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Yantic River- TMA",
+          "towns": [
+            "Bozrah"
+          ],
+          "management_type": null
+        }
+      ]
+    },
     {
       "date": "2026-04-30",
       "locations": [
@@ -1092,6 +1182,22 @@
           "waterbody": "Naugatuck River (Lower)",
           "towns": [
             "Waterbury \u2013 Beacon Falls"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Naugatuck River (Middle)",
+          "towns": [
+            "Thomaston \u2013 Waterbury"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Naugatuck River (Upper)",
+          "towns": [
+            "Harwinton",
+            "Litchfield",
+            "Torrington"
           ],
           "management_type": "TTA"
         },
@@ -4426,7 +4532,8 @@
       "management_type": null,
       "stocked_dates": [
         "2026-03-26",
-        "2026-04-14"
+        "2026-04-14",
+        "2026-05-01"
       ]
     },
     {
@@ -4616,7 +4723,8 @@
       "management_type": "Fly fishing only",
       "stocked_dates": [
         "2026-03-17",
-        "2026-04-13"
+        "2026-04-13",
+        "2026-05-01"
       ]
     },
     {
@@ -5017,7 +5125,8 @@
       "management_type": "TMA",
       "stocked_dates": [
         "2026-03-13",
-        "2026-04-07"
+        "2026-04-07",
+        "2026-05-01"
       ]
     },
     {
@@ -5197,7 +5306,8 @@
       "management_type": null,
       "stocked_dates": [
         "2026-03-30",
-        "2026-04-14"
+        "2026-04-14",
+        "2026-05-01"
       ]
     },
     {
@@ -5291,7 +5401,8 @@
       "management_type": "TTA",
       "stocked_dates": [
         "2026-03-26",
-        "2026-04-15"
+        "2026-04-15",
+        "2026-05-01"
       ]
     },
     {
@@ -5301,7 +5412,9 @@
       ],
       "management_type": "TTA",
       "stocked_dates": [
-        "2026-03-26"
+        "2026-03-26",
+        "2026-04-15",
+        "2026-05-01"
       ]
     },
     {
@@ -5313,7 +5426,9 @@
       ],
       "management_type": "TTA",
       "stocked_dates": [
-        "2026-03-26"
+        "2026-03-26",
+        "2026-04-15",
+        "2026-05-01"
       ]
     },
     {
@@ -5881,7 +5996,8 @@
       "management_type": null,
       "stocked_dates": [
         "2026-03-09",
-        "2026-04-08"
+        "2026-04-08",
+        "2026-05-01"
       ]
     },
     {
@@ -6004,7 +6120,8 @@
       "stocked_dates": [
         "2026-04-01",
         "2026-04-13",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-05-01"
       ]
     },
     {
@@ -6427,7 +6544,8 @@
       "management_type": null,
       "stocked_dates": [
         "2026-03-26",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-05-01"
       ]
     },
     {
@@ -6439,7 +6557,8 @@
       "stocked_dates": [
         "2026-03-11",
         "2026-04-01",
-        "2026-04-16"
+        "2026-04-16",
+        "2026-05-01"
       ]
     }
   ]
