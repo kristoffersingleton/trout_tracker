@@ -1,9 +1,215 @@
 {
-  "report_date": "2026-05-01",
+  "report_date": "2026-05-06",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-05-06",
+      "locations": [
+        {
+          "waterbody": "Lake Wintergreen",
+          "towns": [
+            "Hamden"
+          ],
+          "management_type": "CFW"
+        },
+        {
+          "waterbody": "Mill River (outside TMA)",
+          "towns": [
+            "Hamden"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Mill River (Sleeping Giant State Park)",
+          "towns": [
+            "Hamden"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Muddy River",
+          "towns": [
+            "North Haven",
+            "Wallingford"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Scantic River (lower)",
+          "towns": [
+            "East Windsor"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Scantic River (upper)",
+          "towns": [
+            "Somers",
+            "Enfield"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Wepawaug River",
+          "towns": [
+            "Milford",
+            "Orange"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Wharton Brook Pond",
+          "towns": [
+            "Wallingford"
+          ],
+          "management_type": "CFW"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-05",
+      "locations": [
+        {
+          "waterbody": "Branford River",
+          "towns": [
+            "Branford"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Farm River (lower section)",
+          "towns": [
+            "East Haven"
+          ],
+          "management_type": "WTMA Class 3"
+        },
+        {
+          "waterbody": "Farm River (upper section)",
+          "towns": [
+            "North Branford"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Hop River",
+          "towns": [
+            "Bolton",
+            "Coventry",
+            "Andover"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "McGovern Pond",
+          "towns": [
+            "West Hartford"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Sandy Brook",
+          "towns": [
+            "Colebrook"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Saugatuck River, Lower",
+          "towns": [
+            "Weston",
+            "Westport"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Saugatuck River, Upper",
+          "towns": [
+            "Danbury",
+            "Redding"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Skungamaug River",
+          "towns": [
+            "Coventry",
+            "Tolland"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Still River",
+          "towns": [
+            "Barkhamsted",
+            "Colebrook"
+          ],
+          "management_type": null
+        }
+      ]
+    },
+    {
+      "date": "2026-05-04",
+      "locations": [
+        {
+          "waterbody": "Hammonasset River",
+          "towns": [
+            "Clinton",
+            "Madison",
+            "Killingworth"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Hammonasset River",
+          "towns": [
+            "Madison",
+            "Killingworth"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Leadmine Brook",
+          "towns": [
+            "Harwinton",
+            "Thomaston"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Mad River",
+          "towns": [
+            "Norfolk",
+            "Winchester"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Mad River Impoundment",
+          "towns": [
+            "Winchester"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Natchaug River",
+          "towns": [
+            "Eastford",
+            "Chaplin",
+            "Windham"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Natchaug River- TP",
+          "towns": [
+            "Eastford"
+          ],
+          "management_type": null
+        }
+      ]
+    },
     {
       "date": "2026-05-01",
       "locations": [
@@ -554,6 +760,13 @@
             "Willington"
           ],
           "management_type": "WTMA 3"
+        },
+        {
+          "waterbody": "Shenipset Lake",
+          "towns": [
+            "Ellington"
+          ],
+          "management_type": null
         },
         {
           "waterbody": "Shepaug River",
@@ -4064,7 +4277,8 @@
       "management_type": null,
       "stocked_dates": [
         "2026-03-23",
-        "2026-04-16"
+        "2026-04-16",
+        "2026-05-05"
       ]
     },
     {
@@ -4421,7 +4635,8 @@
       "management_type": "WTMA Class 3",
       "stocked_dates": [
         "2026-03-23",
-        "2026-04-16"
+        "2026-04-16",
+        "2026-05-05"
       ]
     },
     {
@@ -4432,7 +4647,8 @@
       "management_type": null,
       "stocked_dates": [
         "2026-03-23",
-        "2026-04-16"
+        "2026-04-16",
+        "2026-05-05"
       ]
     },
     {
@@ -4678,7 +4894,8 @@
       "management_type": null,
       "stocked_dates": [
         "2026-04-02",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-05-04"
       ]
     },
     {
@@ -4691,7 +4908,8 @@
       "stocked_dates": [
         "2026-03-12",
         "2026-04-02",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-05-04"
       ]
     },
     {
@@ -4793,7 +5011,8 @@
       "management_type": null,
       "stocked_dates": [
         "2026-03-26",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-05-05"
       ]
     },
     {
@@ -4958,7 +5177,8 @@
       ],
       "management_type": "CFW",
       "stocked_dates": [
-        "2026-04-08"
+        "2026-04-08",
+        "2026-05-06"
       ]
     },
     {
@@ -4980,7 +5200,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-04-08"
+        "2026-04-08",
+        "2026-05-04"
       ]
     },
     {
@@ -5047,7 +5268,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-27"
+        "2026-03-27",
+        "2026-05-04"
       ]
     },
     {
@@ -5057,7 +5279,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-27"
+        "2026-03-27",
+        "2026-05-04"
       ]
     },
     {
@@ -5102,7 +5325,8 @@
       "stocked_dates": [
         "2026-04-09",
         "2026-04-11",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-05-05"
       ]
     },
     {
@@ -5169,7 +5393,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-04-08"
+        "2026-04-08",
+        "2026-05-06"
       ]
     },
     {
@@ -5192,7 +5417,8 @@
       "stocked_dates": [
         "2026-03-09",
         "2026-04-08",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-05-06"
       ]
     },
     {
@@ -5340,7 +5566,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-23"
+        "2026-03-23",
+        "2026-05-06"
       ]
     },
     {
@@ -5365,7 +5592,8 @@
       "stocked_dates": [
         "2026-04-07",
         "2026-04-11",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-05-04"
       ]
     },
     {
@@ -5377,7 +5605,8 @@
       "stocked_dates": [
         "2026-04-07",
         "2026-04-11",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-05-04"
       ]
     },
     {
@@ -5973,7 +6202,8 @@
       "management_type": null,
       "stocked_dates": [
         "2026-03-27",
-        "2026-04-10"
+        "2026-04-10",
+        "2026-05-05"
       ]
     },
     {
@@ -6008,7 +6238,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-04-08"
+        "2026-04-08",
+        "2026-05-05"
       ]
     },
     {
@@ -6019,7 +6250,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-04-08"
+        "2026-04-08",
+        "2026-05-05"
       ]
     },
     {
@@ -6062,7 +6294,8 @@
       "management_type": null,
       "stocked_dates": [
         "2026-03-31",
-        "2026-04-16"
+        "2026-04-16",
+        "2026-05-06"
       ]
     },
     {
@@ -6075,7 +6308,8 @@
       "stocked_dates": [
         "2026-03-31",
         "2026-04-21",
-        "2026-04-27"
+        "2026-04-27",
+        "2026-05-06"
       ]
     },
     {
@@ -6095,7 +6329,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-05"
+        "2026-03-05",
+        "2026-04-24"
       ]
     },
     {
@@ -6144,7 +6379,8 @@
       "management_type": null,
       "stocked_dates": [
         "2026-03-23",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-05-05"
       ]
     },
     {
@@ -6226,7 +6462,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-27"
+        "2026-03-27",
+        "2026-05-05"
       ]
     },
     {
@@ -6410,7 +6647,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-30"
+        "2026-03-30",
+        "2026-05-06"
       ]
     },
     {
@@ -6466,7 +6704,8 @@
         "2026-04-08",
         "2026-04-11",
         "2026-04-22",
-        "2026-04-28"
+        "2026-04-28",
+        "2026-05-06"
       ]
     },
     {
