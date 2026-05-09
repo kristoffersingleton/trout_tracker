@@ -1,9 +1,108 @@
 {
-  "report_date": "2026-05-07",
+  "report_date": "2026-05-08",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-05-08",
+      "locations": [
+        {
+          "waterbody": "Baummer Pond",
+          "towns": [
+            "Naugatuck"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Christensen\u2019s Pond",
+          "towns": [
+            "Granby"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Crystal Lake",
+          "towns": [
+            "Ellington"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Mirror Lake (Hubbard Park Pond)",
+          "towns": [
+            "Meriden"
+          ],
+          "management_type": "CFW"
+        },
+        {
+          "waterbody": "Moosup River",
+          "towns": [
+            "Plainfield"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Nonewaug River",
+          "towns": [
+            "Bethlehem",
+            "Woodbury"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Pasture Pond",
+          "towns": [
+            "Plainfield"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Prospect Town Park Pond",
+          "towns": [
+            "Prospect"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Roaring Brook",
+          "towns": [
+            "Stafford",
+            "Willington"
+          ],
+          "management_type": "WTMA 3"
+        },
+        {
+          "waterbody": "Salmon Brook, E. Branch",
+          "towns": [
+            "Granby",
+            "E Granby"
+          ],
+          "management_type": "WTMA Class 3 & Open"
+        },
+        {
+          "waterbody": "Salmon Brook, W. Branch",
+          "towns": [
+            "Granby"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Weekeepeemee River",
+          "towns": [
+            "Woodbury"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Willimantic River (above TMA)",
+          "towns": [
+            "Stafford"
+          ],
+          "management_type": null
+        }
+      ]
+    },
     {
       "date": "2026-05-07",
       "locations": [
@@ -4137,7 +4236,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-30"
+        "2026-03-30",
+        "2026-05-08"
       ]
     },
     {
@@ -4521,7 +4621,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-04-06"
+        "2026-04-06",
+        "2026-05-08"
       ]
     },
     {
@@ -4587,7 +4688,8 @@
       "management_type": null,
       "stocked_dates": [
         "2026-03-03",
-        "2026-03-09"
+        "2026-03-09",
+        "2026-05-08"
       ]
     },
     {
@@ -5533,7 +5635,8 @@
       ],
       "management_type": "CFW",
       "stocked_dates": [
-        "2026-03-19"
+        "2026-03-19",
+        "2026-05-08"
       ]
     },
     {
@@ -5591,7 +5694,8 @@
       "stocked_dates": [
         "2026-03-11",
         "2026-04-01",
-        "2026-04-27"
+        "2026-04-27",
+        "2026-05-08"
       ]
     },
     {
@@ -5807,7 +5911,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-30"
+        "2026-03-30",
+        "2026-05-08"
       ]
     },
     {
@@ -5875,7 +5980,8 @@
         "2026-04-01",
         "2026-04-11",
         "2026-04-17",
-        "2026-04-24"
+        "2026-04-24",
+        "2026-05-08"
       ]
     },
     {
@@ -6037,7 +6143,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-10"
+        "2026-03-10",
+        "2026-05-08"
       ]
     },
     {
@@ -6175,7 +6282,8 @@
       "management_type": "WTMA 3",
       "stocked_dates": [
         "2026-03-24",
-        "2026-04-24"
+        "2026-04-24",
+        "2026-05-08"
       ]
     },
     {
@@ -6253,7 +6361,8 @@
       ],
       "management_type": "WTMA Class 3 & Open",
       "stocked_dates": [
-        "2026-04-06"
+        "2026-04-06",
+        "2026-05-08"
       ]
     },
     {
@@ -6263,7 +6372,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-04-06"
+        "2026-04-06",
+        "2026-05-08"
       ]
     },
     {
@@ -6734,7 +6844,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-30"
+        "2026-03-30",
+        "2026-05-08"
       ]
     },
     {
@@ -6837,7 +6948,8 @@
       "management_type": null,
       "stocked_dates": [
         "2026-03-31",
-        "2026-04-24"
+        "2026-04-24",
+        "2026-05-08"
       ]
     },
     {
