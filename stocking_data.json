@@ -1,9 +1,72 @@
 {
-  "report_date": "2026-05-08",
+  "report_date": "2026-05-11",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-05-11",
+      "locations": [
+        {
+          "waterbody": "Blackledge River (lower section)",
+          "towns": [
+            "Marlborough"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Farmington River",
+          "towns": [
+            "Avon",
+            "Canton",
+            "Unionville"
+          ],
+          "management_type": "TMA (Lower Collinsville to RT 177 )"
+        },
+        {
+          "waterbody": "Farmington River (RT 177 to RT 4)",
+          "towns": [
+            "Avon",
+            "Farmington",
+            "Unionville"
+          ],
+          "management_type": null
+        }
+      ]
+    },
+    {
+      "date": "2026-05-09",
+      "locations": [
+        {
+          "waterbody": "Black Rock Pond",
+          "towns": [
+            "Watertown"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Mirror Lake (Hubbard Park Pond)",
+          "towns": [
+            "Meriden"
+          ],
+          "management_type": "CFW"
+        },
+        {
+          "waterbody": "Norwalk River",
+          "towns": [
+            "Ridgefield \u2013 Norwalk"
+          ],
+          "management_type": "WTMA 3"
+        },
+        {
+          "waterbody": "Rippowam River",
+          "towns": [
+            "Stamford"
+          ],
+          "management_type": null
+        }
+      ]
+    },
     {
       "date": "2026-05-08",
       "locations": [
@@ -4398,7 +4461,8 @@
       "stocked_dates": [
         "2026-03-25",
         "2026-04-11",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-05-09"
       ]
     },
     {
@@ -4421,7 +4485,8 @@
       "management_type": null,
       "stocked_dates": [
         "2026-03-25",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-05-11"
       ]
     },
     {
@@ -4866,7 +4931,8 @@
       "stocked_dates": [
         "2026-03-24",
         "2026-04-03",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-05-11"
       ]
     },
     {
@@ -4892,7 +4958,8 @@
       "management_type": null,
       "stocked_dates": [
         "2026-04-03",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-05-11"
       ]
     },
     {
@@ -5636,7 +5703,8 @@
       "management_type": "CFW",
       "stocked_dates": [
         "2026-03-19",
-        "2026-05-08"
+        "2026-05-08",
+        "2026-05-09"
       ]
     },
     {
@@ -5944,7 +6012,8 @@
       "management_type": "WTMA 3",
       "stocked_dates": [
         "2026-04-02",
-        "2026-04-29"
+        "2026-04-29",
+        "2026-05-09"
       ]
     },
     {
@@ -6258,7 +6327,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-11"
+        "2026-03-11",
+        "2026-05-09"
       ]
     },
     {
