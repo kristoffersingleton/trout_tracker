@@ -1,9 +1,162 @@
 {
-  "report_date": "2026-05-11",
+  "report_date": "2026-05-13",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-05-13",
+      "locations": [
+        {
+          "waterbody": "Colony Park Pond",
+          "towns": [
+            "Ansonia"
+          ],
+          "management_type": "CFW"
+        },
+        {
+          "waterbody": "Farmington River",
+          "towns": [
+            "Avon",
+            "Canton",
+            "Unionville"
+          ],
+          "management_type": "TMA (Lower Collinsville to RT 177 )"
+        },
+        {
+          "waterbody": "Mount Misery Brook",
+          "towns": [
+            "Voluntown"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Mount Tom Pond",
+          "towns": [
+            "Litchfield \u2013 Washington"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Myron Kinnie Brook",
+          "towns": [
+            "Voluntown"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Quinebaug River",
+          "towns": [
+            "Killingly",
+            "Putnam"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Quinebaug River",
+          "towns": [
+            "Thompson"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Salmon River",
+          "towns": [
+            "Colchester",
+            "East Hampton"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Salmon River",
+          "towns": [
+            "Colchester"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Scoville Reservoir",
+          "towns": [
+            "Wolcott"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Tyler Pond",
+          "towns": [
+            "Goshen"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "West Side Pond",
+          "towns": [
+            "Goshen"
+          ],
+          "management_type": null
+        }
+      ]
+    },
+    {
+      "date": "2026-05-12",
+      "locations": [
+        {
+          "waterbody": "Farmington River (Tarrifville)",
+          "towns": [
+            "Avon",
+            "Farmington",
+            "Simsbury"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Keney Park Pond",
+          "towns": [
+            "Hartford"
+          ],
+          "management_type": "CFW"
+        },
+        {
+          "waterbody": "Natchaug River",
+          "towns": [
+            "Eastford",
+            "Chaplin",
+            "Windham"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Natchaug River- TP",
+          "towns": [
+            "Eastford"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Naugatuck River (Lower)",
+          "towns": [
+            "Waterbury \u2013 Beacon Falls"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Naugatuck River (Middle)",
+          "towns": [
+            "Thomaston \u2013 Waterbury"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Naugatuck River (Upper)",
+          "towns": [
+            "Harwinton",
+            "Litchfield",
+            "Torrington"
+          ],
+          "management_type": "TTA"
+        }
+      ]
+    },
     {
       "date": "2026-05-11",
       "locations": [
@@ -597,6 +750,13 @@
           "management_type": null
         },
         {
+          "waterbody": "Pequonnock River (Trumbull Basin) \u2013 TTA\nPermit required for non-residents to park in Trumbull Town parks. Please\ncall 203-452-5060 to make an appt with the P&R Dept. A valid Fishing\nLicense, Vehicle Registration, and ID are required.",
+          "towns": [
+            "Trumbull"
+          ],
+          "management_type": null
+        },
+        {
           "waterbody": "Pequonnock River, Open\nPermit required for non-residents to park in Trumbull Town parks. Please\ncall 203-452-5060 to make an appt with the P&R Dept. A valid Fishing\nLicense, Vehicle Registration, and ID are required.",
           "towns": [
             "Trumbull",
@@ -1173,6 +1333,20 @@
           "waterbody": "Great Hollow Lake at Wolfe Park",
           "towns": [
             "Monroe"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Kent Falls Brook",
+          "towns": [
+            "Kent"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Macedonia Brook (State Park)",
+          "towns": [
+            "Kent"
           ],
           "management_type": "TP"
         },
@@ -4722,7 +4896,8 @@
       "management_type": "CFW",
       "stocked_dates": [
         "2026-03-19",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-05-13"
       ]
     },
     {
@@ -4932,7 +5107,8 @@
         "2026-03-24",
         "2026-04-03",
         "2026-04-23",
-        "2026-05-11"
+        "2026-05-11",
+        "2026-05-13"
       ]
     },
     {
@@ -4945,7 +5121,8 @@
       "management_type": null,
       "stocked_dates": [
         "2026-04-10",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-05-12"
       ]
     },
     {
@@ -5374,7 +5551,8 @@
       ],
       "management_type": "CFW",
       "stocked_dates": [
-        "2026-04-10"
+        "2026-04-10",
+        "2026-05-12"
       ]
     },
     {
@@ -5385,7 +5563,8 @@
       "management_type": "TP",
       "stocked_dates": [
         "2026-04-07",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-22"
       ]
     },
     {
@@ -5519,7 +5698,8 @@
       "management_type": "TP",
       "stocked_dates": [
         "2026-04-07",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-22"
       ]
     },
     {
@@ -5811,7 +5991,8 @@
       "management_type": null,
       "stocked_dates": [
         "2026-04-07",
-        "2026-04-20"
+        "2026-04-20",
+        "2026-05-13"
       ]
     },
     {
@@ -5822,7 +6003,8 @@
       "management_type": null,
       "stocked_dates": [
         "2026-03-06",
-        "2026-03-10"
+        "2026-03-10",
+        "2026-05-13"
       ]
     },
     {
@@ -5845,7 +6027,8 @@
       "management_type": null,
       "stocked_dates": [
         "2026-03-19",
-        "2026-04-20"
+        "2026-04-20",
+        "2026-05-13"
       ]
     },
     {
@@ -5860,7 +6043,8 @@
         "2026-04-07",
         "2026-04-11",
         "2026-04-23",
-        "2026-05-04"
+        "2026-05-04",
+        "2026-05-12"
       ]
     },
     {
@@ -5873,7 +6057,8 @@
         "2026-04-07",
         "2026-04-11",
         "2026-04-23",
-        "2026-05-04"
+        "2026-05-04",
+        "2026-05-12"
       ]
     },
     {
@@ -5898,7 +6083,8 @@
       "stocked_dates": [
         "2026-03-26",
         "2026-04-15",
-        "2026-05-01"
+        "2026-05-01",
+        "2026-05-12"
       ]
     },
     {
@@ -5910,7 +6096,8 @@
       "stocked_dates": [
         "2026-03-26",
         "2026-04-15",
-        "2026-05-01"
+        "2026-05-01",
+        "2026-05-12"
       ]
     },
     {
@@ -5924,7 +6111,8 @@
       "stocked_dates": [
         "2026-03-26",
         "2026-04-15",
-        "2026-05-01"
+        "2026-05-01",
+        "2026-05-12"
       ]
     },
     {
@@ -6115,7 +6303,8 @@
       "management_type": null,
       "stocked_dates": [
         "2026-04-09",
-        "2026-04-14"
+        "2026-04-14",
+        "2026-04-30"
       ]
     },
     {
@@ -6243,7 +6432,8 @@
       "management_type": null,
       "stocked_dates": [
         "2026-03-30",
-        "2026-04-24"
+        "2026-04-24",
+        "2026-05-13"
       ]
     },
     {
@@ -6254,7 +6444,8 @@
       "management_type": null,
       "stocked_dates": [
         "2026-03-27",
-        "2026-04-24"
+        "2026-04-24",
+        "2026-05-13"
       ]
     },
     {
@@ -6456,7 +6647,8 @@
       "stocked_dates": [
         "2026-04-06",
         "2026-04-22",
-        "2026-05-07"
+        "2026-05-07",
+        "2026-05-13"
       ]
     },
     {
@@ -6469,7 +6661,8 @@
         "2026-03-20",
         "2026-04-06",
         "2026-04-22",
-        "2026-05-07"
+        "2026-05-07",
+        "2026-05-13"
       ]
     },
     {
@@ -6597,7 +6790,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-06"
+        "2026-03-06",
+        "2026-05-13"
       ]
     },
     {
@@ -6858,7 +7052,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-10"
+        "2026-03-10",
+        "2026-05-13"
       ]
     },
     {
@@ -6970,7 +7165,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-10"
+        "2026-03-10",
+        "2026-05-13"
       ]
     },
     {
