@@ -1,9 +1,61 @@
 {
-  "report_date": "2026-05-13",
+  "report_date": "2026-05-14",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-05-14",
+      "locations": [
+        {
+          "waterbody": "Moosup River",
+          "towns": [
+            "Plainfield"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Moosup River (outside of TMA)",
+          "towns": [
+            "Sterling",
+            "Plainfield"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Quinebaug Lake (Wauregan Reservoir)",
+          "towns": [
+            "Killingly"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Quinebaug River",
+          "towns": [
+            "Plainfield",
+            "Canterbury"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Shetucket River",
+          "towns": [
+            "Windham",
+            "Scotland",
+            "Sprague"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Willimantic River (below TMA)",
+          "towns": [
+            "Mansfield",
+            "Coventry"
+          ],
+          "management_type": null
+        }
+      ]
+    },
     {
       "date": "2026-05-13",
       "locations": [
@@ -5943,7 +5995,8 @@
         "2026-03-11",
         "2026-04-01",
         "2026-04-27",
-        "2026-05-08"
+        "2026-05-08",
+        "2026-05-14"
       ]
     },
     {
@@ -5956,7 +6009,8 @@
       "stocked_dates": [
         "2026-03-30",
         "2026-04-13",
-        "2026-05-07"
+        "2026-05-07",
+        "2026-05-14"
       ]
     },
     {
@@ -6420,7 +6474,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-03-03"
+        "2026-03-03",
+        "2026-05-14"
       ]
     },
     {
@@ -6457,7 +6512,8 @@
       "management_type": null,
       "stocked_dates": [
         "2026-04-01",
-        "2026-04-24"
+        "2026-04-24",
+        "2026-05-14"
       ]
     },
     {
@@ -6828,7 +6884,8 @@
         "2026-04-01",
         "2026-04-13",
         "2026-04-22",
-        "2026-05-01"
+        "2026-05-01",
+        "2026-05-14"
       ]
     },
     {
@@ -7227,7 +7284,8 @@
       "management_type": null,
       "stocked_dates": [
         "2026-03-31",
-        "2026-04-24"
+        "2026-04-24",
+        "2026-05-14"
       ]
     },
     {
