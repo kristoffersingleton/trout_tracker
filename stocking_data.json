@@ -1,5 +1,5 @@
 {
-  "report_date": "2026-09-22",
+  "report_date": "2026-09-28",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
@@ -133,7 +133,7 @@
       "stocked_dates": []
     },
     {
-      "waterbody": "Beaver Brook Park Pond (Bibbens Pond)",
+      "waterbody": "Beaver Brook Park Pond (Bibbins Pond)",
       "towns": [
         "Windham"
       ],
@@ -194,6 +194,14 @@
       "waterbody": "Cedar Lake",
       "towns": [
         "Chester"
+      ],
+      "management_type": null,
+      "stocked_dates": []
+    },
+    {
+      "waterbody": "Center Springs Park Pond",
+      "towns": [
+        "Manchester"
       ],
       "management_type": null,
       "stocked_dates": []
@@ -371,6 +379,14 @@
         "Ledyard"
       ],
       "management_type": "TML",
+      "stocked_dates": []
+    },
+    {
+      "waterbody": "Mashamoquet Brook",
+      "towns": [
+        "Pomfret"
+      ],
+      "management_type": "TP",
       "stocked_dates": []
     },
     {
@@ -1078,6 +1094,14 @@
       "stocked_dates": []
     },
     {
+      "waterbody": "Center Springs Park Pond",
+      "towns": [
+        "Manchester"
+      ],
+      "management_type": null,
+      "stocked_dates": []
+    },
+    {
       "waterbody": "Hockanum River",
       "towns": [
         "Manchester"
@@ -1194,6 +1218,14 @@
         "Plainfield"
       ],
       "management_type": "TMA",
+      "stocked_dates": []
+    },
+    {
+      "waterbody": "Mashamoquet Brook",
+      "towns": [
+        "Pomfret"
+      ],
+      "management_type": "TP",
       "stocked_dates": []
     },
     {
@@ -1344,7 +1376,7 @@
       "stocked_dates": []
     },
     {
-      "waterbody": "Beaver Brook Park Pond (Bibbens Pond)",
+      "waterbody": "Beaver Brook Park Pond (Bibbins Pond)",
       "towns": [
         "Windham"
       ],
