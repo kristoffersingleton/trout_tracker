@@ -1,9 +1,92 @@
 {
-  "report_date": "2026-09-28",
+  "report_date": "2026-10-01",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-10-01",
+      "locations": [
+        {
+          "waterbody": "Blackberry River",
+          "towns": [
+            "Canaan",
+            "Norfolk"
+          ],
+          "management_type": "WTMA class 3: Rte.44 to Beckley Furnace"
+        },
+        {
+          "waterbody": "Farmington River (Lower Collinsville to RT 177)- TMA",
+          "towns": [
+            "Avon",
+            "Canton",
+            "Unionville"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Farmington River (RT 177 to Rt 4)",
+          "towns": [
+            "Avon",
+            "Farmington"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Highland Lake",
+          "towns": [
+            "Winchester"
+          ],
+          "management_type": "TML"
+        },
+        {
+          "waterbody": "Quinnipiac River",
+          "towns": [
+            "Meriden (Greenway Trail)"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Farmington River (Lower Collinsville to RT 177)",
+          "towns": [
+            "Avon",
+            "Canton",
+            "Unionville"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Farmington River (RT 177 to Rt 4)",
+          "towns": [
+            "Avon",
+            "Farmington"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Blackberry River",
+          "towns": [
+            "Canaan",
+            "Norfolk"
+          ],
+          "management_type": "WTMA class 3: Rte.44 to Beckley Furnace"
+        },
+        {
+          "waterbody": "Quinnipiac River",
+          "towns": [
+            "Meriden (Greenway Trail)"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Highland Lake",
+          "towns": [
+            "Winchester"
+          ],
+          "management_type": "TML"
+        }
+      ]
+    },
     {
       "date": "2026-09-21",
       "locations": [
@@ -180,7 +263,9 @@
         "Norfolk"
       ],
       "management_type": "WTMA class 3: Rte.44 to Beckley Furnace",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-01"
+      ]
     },
     {
       "waterbody": "Bunnells Pond (Beardsley Park Pond)",
@@ -273,7 +358,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-09-04"
+        "2026-09-04",
+        "2026-10-01"
       ]
     },
     {
@@ -295,7 +381,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-09-04"
+        "2026-09-04",
+        "2026-10-01"
       ]
     },
     {
@@ -339,7 +426,9 @@
         "Winchester"
       ],
       "management_type": "TML",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-01"
+      ]
     },
     {
       "waterbody": "Hockanum River",
@@ -538,7 +627,9 @@
         "Meriden (Greenway Trail)"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-01"
+      ]
     },
     {
       "waterbody": "Quonnipaug Lake",
@@ -776,7 +867,8 @@
       ],
       "management_type": "TMA",
       "stocked_dates": [
-        "2026-09-04"
+        "2026-09-04",
+        "2026-10-01"
       ]
     },
     {
@@ -787,7 +879,8 @@
       ],
       "management_type": "TMA",
       "stocked_dates": [
-        "2026-09-04"
+        "2026-09-04",
+        "2026-10-01"
       ]
     },
     {
@@ -830,7 +923,9 @@
         "Norfolk"
       ],
       "management_type": "WTMA class 3: Rte.44 to Beckley Furnace",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-01"
+      ]
     },
     {
       "waterbody": "Cedar Lake",
@@ -1115,7 +1210,9 @@
         "Meriden (Greenway Trail)"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-01"
+      ]
     },
     {
       "waterbody": "Black Pond",
@@ -1373,7 +1470,9 @@
         "Winchester"
       ],
       "management_type": "TML",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-01"
+      ]
     },
     {
       "waterbody": "Beaver Brook Park Pond (Bibbins Pond)",
