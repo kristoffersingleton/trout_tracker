@@ -1,9 +1,116 @@
 {
-  "report_date": "2026-10-01",
+  "report_date": "2026-10-02",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-10-02",
+      "locations": [
+        {
+          "waterbody": "Beaver Brook Park Pond (Bibbins Pond)",
+          "towns": [
+            "Windham"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Black Pond",
+          "towns": [
+            "Middlefield",
+            "Meriden"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Mashamoquet Brook",
+          "towns": [
+            "Pomfret"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Roseland Lake",
+          "towns": [
+            "Woodstock"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Salmon River",
+          "towns": [
+            "Colchester",
+            "East Hampton"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Salmon River- TMA",
+          "towns": [
+            "Colchester"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Wharton Brook Pond",
+          "towns": [
+            "Wallingford"
+          ],
+          "management_type": "Trout Park"
+        },
+        {
+          "waterbody": "Salmon River- TMA",
+          "towns": [
+            "Colchester"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Salmon River",
+          "towns": [
+            "Colchester",
+            "East Hampton"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Black Pond",
+          "towns": [
+            "Middlefield",
+            "Meriden"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Mashamoquet Brook",
+          "towns": [
+            "Pomfret"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Wharton Brook Pond",
+          "towns": [
+            "Wallingford"
+          ],
+          "management_type": "Trout Park"
+        },
+        {
+          "waterbody": "Beaver Brook Park Pond (Bibbins Pond)",
+          "towns": [
+            "Windham"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Roseland Lake",
+          "towns": [
+            "Woodstock"
+          ],
+          "management_type": null
+        }
+      ]
+    },
     {
       "date": "2026-10-01",
       "locations": [
@@ -221,7 +328,9 @@
         "Windham"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-02"
+      ]
     },
     {
       "waterbody": "Bigelow Pond",
@@ -238,7 +347,9 @@
         "Meriden"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-02"
+      ]
     },
     {
       "waterbody": "Black Pond",
@@ -476,7 +587,9 @@
         "Pomfret"
       ],
       "management_type": "TP",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-02"
+      ]
     },
     {
       "waterbody": "Mashapaug Lake",
@@ -653,7 +766,9 @@
         "Woodstock"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-02"
+      ]
     },
     {
       "waterbody": "Rogers Lake",
@@ -687,7 +802,9 @@
         "East Hampton"
       ],
       "management_type": "TTA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-02"
+      ]
     },
     {
       "waterbody": "Salmon River- TMA",
@@ -695,7 +812,9 @@
         "Colchester"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-02"
+      ]
     },
     {
       "waterbody": "Saugatuck River (Fly)",
@@ -831,7 +950,9 @@
         "Wallingford"
       ],
       "management_type": "Trout Park",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-02"
+      ]
     },
     {
       "waterbody": "Willimantic River",
@@ -967,7 +1088,9 @@
         "Colchester"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-02"
+      ]
     },
     {
       "waterbody": "Salmon River",
@@ -976,7 +1099,9 @@
         "East Hampton"
       ],
       "management_type": "TTA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-02"
+      ]
     },
     {
       "waterbody": "Mohawk Pond",
@@ -1221,7 +1346,9 @@
         "Meriden"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-02"
+      ]
     },
     {
       "waterbody": "Great Hollow Lake at Wolfe Park",
@@ -1323,7 +1450,9 @@
         "Pomfret"
       ],
       "management_type": "TP",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-02"
+      ]
     },
     {
       "waterbody": "Amos Lake",
@@ -1430,7 +1559,9 @@
         "Wallingford"
       ],
       "management_type": "Trout Park",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-02"
+      ]
     },
     {
       "waterbody": "Naugatuck River (Lower)",
@@ -1480,7 +1611,9 @@
         "Windham"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-02"
+      ]
     },
     {
       "waterbody": "Shetucket River",
@@ -1507,7 +1640,9 @@
         "Woodstock"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-02"
+      ]
     },
     {
       "waterbody": "Black Pond",
