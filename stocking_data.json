@@ -1,9 +1,62 @@
 {
-  "report_date": "2026-10-02",
+  "report_date": "2026-10-05",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-10-05",
+      "locations": [
+        {
+          "waterbody": "Natchaug River",
+          "towns": [
+            "Eastford",
+            "Chaplin",
+            "Windham"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Natchaug River- Trout Park",
+          "towns": [
+            "Eastford"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Willimantic River",
+          "towns": [
+            "Tolland",
+            "Willington"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Natchaug River- Trout Park",
+          "towns": [
+            "Eastford"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Natchaug River",
+          "towns": [
+            "Eastford",
+            "Chaplin",
+            "Windham"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Willimantic River",
+          "towns": [
+            "Tolland",
+            "Willington"
+          ],
+          "management_type": "TMA"
+        }
+      ]
+    },
     {
       "date": "2026-10-02",
       "locations": [
@@ -674,7 +727,9 @@
         "Windham"
       ],
       "management_type": "TTA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-05"
+      ]
     },
     {
       "waterbody": "Natchaug River- Trout Park",
@@ -682,7 +737,9 @@
         "Eastford"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-05"
+      ]
     },
     {
       "waterbody": "Naugatuck River",
@@ -961,7 +1018,9 @@
         "Willington"
       ],
       "management_type": "TMA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-05"
+      ]
     },
     {
       "waterbody": "Yantic River- TMA",
@@ -1145,7 +1204,9 @@
         "Eastford"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-05"
+      ]
     },
     {
       "waterbody": "Natchaug River",
@@ -1155,7 +1216,9 @@
         "Windham"
       ],
       "management_type": "TTA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-05"
+      ]
     },
     {
       "waterbody": "Crystal Lake",
@@ -1503,7 +1566,9 @@
         "Willington"
       ],
       "management_type": "TMA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-05"
+      ]
     },
     {
       "waterbody": "Stillwater Pond",
