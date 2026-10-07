@@ -5,6 +5,117 @@
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
     {
+      "date": "2026-10-06",
+      "locations": [
+        {
+          "waterbody": "East Aspetuck River \u2013WTMA 3",
+          "towns": [
+            "New Milford",
+            "New Preston"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Great Hollow Lake at Wolfe Park",
+          "towns": [
+            "Monroe"
+          ],
+          "management_type": "Trout Park"
+        },
+        {
+          "waterbody": "McGovern Pond",
+          "towns": [
+            "West Hartford"
+          ],
+          "management_type": "Trout Park"
+        },
+        {
+          "waterbody": "Moosup River",
+          "towns": [
+            "Plainfield"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Mt. Tom Pond",
+          "towns": [
+            "Litchfield",
+            "Washington"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Saugatuck River (Fly)",
+          "towns": [
+            "Westport"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Shetucket River",
+          "towns": [
+            "Windham",
+            "Scotland",
+            "Sprague"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Mt. Tom Pond",
+          "towns": [
+            "Litchfield",
+            "Washington"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Great Hollow Lake at Wolfe Park",
+          "towns": [
+            "Monroe"
+          ],
+          "management_type": "Trout Park"
+        },
+        {
+          "waterbody": "East Aspetuck River",
+          "towns": [
+            "New Milford",
+            "New Preston"
+          ],
+          "management_type": "WTMA 3"
+        },
+        {
+          "waterbody": "Moosup River",
+          "towns": [
+            "Plainfield"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "McGovern Pond",
+          "towns": [
+            "West Hartford"
+          ],
+          "management_type": "Trout Park"
+        },
+        {
+          "waterbody": "Saugatuck River (Fly)- TMA",
+          "towns": [
+            "Westport"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Shetucket River",
+          "towns": [
+            "Windham",
+            "Scotland",
+            "Sprague"
+          ],
+          "management_type": "TTA"
+        }
+      ]
+    },
+    {
       "date": "2026-10-05",
       "locations": [
         {
@@ -494,7 +605,9 @@
         "New Preston"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-06"
+      ]
     },
     {
       "waterbody": "East Twin Lake",
@@ -555,7 +668,9 @@
         "Monroe"
       ],
       "management_type": "Trout Park",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-06"
+      ]
     },
     {
       "waterbody": "Hammonasset River- OPEN",
@@ -658,7 +773,9 @@
         "West Hartford"
       ],
       "management_type": "Trout Park",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-06"
+      ]
     },
     {
       "waterbody": "Mianus River",
@@ -708,7 +825,9 @@
         "Plainfield"
       ],
       "management_type": "TMA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-06"
+      ]
     },
     {
       "waterbody": "Mt. Tom Pond",
@@ -717,7 +836,9 @@
         "Washington"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-06"
+      ]
     },
     {
       "waterbody": "Natchaug River",
@@ -879,7 +1000,9 @@
         "Westport"
       ],
       "management_type": "TMA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-06"
+      ]
     },
     {
       "waterbody": "Sawmill Pond",
@@ -906,7 +1029,9 @@
         "Sprague"
       ],
       "management_type": "TTA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-06"
+      ]
     },
     {
       "waterbody": "Squantz Pond",
@@ -1348,7 +1473,9 @@
         "Washington"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-06"
+      ]
     },
     {
       "waterbody": "Rogers Lake",
@@ -1419,7 +1546,9 @@
         "Monroe"
       ],
       "management_type": "Trout Park",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-06"
+      ]
     },
     {
       "waterbody": "Billings Lake",
@@ -1489,7 +1618,9 @@
         "New Preston"
       ],
       "management_type": "WTMA 3",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-06"
+      ]
     },
     {
       "waterbody": "Mohegan Park Pond",
@@ -1505,7 +1636,9 @@
         "Plainfield"
       ],
       "management_type": "TMA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-06"
+      ]
     },
     {
       "waterbody": "Mashamoquet Brook",
@@ -1650,7 +1783,9 @@
         "West Hartford"
       ],
       "management_type": "Trout Park",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-06"
+      ]
     },
     {
       "waterbody": "Saugatuck River (Fly)- TMA",
@@ -1658,7 +1793,9 @@
         "Westport"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-06"
+      ]
     },
     {
       "waterbody": "Highland Lake",
@@ -1688,7 +1825,9 @@
         "Sprague"
       ],
       "management_type": "TTA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-06"
+      ]
     },
     {
       "waterbody": "Pomperaug River",
