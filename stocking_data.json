@@ -1,9 +1,161 @@
 {
-  "report_date": "2026-10-05",
+  "report_date": "2026-10-07",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-10-07",
+      "locations": [
+        {
+          "waterbody": "Center Springs Park Pond",
+          "towns": [
+            "Manchester"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Chatfield Hollow Pond (Schreeder Pond)",
+          "towns": [
+            "Killingworth"
+          ],
+          "management_type": "Trout Park"
+        },
+        {
+          "waterbody": "Crystal Lake",
+          "towns": [
+            "Ellington"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Hammonasset River- OPEN",
+          "towns": [
+            "Clinton",
+            "Madison",
+            "Killingworth"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Hammonasset River",
+          "towns": [
+            "Madison",
+            "Killingworth"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Mohegan Park Pond",
+          "towns": [
+            "Norwich"
+          ],
+          "management_type": "Trout Park"
+        },
+        {
+          "waterbody": "Moosup River",
+          "towns": [
+            "Plainfield"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Valley Falls Park Pond",
+          "towns": [
+            "Vernon"
+          ],
+          "management_type": "Trout Park"
+        },
+        {
+          "waterbody": "Wangumbaug Lake (Coventry Lake)",
+          "towns": [
+            "Coventry"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Yantic River- TMA",
+          "towns": [
+            "Bozrah"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Yantic River- TMA",
+          "towns": [
+            "Bozrah"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Hammonasset River- OPEN",
+          "towns": [
+            "Clinton",
+            "Madison",
+            "Killingworth"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Wangumbaug Lake (Coventry Lake)",
+          "towns": [
+            "Coventry"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Crystal Lake",
+          "towns": [
+            "Ellington"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Chatfield Hollow Pond (Schreeder Pond)",
+          "towns": [
+            "Killingworth"
+          ],
+          "management_type": "Trout Park"
+        },
+        {
+          "waterbody": "Mt. Tom Pond",
+          "towns": [
+            "Litchfield",
+            "Washington"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Hammonasset River",
+          "towns": [
+            "Madison",
+            "Killingworth"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Center Springs Park Pond",
+          "towns": [
+            "Manchester"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Mohegan Park Pond",
+          "towns": [
+            "Norwich"
+          ],
+          "management_type": "Trout Park"
+        },
+        {
+          "waterbody": "Valley Falls Park Pond",
+          "towns": [
+            "Vernon"
+          ],
+          "management_type": "Trout Park"
+        }
+      ]
+    },
     {
       "date": "2026-10-06",
       "locations": [
@@ -564,7 +716,9 @@
         "Manchester"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-07"
+      ]
     },
     {
       "waterbody": "Chatfield Hollow Pond (Schreeder Pond)",
@@ -572,7 +726,9 @@
         "Killingworth"
       ],
       "management_type": "Trout Park",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-07"
+      ]
     },
     {
       "waterbody": "Colony Park Pond",
@@ -588,7 +744,9 @@
         "Ellington"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-07"
+      ]
     },
     {
       "waterbody": "Day Pond",
@@ -680,7 +838,9 @@
         "Killingworth"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-07"
+      ]
     },
     {
       "waterbody": "Hammonasset River",
@@ -689,7 +849,9 @@
         "Killingworth"
       ],
       "management_type": "TMA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-07"
+      ]
     },
     {
       "waterbody": "Hewitt\u2019s Fly Pond (Gallup Pond)",
@@ -817,7 +979,9 @@
         "Norwich"
       ],
       "management_type": "Trout Park",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-07"
+      ]
     },
     {
       "waterbody": "Moosup River",
@@ -826,7 +990,8 @@
       ],
       "management_type": "TMA",
       "stocked_dates": [
-        "2026-10-06"
+        "2026-10-06",
+        "2026-10-07"
       ]
     },
     {
@@ -1091,7 +1256,9 @@
         "Vernon"
       ],
       "management_type": "Trout Park",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-07"
+      ]
     },
     {
       "waterbody": "Wangumbaug Lake (Coventry Lake)",
@@ -1099,7 +1266,9 @@
         "Coventry"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-07"
+      ]
     },
     {
       "waterbody": "Wauregan Reservoir (Quinebaug Lake)",
@@ -1153,7 +1322,9 @@
         "Bozrah"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-07"
+      ]
     },
     {
       "waterbody": "Colony Park Pond",
@@ -1203,7 +1374,9 @@
         "Bozrah"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-07"
+      ]
     },
     {
       "waterbody": "Bunnells Pond (Beardsley Park Pond)",
@@ -1248,7 +1421,9 @@
         "Killingworth"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-07"
+      ]
     },
     {
       "waterbody": "West Branch Reservoir",
@@ -1313,7 +1488,9 @@
         "Coventry"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-07"
+      ]
     },
     {
       "waterbody": "Pickett's Pond",
@@ -1351,7 +1528,9 @@
         "Ellington"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-07"
+      ]
     },
     {
       "waterbody": "Mill River",
@@ -1464,7 +1643,9 @@
         "Killingworth"
       ],
       "management_type": "Trout Park",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-07"
+      ]
     },
     {
       "waterbody": "Mt. Tom Pond",
@@ -1474,7 +1655,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-10-06"
+        "2026-10-06",
+        "2026-10-07"
       ]
     },
     {
@@ -1501,7 +1683,9 @@
         "Killingworth"
       ],
       "management_type": "TMA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-07"
+      ]
     },
     {
       "waterbody": "Center Springs Park Pond",
@@ -1509,7 +1693,9 @@
         "Manchester"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-07"
+      ]
     },
     {
       "waterbody": "Hockanum River",
@@ -1628,7 +1814,9 @@
         "Norwich"
       ],
       "management_type": "Trout Park",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-07"
+      ]
     },
     {
       "waterbody": "Moosup River",
@@ -1741,7 +1929,9 @@
         "Vernon"
       ],
       "management_type": "Trout Park",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-07"
+      ]
     },
     {
       "waterbody": "Beach Pond",
