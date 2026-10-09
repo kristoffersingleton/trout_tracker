@@ -1,9 +1,146 @@
 {
-  "report_date": "2026-10-07",
+  "report_date": "2026-10-08",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-10-08",
+      "locations": [
+        {
+          "waterbody": "Amos Lake",
+          "towns": [
+            "Preston"
+          ],
+          "management_type": "TML"
+        },
+        {
+          "waterbody": "Beach Pond",
+          "towns": [
+            "Voluntown"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Christensen\u2019s Pond",
+          "towns": [
+            "Granby"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Day Pond",
+          "towns": [
+            "Colchester"
+          ],
+          "management_type": "Trout Park"
+        },
+        {
+          "waterbody": "Gardner Lake",
+          "towns": [
+            "Salem",
+            "Bozrah"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Long Pond",
+          "towns": [
+            "N. Stonington",
+            "Ledyard"
+          ],
+          "management_type": "TML"
+        },
+        {
+          "waterbody": "Rogers Lake",
+          "towns": [
+            "Lyme",
+            "Old Lyme"
+          ],
+          "management_type": "TML"
+        },
+        {
+          "waterbody": "Salmon Brook, E. Branch",
+          "towns": [
+            "Granby"
+          ],
+          "management_type": "WTMA 3"
+        },
+        {
+          "waterbody": "Stratton Brook Park Pond",
+          "towns": [
+            "Simsbury"
+          ],
+          "management_type": "Trout Park"
+        },
+        {
+          "waterbody": "Day Pond",
+          "towns": [
+            "Colchester"
+          ],
+          "management_type": "Trout Park"
+        },
+        {
+          "waterbody": "Christensen\u2019s Pond",
+          "towns": [
+            "Granby"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Salmon Brook, E. Branch",
+          "towns": [
+            "Granby"
+          ],
+          "management_type": "WTMA 3"
+        },
+        {
+          "waterbody": "Rogers Lake",
+          "towns": [
+            "Lyme",
+            "Old Lyme"
+          ],
+          "management_type": "TML"
+        },
+        {
+          "waterbody": "Long Pond",
+          "towns": [
+            "N. Stonington",
+            "Ledyard"
+          ],
+          "management_type": "TML"
+        },
+        {
+          "waterbody": "Amos Lake",
+          "towns": [
+            "Preston"
+          ],
+          "management_type": "TML"
+        },
+        {
+          "waterbody": "Gardner Lake",
+          "towns": [
+            "Salem",
+            "Bozrah"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Stratton Brook Park Pond",
+          "towns": [
+            "Simsbury"
+          ],
+          "management_type": "Trout Park"
+        },
+        {
+          "waterbody": "Beach Pond",
+          "towns": [
+            "Voluntown"
+          ],
+          "management_type": null
+        }
+      ]
+    },
     {
       "date": "2026-10-07",
       "locations": [
@@ -628,7 +765,9 @@
         "Preston"
       ],
       "management_type": "TML",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-08"
+      ]
     },
     {
       "waterbody": "Beach Pond",
@@ -636,7 +775,9 @@
         "Voluntown"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-08"
+      ]
     },
     {
       "waterbody": "Beaver Brook Park Pond (Bibbins Pond)",
@@ -731,6 +872,16 @@
       ]
     },
     {
+      "waterbody": "Christensen\u2019s Pond",
+      "towns": [
+        "Granby"
+      ],
+      "management_type": null,
+      "stocked_dates": [
+        "2026-10-08"
+      ]
+    },
+    {
       "waterbody": "Colony Park Pond",
       "towns": [
         "Ansonia"
@@ -754,7 +905,9 @@
         "Colchester"
       ],
       "management_type": "Trout Park",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-08"
+      ]
     },
     {
       "waterbody": "East Aspetuck River \u2013WTMA 3",
@@ -782,7 +935,9 @@
         "Bozrah"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-08"
+      ]
     },
     {
       "waterbody": "Farmington River (Lower Collinsville to RT 177)- TMA",
@@ -909,7 +1064,9 @@
         "Ledyard"
       ],
       "management_type": "TML",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-08"
+      ]
     },
     {
       "waterbody": "Mashamoquet Brook",
@@ -1120,7 +1277,9 @@
         "Old Lyme"
       ],
       "management_type": "TML",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-08"
+      ]
     },
     {
       "waterbody": "Saint Martha\u2019s Pond",
@@ -1136,7 +1295,9 @@
         "Granby"
       ],
       "management_type": "WTMA 3",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-08"
+      ]
     },
     {
       "waterbody": "Salmon River",
@@ -1229,7 +1390,9 @@
         "Simsbury"
       ],
       "management_type": "Trout Park",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-08"
+      ]
     },
     {
       "waterbody": "Tenmile River, Bull's Bridge- TMA",
@@ -1439,7 +1602,9 @@
         "Colchester"
       ],
       "management_type": "Trout Park",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-08"
+      ]
     },
     {
       "waterbody": "Salmon River- TMA",
@@ -1565,12 +1730,24 @@
       "stocked_dates": []
     },
     {
+      "waterbody": "Christensen\u2019s Pond",
+      "towns": [
+        "Granby"
+      ],
+      "management_type": null,
+      "stocked_dates": [
+        "2026-10-08"
+      ]
+    },
+    {
       "waterbody": "Salmon Brook, E. Branch",
       "towns": [
         "Granby"
       ],
       "management_type": "WTMA 3",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-08"
+      ]
     },
     {
       "waterbody": "Mianus River",
@@ -1666,7 +1843,9 @@
         "Old Lyme"
       ],
       "management_type": "TML",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-08"
+      ]
     },
     {
       "waterbody": "Sawmill Pond",
@@ -1759,7 +1938,9 @@
         "Ledyard"
       ],
       "management_type": "TML",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-08"
+      ]
     },
     {
       "waterbody": "Stanley Quarter Park Pond",
@@ -1844,7 +2025,9 @@
         "Preston"
       ],
       "management_type": "TML",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-08"
+      ]
     },
     {
       "waterbody": "Gardner Lake",
@@ -1853,7 +2036,9 @@
         "Bozrah"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-08"
+      ]
     },
     {
       "waterbody": "East Twin Lake",
@@ -1869,7 +2054,9 @@
         "Simsbury"
       ],
       "management_type": "Trout Park",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-08"
+      ]
     },
     {
       "waterbody": "Scantic River (Upper)",
@@ -1939,7 +2126,9 @@
         "Voluntown"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-08"
+      ]
     },
     {
       "waterbody": "Wharton Brook Pond",
