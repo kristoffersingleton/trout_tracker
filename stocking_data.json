@@ -1,9 +1,76 @@
 {
-  "report_date": "2026-10-08",
+  "report_date": "2026-10-09",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-10-09",
+      "locations": [
+        {
+          "waterbody": "Black Rock Pond",
+          "towns": [
+            "Watertown"
+          ],
+          "management_type": "Trout Park"
+        },
+        {
+          "waterbody": "Naugatuck River",
+          "towns": [
+            "Harwinton",
+            "Litchfield"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Naugatuck River (Lower)",
+          "towns": [
+            "Waterbury - Beacon Falls"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Shetucket River",
+          "towns": [
+            "Windham",
+            "Scotland",
+            "Sprague"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Naugatuck River",
+          "towns": [
+            "Harwinton",
+            "Litchfield"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Naugatuck River (Lower)",
+          "towns": [
+            "Waterbury - Beacon Falls"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Black Rock Pond",
+          "towns": [
+            "Watertown"
+          ],
+          "management_type": "Trout Park"
+        },
+        {
+          "waterbody": "Shetucket River",
+          "towns": [
+            "Windham",
+            "Scotland",
+            "Sprague"
+          ],
+          "management_type": "TTA"
+        }
+      ]
+    },
     {
       "date": "2026-10-08",
       "locations": [
@@ -822,7 +889,9 @@
         "Watertown"
       ],
       "management_type": "Trout Park",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-09"
+      ]
     },
     {
       "waterbody": "Blackberry River",
@@ -1191,7 +1260,9 @@
         "Litchfield"
       ],
       "management_type": "TMA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-09"
+      ]
     },
     {
       "waterbody": "Naugatuck River (Lower)",
@@ -1199,7 +1270,9 @@
         "Waterbury - Beacon Falls"
       ],
       "management_type": "TTA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-09"
+      ]
     },
     {
       "waterbody": "Pequabuck River (RTS 229-177)",
@@ -1356,7 +1429,8 @@
       ],
       "management_type": "TTA",
       "stocked_dates": [
-        "2026-10-06"
+        "2026-10-06",
+        "2026-10-09"
       ]
     },
     {
@@ -1781,7 +1855,9 @@
         "Litchfield"
       ],
       "management_type": "TMA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-09"
+      ]
     },
     {
       "waterbody": "Tenmile River, Bull's Bridge- TMA",
@@ -2146,7 +2222,9 @@
         "Waterbury - Beacon Falls"
       ],
       "management_type": "TTA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-09"
+      ]
     },
     {
       "waterbody": "Black Rock Pond",
@@ -2154,7 +2232,9 @@
         "Watertown"
       ],
       "management_type": "Trout Park",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-09"
+      ]
     },
     {
       "waterbody": "McGovern Pond",
@@ -2205,7 +2285,8 @@
       ],
       "management_type": "TTA",
       "stocked_dates": [
-        "2026-10-06"
+        "2026-10-06",
+        "2026-10-09"
       ]
     },
     {
