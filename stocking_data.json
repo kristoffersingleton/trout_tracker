@@ -1,9 +1,114 @@
 {
-  "report_date": "2026-10-09",
+  "report_date": "2026-10-13",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-10-13",
+      "locations": [
+        {
+          "waterbody": "Angus Park Pond (Eastbury Pond)",
+          "towns": [
+            "Glastonbury"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Hockanum River",
+          "towns": [
+            "Manchester"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Mill River (Sleeping Giant State Park)",
+          "towns": [
+            "Hamden"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Pequabuck River (RTS 229-177)",
+          "towns": [
+            "Bristol"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Pequonnock River (Trumbull Basin) - TTA\nPermit required for non-residents to park in Trumbull Town parks. Please\ncall 203-452-5060 to make an appt with the P&R Dept. A valid Fishing\nLicense, Vehicle Registration, and ID are required.",
+          "towns": [
+            "Trumbull"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Pomperaug River",
+          "towns": [
+            "Woodbury",
+            "Southbury"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Roaring Brook",
+          "towns": [
+            "Glastonbury"
+          ],
+          "management_type": "WTMA 3"
+        },
+        {
+          "waterbody": "Pequabuck River (RTS 229-177)",
+          "towns": [
+            "Bristol"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Roaring Brook",
+          "towns": [
+            "Glastonbury"
+          ],
+          "management_type": "WTMA3"
+        },
+        {
+          "waterbody": "Angus Park Pond (Eastbury Pond)",
+          "towns": [
+            "Glastonbury"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Mill River (Sleeping Giant State Park)",
+          "towns": [
+            "Hamden"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Hockanum River",
+          "towns": [
+            "Manchester"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Pequonnock River (Trumbull Basin) - TTA\nPermit required for non-residents to park in Trumbull Town parks. Please\ncall 203-452-5060 to make an appt with the P&R Dept. A valid Fishing\nLicense, Vehicle Registration, and ID are required.",
+          "towns": [
+            "Trumbull"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Pomperaug River",
+          "towns": [
+            "Woodbury",
+            "Southbury"
+          ],
+          "management_type": "TTA"
+        }
+      ]
+    },
     {
       "date": "2026-10-09",
       "locations": [
@@ -257,11 +362,12 @@
           "management_type": "Trout Park"
         },
         {
-          "waterbody": "Moosup River",
+          "waterbody": "Mt. Tom Pond",
           "towns": [
-            "Plainfield"
+            "Litchfield",
+            "Washington"
           ],
-          "management_type": "TMA"
+          "management_type": null
         },
         {
           "waterbody": "Valley Falls Park Pond",
@@ -837,6 +943,16 @@
       ]
     },
     {
+      "waterbody": "Angus Park Pond (Eastbury Pond)",
+      "towns": [
+        "Glastonbury"
+      ],
+      "management_type": null,
+      "stocked_dates": [
+        "2026-10-13"
+      ]
+    },
+    {
       "waterbody": "Beach Pond",
       "towns": [
         "Voluntown"
@@ -1101,7 +1217,9 @@
         "Manchester"
       ],
       "management_type": "TMA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-13"
+      ]
     },
     {
       "waterbody": "Housatonic River (Bull's Bridge)- TMA",
@@ -1188,7 +1306,9 @@
         "Hamden"
       ],
       "management_type": "TMA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-13"
+      ]
     },
     {
       "waterbody": "Mohawk Pond",
@@ -1216,8 +1336,7 @@
       ],
       "management_type": "TMA",
       "stocked_dates": [
-        "2026-10-06",
-        "2026-10-07"
+        "2026-10-06"
       ]
     },
     {
@@ -1228,7 +1347,8 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-10-06"
+        "2026-10-06",
+        "2026-10-07"
       ]
     },
     {
@@ -1280,7 +1400,9 @@
         "Bristol"
       ],
       "management_type": "TMA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-13"
+      ]
     },
     {
       "waterbody": "Pequonnock River (Trumbull Basin) - TTA\nPermit required for non-residents to park in Trumbull Town parks. Please\ncall 203-452-5060 to make an appt with the P&R Dept. A valid Fishing\nLicense, Vehicle Registration, and ID are required.",
@@ -1288,7 +1410,9 @@
         "Trumbull"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-13"
+      ]
     },
     {
       "waterbody": "Pickett's Pond",
@@ -1305,7 +1429,9 @@
         "Southbury"
       ],
       "management_type": "TTA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-13"
+      ]
     },
     {
       "waterbody": "Quinnipiac River",
@@ -1331,7 +1457,9 @@
         "Glastonbury"
       ],
       "management_type": "WTMA 3",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-13"
+      ]
     },
     {
       "waterbody": "Roseland Lake",
@@ -1629,7 +1757,9 @@
         "Bristol"
       ],
       "management_type": "TMA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-13"
+      ]
     },
     {
       "waterbody": "Blackberry River",
@@ -1785,7 +1915,19 @@
         "Glastonbury"
       ],
       "management_type": "WTMA3",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-13"
+      ]
+    },
+    {
+      "waterbody": "Angus Park Pond (Eastbury Pond)",
+      "towns": [
+        "Glastonbury"
+      ],
+      "management_type": null,
+      "stocked_dates": [
+        "2026-10-13"
+      ]
     },
     {
       "waterbody": "Tyler Pond",
@@ -1846,7 +1988,9 @@
         "Hamden"
       ],
       "management_type": "TMA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-13"
+      ]
     },
     {
       "waterbody": "Naugatuck River",
@@ -1958,7 +2102,9 @@
         "Manchester"
       ],
       "management_type": "TMA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-13"
+      ]
     },
     {
       "waterbody": "Quinnipiac River",
@@ -2168,7 +2314,9 @@
         "Trumbull"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-13"
+      ]
     },
     {
       "waterbody": "Bigelow Pond",
@@ -2296,7 +2444,9 @@
         "Southbury"
       ],
       "management_type": "TTA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-13"
+      ]
     },
     {
       "waterbody": "Roseland Lake",
