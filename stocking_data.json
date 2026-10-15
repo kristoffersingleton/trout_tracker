@@ -1,9 +1,137 @@
 {
-  "report_date": "2026-10-13",
+  "report_date": "2026-10-14",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-10-14",
+      "locations": [
+        {
+          "waterbody": "Bigelow Pond",
+          "towns": [
+            "Union"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Black Pond",
+          "towns": [
+            "Woodstock"
+          ],
+          "management_type": "TML"
+        },
+        {
+          "waterbody": "Crystal Lake",
+          "towns": [
+            "Ellington"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Hewitt\u2019s Fly Pond (Gallup Pond)",
+          "towns": [
+            "N. Stonington"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Mashapaug Lake",
+          "towns": [
+            "Union"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Mianus River",
+          "towns": [
+            "Greenwich",
+            "Stamford"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Mohegan Park Pond",
+          "towns": [
+            "Norwich"
+          ],
+          "management_type": "Trout Park"
+        },
+        {
+          "waterbody": "Sawmill Pond",
+          "towns": [
+            "Ledyard"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Scantic River (Upper)",
+          "towns": [
+            "Somers",
+            "Enfield"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Crystal Lake",
+          "towns": [
+            "Ellington"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Mianus River",
+          "towns": [
+            "Greenwich",
+            "Stamford"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Sawmill Pond",
+          "towns": [
+            "Ledyard"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Hewitt\u2019s Fly Pond (Gallup Pond)",
+          "towns": [
+            "N. Stonington"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Scantic River (Upper)",
+          "towns": [
+            "Somers",
+            "Enfield"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Bigelow Pond",
+          "towns": [
+            "Union"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Mashapaug Lake",
+          "towns": [
+            "Union"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Black Pond",
+          "towns": [
+            "Woodstock"
+          ],
+          "management_type": "TML"
+        }
+      ]
+    },
     {
       "date": "2026-10-13",
       "locations": [
@@ -331,13 +459,6 @@
           "management_type": "Trout Park"
         },
         {
-          "waterbody": "Crystal Lake",
-          "towns": [
-            "Ellington"
-          ],
-          "management_type": null
-        },
-        {
           "waterbody": "Hammonasset River- OPEN",
           "towns": [
             "Clinton",
@@ -353,13 +474,6 @@
             "Killingworth"
           ],
           "management_type": "TMA"
-        },
-        {
-          "waterbody": "Mohegan Park Pond",
-          "towns": [
-            "Norwich"
-          ],
-          "management_type": "Trout Park"
         },
         {
           "waterbody": "Mt. Tom Pond",
@@ -410,13 +524,6 @@
           "waterbody": "Wangumbaug Lake (Coventry Lake)",
           "towns": [
             "Coventry"
-          ],
-          "management_type": null
-        },
-        {
-          "waterbody": "Crystal Lake",
-          "towns": [
-            "Ellington"
           ],
           "management_type": null
         },
@@ -978,7 +1085,9 @@
         "Union"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-14"
+      ]
     },
     {
       "waterbody": "Black Pond",
@@ -997,7 +1106,9 @@
         "Woodstock"
       ],
       "management_type": "TML",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-14"
+      ]
     },
     {
       "waterbody": "Black Rock Pond",
@@ -1081,7 +1192,7 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-10-07"
+        "2026-10-14"
       ]
     },
     {
@@ -1199,7 +1310,9 @@
         "N. Stonington"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-14"
+      ]
     },
     {
       "waterbody": "Highland Lake",
@@ -1271,7 +1384,9 @@
         "Union"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-14"
+      ]
     },
     {
       "waterbody": "McGovern Pond",
@@ -1290,7 +1405,9 @@
         "Stamford"
       ],
       "management_type": "TMA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-14"
+      ]
     },
     {
       "waterbody": "Mill River",
@@ -1326,7 +1443,7 @@
       ],
       "management_type": "Trout Park",
       "stocked_dates": [
-        "2026-10-07"
+        "2026-10-14"
       ]
     },
     {
@@ -1537,7 +1654,9 @@
         "Ledyard"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-14"
+      ]
     },
     {
       "waterbody": "Scantic River (Upper)",
@@ -1546,7 +1665,9 @@
         "Enfield"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-14"
+      ]
     },
     {
       "waterbody": "Shetucket River",
@@ -1898,7 +2019,7 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-10-07"
+        "2026-10-14"
       ]
     },
     {
@@ -1972,7 +2093,9 @@
         "Stamford"
       ],
       "management_type": "TMA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-14"
+      ]
     },
     {
       "waterbody": "Quonnipaug Lake",
@@ -2073,7 +2196,9 @@
         "Ledyard"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-14"
+      ]
     },
     {
       "waterbody": "Hammonasset River",
@@ -2151,7 +2276,9 @@
         "N. Stonington"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-14"
+      ]
     },
     {
       "waterbody": "Long Pond",
@@ -2287,7 +2414,9 @@
         "Enfield"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-14"
+      ]
     },
     {
       "waterbody": "Willimantic River",
@@ -2324,7 +2453,9 @@
         "Union"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-14"
+      ]
     },
     {
       "waterbody": "Mashapaug Lake",
@@ -2332,7 +2463,9 @@
         "Union"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-14"
+      ]
     },
     {
       "waterbody": "Valley Falls Park Pond",
@@ -2464,7 +2597,9 @@
         "Woodstock"
       ],
       "management_type": "TML",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-14"
+      ]
     }
   ]
 }
