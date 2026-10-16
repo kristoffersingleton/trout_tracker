@@ -1,9 +1,111 @@
 {
-  "report_date": "2026-10-14",
+  "report_date": "2026-10-16",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-10-16",
+      "locations": [
+        {
+          "waterbody": "Black Pond",
+          "towns": [
+            "Woodstock"
+          ],
+          "management_type": "TML"
+        },
+        {
+          "waterbody": "Bunnells Pond (Beardsley Park Pond)",
+          "towns": [
+            "Bridgeport"
+          ],
+          "management_type": "CFW"
+        },
+        {
+          "waterbody": "Mohawk Pond",
+          "towns": [
+            "Cornwall",
+            "Goshen"
+          ],
+          "management_type": "TML"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "locations": [
+        {
+          "waterbody": "Black Rock Pond",
+          "towns": [
+            "Watertown"
+          ],
+          "management_type": "Trout Park"
+        },
+        {
+          "waterbody": "Cedar Lake",
+          "towns": [
+            "Chester"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Chatfield Hollow Pond (Schreeder Pond)",
+          "towns": [
+            "Killingworth"
+          ],
+          "management_type": "Trout Park"
+        },
+        {
+          "waterbody": "Colony Park Pond",
+          "towns": [
+            "Ansonia"
+          ],
+          "management_type": "CFW"
+        },
+        {
+          "waterbody": "Day Pond",
+          "towns": [
+            "Colchester"
+          ],
+          "management_type": "Trout Park"
+        },
+        {
+          "waterbody": "Great Hollow Lake at Wolfe Park",
+          "towns": [
+            "Monroe"
+          ],
+          "management_type": "Trout Park"
+        },
+        {
+          "waterbody": "McGovern Pond",
+          "towns": [
+            "West Hartford"
+          ],
+          "management_type": "Trout Park"
+        },
+        {
+          "waterbody": "Pequonnock River (Trumbull Basin) - TTA\nPermit required for non-residents to park in Trumbull Town parks. Please\ncall 203-452-5060 to make an appt with the P&R Dept. A valid Fishing\nLicense, Vehicle Registration, and ID are required.",
+          "towns": [
+            "Trumbull"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Pickett's Pond",
+          "towns": [
+            "Derby"
+          ],
+          "management_type": "CFW"
+        },
+        {
+          "waterbody": "Quonnipaug Lake",
+          "towns": [
+            "Guilford"
+          ],
+          "management_type": "TML"
+        }
+      ]
+    },
     {
       "date": "2026-10-14",
       "locations": [
@@ -13,13 +115,6 @@
             "Union"
           ],
           "management_type": null
-        },
-        {
-          "waterbody": "Black Pond",
-          "towns": [
-            "Woodstock"
-          ],
-          "management_type": "TML"
         },
         {
           "waterbody": "Crystal Lake",
@@ -71,64 +166,6 @@
             "Enfield"
           ],
           "management_type": null
-        },
-        {
-          "waterbody": "Crystal Lake",
-          "towns": [
-            "Ellington"
-          ],
-          "management_type": null
-        },
-        {
-          "waterbody": "Mianus River",
-          "towns": [
-            "Greenwich",
-            "Stamford"
-          ],
-          "management_type": "TMA"
-        },
-        {
-          "waterbody": "Sawmill Pond",
-          "towns": [
-            "Ledyard"
-          ],
-          "management_type": null
-        },
-        {
-          "waterbody": "Hewitt\u2019s Fly Pond (Gallup Pond)",
-          "towns": [
-            "N. Stonington"
-          ],
-          "management_type": null
-        },
-        {
-          "waterbody": "Scantic River (Upper)",
-          "towns": [
-            "Somers",
-            "Enfield"
-          ],
-          "management_type": null
-        },
-        {
-          "waterbody": "Bigelow Pond",
-          "towns": [
-            "Union"
-          ],
-          "management_type": null
-        },
-        {
-          "waterbody": "Mashapaug Lake",
-          "towns": [
-            "Union"
-          ],
-          "management_type": null
-        },
-        {
-          "waterbody": "Black Pond",
-          "towns": [
-            "Woodstock"
-          ],
-          "management_type": "TML"
         }
       ]
     },
@@ -164,13 +201,6 @@
           "management_type": "TMA"
         },
         {
-          "waterbody": "Pequonnock River (Trumbull Basin) - TTA\nPermit required for non-residents to park in Trumbull Town parks. Please\ncall 203-452-5060 to make an appt with the P&R Dept. A valid Fishing\nLicense, Vehicle Registration, and ID are required.",
-          "towns": [
-            "Trumbull"
-          ],
-          "management_type": null
-        },
-        {
           "waterbody": "Pomperaug River",
           "towns": [
             "Woodbury",
@@ -184,56 +214,6 @@
             "Glastonbury"
           ],
           "management_type": "WTMA 3"
-        },
-        {
-          "waterbody": "Pequabuck River (RTS 229-177)",
-          "towns": [
-            "Bristol"
-          ],
-          "management_type": "TMA"
-        },
-        {
-          "waterbody": "Roaring Brook",
-          "towns": [
-            "Glastonbury"
-          ],
-          "management_type": "WTMA3"
-        },
-        {
-          "waterbody": "Angus Park Pond (Eastbury Pond)",
-          "towns": [
-            "Glastonbury"
-          ],
-          "management_type": null
-        },
-        {
-          "waterbody": "Mill River (Sleeping Giant State Park)",
-          "towns": [
-            "Hamden"
-          ],
-          "management_type": "TMA"
-        },
-        {
-          "waterbody": "Hockanum River",
-          "towns": [
-            "Manchester"
-          ],
-          "management_type": "TMA"
-        },
-        {
-          "waterbody": "Pequonnock River (Trumbull Basin) - TTA\nPermit required for non-residents to park in Trumbull Town parks. Please\ncall 203-452-5060 to make an appt with the P&R Dept. A valid Fishing\nLicense, Vehicle Registration, and ID are required.",
-          "towns": [
-            "Trumbull"
-          ],
-          "management_type": null
-        },
-        {
-          "waterbody": "Pomperaug River",
-          "towns": [
-            "Woodbury",
-            "Southbury"
-          ],
-          "management_type": "TTA"
         }
       ]
     },
@@ -241,13 +221,6 @@
       "date": "2026-10-09",
       "locations": [
         {
-          "waterbody": "Black Rock Pond",
-          "towns": [
-            "Watertown"
-          ],
-          "management_type": "Trout Park"
-        },
-        {
           "waterbody": "Naugatuck River",
           "towns": [
             "Harwinton",
@@ -261,37 +234,6 @@
             "Waterbury - Beacon Falls"
           ],
           "management_type": "TTA"
-        },
-        {
-          "waterbody": "Shetucket River",
-          "towns": [
-            "Windham",
-            "Scotland",
-            "Sprague"
-          ],
-          "management_type": "TTA"
-        },
-        {
-          "waterbody": "Naugatuck River",
-          "towns": [
-            "Harwinton",
-            "Litchfield"
-          ],
-          "management_type": "TMA"
-        },
-        {
-          "waterbody": "Naugatuck River (Lower)",
-          "towns": [
-            "Waterbury - Beacon Falls"
-          ],
-          "management_type": "TTA"
-        },
-        {
-          "waterbody": "Black Rock Pond",
-          "towns": [
-            "Watertown"
-          ],
-          "management_type": "Trout Park"
         },
         {
           "waterbody": "Shetucket River",
@@ -329,13 +271,6 @@
           "management_type": null
         },
         {
-          "waterbody": "Day Pond",
-          "towns": [
-            "Colchester"
-          ],
-          "management_type": "Trout Park"
-        },
-        {
           "waterbody": "Gardner Lake",
           "towns": [
             "Salem",
@@ -372,72 +307,6 @@
             "Simsbury"
           ],
           "management_type": "Trout Park"
-        },
-        {
-          "waterbody": "Day Pond",
-          "towns": [
-            "Colchester"
-          ],
-          "management_type": "Trout Park"
-        },
-        {
-          "waterbody": "Christensen\u2019s Pond",
-          "towns": [
-            "Granby"
-          ],
-          "management_type": null
-        },
-        {
-          "waterbody": "Salmon Brook, E. Branch",
-          "towns": [
-            "Granby"
-          ],
-          "management_type": "WTMA 3"
-        },
-        {
-          "waterbody": "Rogers Lake",
-          "towns": [
-            "Lyme",
-            "Old Lyme"
-          ],
-          "management_type": "TML"
-        },
-        {
-          "waterbody": "Long Pond",
-          "towns": [
-            "N. Stonington",
-            "Ledyard"
-          ],
-          "management_type": "TML"
-        },
-        {
-          "waterbody": "Amos Lake",
-          "towns": [
-            "Preston"
-          ],
-          "management_type": "TML"
-        },
-        {
-          "waterbody": "Gardner Lake",
-          "towns": [
-            "Salem",
-            "Bozrah"
-          ],
-          "management_type": null
-        },
-        {
-          "waterbody": "Stratton Brook Park Pond",
-          "towns": [
-            "Simsbury"
-          ],
-          "management_type": "Trout Park"
-        },
-        {
-          "waterbody": "Beach Pond",
-          "towns": [
-            "Voluntown"
-          ],
-          "management_type": null
         }
       ]
     },
@@ -452,13 +321,6 @@
           "management_type": null
         },
         {
-          "waterbody": "Chatfield Hollow Pond (Schreeder Pond)",
-          "towns": [
-            "Killingworth"
-          ],
-          "management_type": "Trout Park"
-        },
-        {
           "waterbody": "Hammonasset River- OPEN",
           "towns": [
             "Clinton",
@@ -503,73 +365,6 @@
             "Bozrah"
           ],
           "management_type": null
-        },
-        {
-          "waterbody": "Yantic River- TMA",
-          "towns": [
-            "Bozrah"
-          ],
-          "management_type": null
-        },
-        {
-          "waterbody": "Hammonasset River- OPEN",
-          "towns": [
-            "Clinton",
-            "Madison",
-            "Killingworth"
-          ],
-          "management_type": null
-        },
-        {
-          "waterbody": "Wangumbaug Lake (Coventry Lake)",
-          "towns": [
-            "Coventry"
-          ],
-          "management_type": null
-        },
-        {
-          "waterbody": "Chatfield Hollow Pond (Schreeder Pond)",
-          "towns": [
-            "Killingworth"
-          ],
-          "management_type": "Trout Park"
-        },
-        {
-          "waterbody": "Mt. Tom Pond",
-          "towns": [
-            "Litchfield",
-            "Washington"
-          ],
-          "management_type": null
-        },
-        {
-          "waterbody": "Hammonasset River",
-          "towns": [
-            "Madison",
-            "Killingworth"
-          ],
-          "management_type": "TMA"
-        },
-        {
-          "waterbody": "Center Springs Park Pond",
-          "towns": [
-            "Manchester"
-          ],
-          "management_type": null
-        },
-        {
-          "waterbody": "Mohegan Park Pond",
-          "towns": [
-            "Norwich"
-          ],
-          "management_type": "Trout Park"
-        },
-        {
-          "waterbody": "Valley Falls Park Pond",
-          "towns": [
-            "Vernon"
-          ],
-          "management_type": "Trout Park"
         }
       ]
     },
@@ -583,20 +378,6 @@
             "New Preston"
           ],
           "management_type": null
-        },
-        {
-          "waterbody": "Great Hollow Lake at Wolfe Park",
-          "towns": [
-            "Monroe"
-          ],
-          "management_type": "Trout Park"
-        },
-        {
-          "waterbody": "McGovern Pond",
-          "towns": [
-            "West Hartford"
-          ],
-          "management_type": "Trout Park"
         },
         {
           "waterbody": "Moosup River",
@@ -628,59 +409,6 @@
             "Sprague"
           ],
           "management_type": "TTA"
-        },
-        {
-          "waterbody": "Mt. Tom Pond",
-          "towns": [
-            "Litchfield",
-            "Washington"
-          ],
-          "management_type": null
-        },
-        {
-          "waterbody": "Great Hollow Lake at Wolfe Park",
-          "towns": [
-            "Monroe"
-          ],
-          "management_type": "Trout Park"
-        },
-        {
-          "waterbody": "East Aspetuck River",
-          "towns": [
-            "New Milford",
-            "New Preston"
-          ],
-          "management_type": "WTMA 3"
-        },
-        {
-          "waterbody": "Moosup River",
-          "towns": [
-            "Plainfield"
-          ],
-          "management_type": "TMA"
-        },
-        {
-          "waterbody": "McGovern Pond",
-          "towns": [
-            "West Hartford"
-          ],
-          "management_type": "Trout Park"
-        },
-        {
-          "waterbody": "Saugatuck River (Fly)- TMA",
-          "towns": [
-            "Westport"
-          ],
-          "management_type": null
-        },
-        {
-          "waterbody": "Shetucket River",
-          "towns": [
-            "Windham",
-            "Scotland",
-            "Sprague"
-          ],
-          "management_type": "TTA"
         }
       ]
     },
@@ -702,30 +430,6 @@
             "Eastford"
           ],
           "management_type": null
-        },
-        {
-          "waterbody": "Willimantic River",
-          "towns": [
-            "Tolland",
-            "Willington"
-          ],
-          "management_type": "TMA"
-        },
-        {
-          "waterbody": "Natchaug River- Trout Park",
-          "towns": [
-            "Eastford"
-          ],
-          "management_type": null
-        },
-        {
-          "waterbody": "Natchaug River",
-          "towns": [
-            "Eastford",
-            "Chaplin",
-            "Windham"
-          ],
-          "management_type": "TTA"
         },
         {
           "waterbody": "Willimantic River",
@@ -790,57 +494,6 @@
             "Wallingford"
           ],
           "management_type": "Trout Park"
-        },
-        {
-          "waterbody": "Salmon River- TMA",
-          "towns": [
-            "Colchester"
-          ],
-          "management_type": null
-        },
-        {
-          "waterbody": "Salmon River",
-          "towns": [
-            "Colchester",
-            "East Hampton"
-          ],
-          "management_type": "TTA"
-        },
-        {
-          "waterbody": "Black Pond",
-          "towns": [
-            "Middlefield",
-            "Meriden"
-          ],
-          "management_type": null
-        },
-        {
-          "waterbody": "Mashamoquet Brook",
-          "towns": [
-            "Pomfret"
-          ],
-          "management_type": "TP"
-        },
-        {
-          "waterbody": "Wharton Brook Pond",
-          "towns": [
-            "Wallingford"
-          ],
-          "management_type": "Trout Park"
-        },
-        {
-          "waterbody": "Beaver Brook Park Pond (Bibbins Pond)",
-          "towns": [
-            "Windham"
-          ],
-          "management_type": null
-        },
-        {
-          "waterbody": "Roseland Lake",
-          "towns": [
-            "Woodstock"
-          ],
-          "management_type": null
         }
       ]
     },
@@ -885,45 +538,6 @@
             "Meriden (Greenway Trail)"
           ],
           "management_type": null
-        },
-        {
-          "waterbody": "Farmington River (Lower Collinsville to RT 177)",
-          "towns": [
-            "Avon",
-            "Canton",
-            "Unionville"
-          ],
-          "management_type": "TMA"
-        },
-        {
-          "waterbody": "Farmington River (RT 177 to Rt 4)",
-          "towns": [
-            "Avon",
-            "Farmington"
-          ],
-          "management_type": "TMA"
-        },
-        {
-          "waterbody": "Blackberry River",
-          "towns": [
-            "Canaan",
-            "Norfolk"
-          ],
-          "management_type": "WTMA class 3: Rte.44 to Beckley Furnace"
-        },
-        {
-          "waterbody": "Quinnipiac River",
-          "towns": [
-            "Meriden (Greenway Trail)"
-          ],
-          "management_type": null
-        },
-        {
-          "waterbody": "Highland Lake",
-          "towns": [
-            "Winchester"
-          ],
-          "management_type": "TML"
         }
       ]
     },
@@ -954,31 +568,6 @@
             "Sherman"
           ],
           "management_type": null
-        },
-        {
-          "waterbody": "Housatonic River (Upper)- TMA",
-          "towns": [
-            "Cornwall",
-            "Sharon"
-          ],
-          "management_type": null
-        },
-        {
-          "waterbody": "Tenmile River, Bull's Bridge- TMA",
-          "towns": [
-            "Kent",
-            "Sherman"
-          ],
-          "management_type": null
-        },
-        {
-          "waterbody": "Housatonic River (Bull's Bridge)- TMA",
-          "towns": [
-            "Kent",
-            "Sherman",
-            "New Milford"
-          ],
-          "management_type": null
         }
       ]
     },
@@ -1007,31 +596,6 @@
           "towns": [
             "Avon",
             "Farmington"
-          ],
-          "management_type": null
-        },
-        {
-          "waterbody": "Farmington River (Lower Collinsville to RT 177)",
-          "towns": [
-            "Avon",
-            "Canton",
-            "Unionville"
-          ],
-          "management_type": "TMA"
-        },
-        {
-          "waterbody": "Farmington River (RT 177 to Rt 4)",
-          "towns": [
-            "Avon",
-            "Farmington"
-          ],
-          "management_type": "TMA"
-        },
-        {
-          "waterbody": "Farmington River (Route 219 to Lower Collinsville)",
-          "towns": [
-            "New Hartford",
-            "Canton"
           ],
           "management_type": null
         }
@@ -1107,7 +671,7 @@
       ],
       "management_type": "TML",
       "stocked_dates": [
-        "2026-10-14"
+        "2026-10-16"
       ]
     },
     {
@@ -1117,7 +681,7 @@
       ],
       "management_type": "Trout Park",
       "stocked_dates": [
-        "2026-10-09"
+        "2026-10-15"
       ]
     },
     {
@@ -1137,7 +701,9 @@
         "Bridgeport"
       ],
       "management_type": "CFW",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-16"
+      ]
     },
     {
       "waterbody": "Cedar Lake",
@@ -1145,7 +711,9 @@
         "Chester"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-15"
+      ]
     },
     {
       "waterbody": "Center Springs Park Pond",
@@ -1164,7 +732,7 @@
       ],
       "management_type": "Trout Park",
       "stocked_dates": [
-        "2026-10-07"
+        "2026-10-15"
       ]
     },
     {
@@ -1183,7 +751,9 @@
         "Ansonia"
       ],
       "management_type": "CFW",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-15"
+      ]
     },
     {
       "waterbody": "Crystal Lake",
@@ -1202,7 +772,7 @@
       ],
       "management_type": "Trout Park",
       "stocked_dates": [
-        "2026-10-08"
+        "2026-10-15"
       ]
     },
     {
@@ -1223,17 +793,6 @@
       ],
       "management_type": "TML",
       "stocked_dates": []
-    },
-    {
-      "waterbody": "Gardner Lake",
-      "towns": [
-        "Salem",
-        "Bozrah"
-      ],
-      "management_type": null,
-      "stocked_dates": [
-        "2026-10-08"
-      ]
     },
     {
       "waterbody": "Farmington River (Lower Collinsville to RT 177)- TMA",
@@ -1272,13 +831,24 @@
       ]
     },
     {
+      "waterbody": "Gardner Lake",
+      "towns": [
+        "Salem",
+        "Bozrah"
+      ],
+      "management_type": null,
+      "stocked_dates": [
+        "2026-10-08"
+      ]
+    },
+    {
       "waterbody": "Great Hollow Lake at Wolfe Park",
       "towns": [
         "Monroe"
       ],
       "management_type": "Trout Park",
       "stocked_dates": [
-        "2026-10-06"
+        "2026-10-15"
       ]
     },
     {
@@ -1395,7 +965,7 @@
       ],
       "management_type": "Trout Park",
       "stocked_dates": [
-        "2026-10-06"
+        "2026-10-15"
       ]
     },
     {
@@ -1434,7 +1004,9 @@
         "Goshen"
       ],
       "management_type": "TML",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-16"
+      ]
     },
     {
       "waterbody": "Mohegan Park Pond",
@@ -1528,7 +1100,7 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-10-13"
+        "2026-10-15"
       ]
     },
     {
@@ -1537,7 +1109,9 @@
         "Derby"
       ],
       "management_type": "CFW",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-15"
+      ]
     },
     {
       "waterbody": "Pomperaug River",
@@ -1566,7 +1140,9 @@
         "Guilford"
       ],
       "management_type": "TML",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-15"
+      ]
     },
     {
       "waterbody": "Roaring Brook",
@@ -1810,795 +1386,6 @@
       "management_type": null,
       "stocked_dates": [
         "2026-10-07"
-      ]
-    },
-    {
-      "waterbody": "Colony Park Pond",
-      "towns": [
-        "Ansonia"
-      ],
-      "management_type": "CFW",
-      "stocked_dates": []
-    },
-    {
-      "waterbody": "Farmington River (Lower Collinsville to RT 177)",
-      "towns": [
-        "Avon",
-        "Canton",
-        "Unionville"
-      ],
-      "management_type": "TMA",
-      "stocked_dates": [
-        "2026-09-04",
-        "2026-10-01"
-      ]
-    },
-    {
-      "waterbody": "Farmington River (RT 177 to Rt 4)",
-      "towns": [
-        "Avon",
-        "Farmington"
-      ],
-      "management_type": "TMA",
-      "stocked_dates": [
-        "2026-09-04",
-        "2026-10-01"
-      ]
-    },
-    {
-      "waterbody": "West Hill Pond",
-      "towns": [
-        "Barkhamsted",
-        "New Hartford"
-      ],
-      "management_type": "TML",
-      "stocked_dates": []
-    },
-    {
-      "waterbody": "Yantic River- TMA",
-      "towns": [
-        "Bozrah"
-      ],
-      "management_type": null,
-      "stocked_dates": [
-        "2026-10-07"
-      ]
-    },
-    {
-      "waterbody": "Bunnells Pond (Beardsley Park Pond)",
-      "towns": [
-        "Bridgeport"
-      ],
-      "management_type": "CFW",
-      "stocked_dates": []
-    },
-    {
-      "waterbody": "Pequabuck River (RTS 229-177)",
-      "towns": [
-        "Bristol"
-      ],
-      "management_type": "TMA",
-      "stocked_dates": [
-        "2026-10-13"
-      ]
-    },
-    {
-      "waterbody": "Blackberry River",
-      "towns": [
-        "Canaan",
-        "Norfolk"
-      ],
-      "management_type": "WTMA class 3: Rte.44 to Beckley Furnace",
-      "stocked_dates": [
-        "2026-10-01"
-      ]
-    },
-    {
-      "waterbody": "Cedar Lake",
-      "towns": [
-        "Chester"
-      ],
-      "management_type": null,
-      "stocked_dates": []
-    },
-    {
-      "waterbody": "Hammonasset River- OPEN",
-      "towns": [
-        "Clinton",
-        "Madison",
-        "Killingworth"
-      ],
-      "management_type": null,
-      "stocked_dates": [
-        "2026-10-07"
-      ]
-    },
-    {
-      "waterbody": "West Branch Reservoir",
-      "towns": [
-        "Colebrook"
-      ],
-      "management_type": null,
-      "stocked_dates": []
-    },
-    {
-      "waterbody": "Day Pond",
-      "towns": [
-        "Colchester"
-      ],
-      "management_type": "Trout Park",
-      "stocked_dates": [
-        "2026-10-08"
-      ]
-    },
-    {
-      "waterbody": "Salmon River- TMA",
-      "towns": [
-        "Colchester"
-      ],
-      "management_type": null,
-      "stocked_dates": [
-        "2026-10-02"
-      ]
-    },
-    {
-      "waterbody": "Salmon River",
-      "towns": [
-        "Colchester",
-        "East Hampton"
-      ],
-      "management_type": "TTA",
-      "stocked_dates": [
-        "2026-10-02"
-      ]
-    },
-    {
-      "waterbody": "Mohawk Pond",
-      "towns": [
-        "Cornwall",
-        "Goshen"
-      ],
-      "management_type": "TML",
-      "stocked_dates": []
-    },
-    {
-      "waterbody": "Housatonic River (Upper)- TMA",
-      "towns": [
-        "Cornwall",
-        "Sharon"
-      ],
-      "management_type": null,
-      "stocked_dates": [
-        "2026-09-21"
-      ]
-    },
-    {
-      "waterbody": "Wangumbaug Lake (Coventry Lake)",
-      "towns": [
-        "Coventry"
-      ],
-      "management_type": null,
-      "stocked_dates": [
-        "2026-10-07"
-      ]
-    },
-    {
-      "waterbody": "Pickett's Pond",
-      "towns": [
-        "Derby"
-      ],
-      "management_type": "CFW",
-      "stocked_dates": []
-    },
-    {
-      "waterbody": "Natchaug River- Trout Park",
-      "towns": [
-        "Eastford"
-      ],
-      "management_type": null,
-      "stocked_dates": [
-        "2026-10-05"
-      ]
-    },
-    {
-      "waterbody": "Natchaug River",
-      "towns": [
-        "Eastford",
-        "Chaplin",
-        "Windham"
-      ],
-      "management_type": "TTA",
-      "stocked_dates": [
-        "2026-10-05"
-      ]
-    },
-    {
-      "waterbody": "Crystal Lake",
-      "towns": [
-        "Ellington"
-      ],
-      "management_type": null,
-      "stocked_dates": [
-        "2026-10-14"
-      ]
-    },
-    {
-      "waterbody": "Mill River",
-      "towns": [
-        "Fairfield"
-      ],
-      "management_type": "TMA",
-      "stocked_dates": []
-    },
-    {
-      "waterbody": "Roaring Brook",
-      "towns": [
-        "Glastonbury"
-      ],
-      "management_type": "WTMA3",
-      "stocked_dates": [
-        "2026-10-13"
-      ]
-    },
-    {
-      "waterbody": "Angus Park Pond (Eastbury Pond)",
-      "towns": [
-        "Glastonbury"
-      ],
-      "management_type": null,
-      "stocked_dates": [
-        "2026-10-13"
-      ]
-    },
-    {
-      "waterbody": "Tyler Pond",
-      "towns": [
-        "Goshen"
-      ],
-      "management_type": null,
-      "stocked_dates": []
-    },
-    {
-      "waterbody": "West Side Pond",
-      "towns": [
-        "Goshen"
-      ],
-      "management_type": null,
-      "stocked_dates": []
-    },
-    {
-      "waterbody": "Christensen\u2019s Pond",
-      "towns": [
-        "Granby"
-      ],
-      "management_type": null,
-      "stocked_dates": [
-        "2026-10-08"
-      ]
-    },
-    {
-      "waterbody": "Salmon Brook, E. Branch",
-      "towns": [
-        "Granby"
-      ],
-      "management_type": "WTMA 3",
-      "stocked_dates": [
-        "2026-10-08"
-      ]
-    },
-    {
-      "waterbody": "Mianus River",
-      "towns": [
-        "Greenwich",
-        "Stamford"
-      ],
-      "management_type": "TMA",
-      "stocked_dates": [
-        "2026-10-14"
-      ]
-    },
-    {
-      "waterbody": "Quonnipaug Lake",
-      "towns": [
-        "Guilford"
-      ],
-      "management_type": "TML",
-      "stocked_dates": []
-    },
-    {
-      "waterbody": "Mill River (Sleeping Giant State Park)",
-      "towns": [
-        "Hamden"
-      ],
-      "management_type": "TMA",
-      "stocked_dates": [
-        "2026-10-13"
-      ]
-    },
-    {
-      "waterbody": "Naugatuck River",
-      "towns": [
-        "Harwinton",
-        "Litchfield"
-      ],
-      "management_type": "TMA",
-      "stocked_dates": [
-        "2026-10-09"
-      ]
-    },
-    {
-      "waterbody": "Tenmile River, Bull's Bridge- TMA",
-      "towns": [
-        "Kent",
-        "Sherman"
-      ],
-      "management_type": null,
-      "stocked_dates": [
-        "2026-09-21"
-      ]
-    },
-    {
-      "waterbody": "Housatonic River (Bull's Bridge)- TMA",
-      "towns": [
-        "Kent",
-        "Sherman",
-        "New Milford"
-      ],
-      "management_type": null,
-      "stocked_dates": [
-        "2026-09-21"
-      ]
-    },
-    {
-      "waterbody": "Wauregan Reservoir (Quinebaug Lake)",
-      "towns": [
-        "Killingly"
-      ],
-      "management_type": null,
-      "stocked_dates": []
-    },
-    {
-      "waterbody": "Chatfield Hollow Pond (Schreeder Pond)",
-      "towns": [
-        "Killingworth"
-      ],
-      "management_type": "Trout Park",
-      "stocked_dates": [
-        "2026-10-07"
-      ]
-    },
-    {
-      "waterbody": "Mt. Tom Pond",
-      "towns": [
-        "Litchfield",
-        "Washington"
-      ],
-      "management_type": null,
-      "stocked_dates": [
-        "2026-10-06",
-        "2026-10-07"
-      ]
-    },
-    {
-      "waterbody": "Rogers Lake",
-      "towns": [
-        "Lyme",
-        "Old Lyme"
-      ],
-      "management_type": "TML",
-      "stocked_dates": [
-        "2026-10-08"
-      ]
-    },
-    {
-      "waterbody": "Sawmill Pond",
-      "towns": [
-        "Ledyard"
-      ],
-      "management_type": null,
-      "stocked_dates": [
-        "2026-10-14"
-      ]
-    },
-    {
-      "waterbody": "Hammonasset River",
-      "towns": [
-        "Madison",
-        "Killingworth"
-      ],
-      "management_type": "TMA",
-      "stocked_dates": [
-        "2026-10-07"
-      ]
-    },
-    {
-      "waterbody": "Center Springs Park Pond",
-      "towns": [
-        "Manchester"
-      ],
-      "management_type": null,
-      "stocked_dates": [
-        "2026-10-07"
-      ]
-    },
-    {
-      "waterbody": "Hockanum River",
-      "towns": [
-        "Manchester"
-      ],
-      "management_type": "TMA",
-      "stocked_dates": [
-        "2026-10-13"
-      ]
-    },
-    {
-      "waterbody": "Quinnipiac River",
-      "towns": [
-        "Meriden (Greenway Trail)"
-      ],
-      "management_type": null,
-      "stocked_dates": [
-        "2026-10-01"
-      ]
-    },
-    {
-      "waterbody": "Black Pond",
-      "towns": [
-        "Middlefield",
-        "Meriden"
-      ],
-      "management_type": null,
-      "stocked_dates": [
-        "2026-10-02"
-      ]
-    },
-    {
-      "waterbody": "Great Hollow Lake at Wolfe Park",
-      "towns": [
-        "Monroe"
-      ],
-      "management_type": "Trout Park",
-      "stocked_dates": [
-        "2026-10-06"
-      ]
-    },
-    {
-      "waterbody": "Billings Lake",
-      "towns": [
-        "N. Stonington"
-      ],
-      "management_type": null,
-      "stocked_dates": []
-    },
-    {
-      "waterbody": "Hewitt\u2019s Fly Pond (Gallup Pond)",
-      "towns": [
-        "N. Stonington"
-      ],
-      "management_type": null,
-      "stocked_dates": [
-        "2026-10-14"
-      ]
-    },
-    {
-      "waterbody": "Long Pond",
-      "towns": [
-        "N. Stonington",
-        "Ledyard"
-      ],
-      "management_type": "TML",
-      "stocked_dates": [
-        "2026-10-08"
-      ]
-    },
-    {
-      "waterbody": "Stanley Quarter Park Pond",
-      "towns": [
-        "New Britain"
-      ],
-      "management_type": "CFW",
-      "stocked_dates": []
-    },
-    {
-      "waterbody": "Ball Pond",
-      "towns": [
-        "New Fairfield"
-      ],
-      "management_type": null,
-      "stocked_dates": []
-    },
-    {
-      "waterbody": "Squantz Pond",
-      "towns": [
-        "New Fairfield",
-        "Sherman"
-      ],
-      "management_type": "TML",
-      "stocked_dates": []
-    },
-    {
-      "waterbody": "Farmington River (Route 219 to Lower Collinsville)",
-      "towns": [
-        "New Hartford",
-        "Canton"
-      ],
-      "management_type": null,
-      "stocked_dates": [
-        "2026-09-04"
-      ]
-    },
-    {
-      "waterbody": "East Aspetuck River",
-      "towns": [
-        "New Milford",
-        "New Preston"
-      ],
-      "management_type": "WTMA 3",
-      "stocked_dates": [
-        "2026-10-06"
-      ]
-    },
-    {
-      "waterbody": "Mohegan Park Pond",
-      "towns": [
-        "Norwich"
-      ],
-      "management_type": "Trout Park",
-      "stocked_dates": [
-        "2026-10-07"
-      ]
-    },
-    {
-      "waterbody": "Moosup River",
-      "towns": [
-        "Plainfield"
-      ],
-      "management_type": "TMA",
-      "stocked_dates": [
-        "2026-10-06"
-      ]
-    },
-    {
-      "waterbody": "Mashamoquet Brook",
-      "towns": [
-        "Pomfret"
-      ],
-      "management_type": "TP",
-      "stocked_dates": [
-        "2026-10-02"
-      ]
-    },
-    {
-      "waterbody": "Amos Lake",
-      "towns": [
-        "Preston"
-      ],
-      "management_type": "TML",
-      "stocked_dates": [
-        "2026-10-08"
-      ]
-    },
-    {
-      "waterbody": "Gardner Lake",
-      "towns": [
-        "Salem",
-        "Bozrah"
-      ],
-      "management_type": null,
-      "stocked_dates": [
-        "2026-10-08"
-      ]
-    },
-    {
-      "waterbody": "East Twin Lake",
-      "towns": [
-        "Salisbury"
-      ],
-      "management_type": "TML",
-      "stocked_dates": []
-    },
-    {
-      "waterbody": "Stratton Brook Park Pond",
-      "towns": [
-        "Simsbury"
-      ],
-      "management_type": "Trout Park",
-      "stocked_dates": [
-        "2026-10-08"
-      ]
-    },
-    {
-      "waterbody": "Scantic River (Upper)",
-      "towns": [
-        "Somers",
-        "Enfield"
-      ],
-      "management_type": null,
-      "stocked_dates": [
-        "2026-10-14"
-      ]
-    },
-    {
-      "waterbody": "Willimantic River",
-      "towns": [
-        "Tolland",
-        "Willington"
-      ],
-      "management_type": "TMA",
-      "stocked_dates": [
-        "2026-10-05"
-      ]
-    },
-    {
-      "waterbody": "Stillwater Pond",
-      "towns": [
-        "Torrington"
-      ],
-      "management_type": null,
-      "stocked_dates": []
-    },
-    {
-      "waterbody": "Pequonnock River (Trumbull Basin) - TTA\nPermit required for non-residents to park in Trumbull Town parks. Please\ncall 203-452-5060 to make an appt with the P&R Dept. A valid Fishing\nLicense, Vehicle Registration, and ID are required.",
-      "towns": [
-        "Trumbull"
-      ],
-      "management_type": null,
-      "stocked_dates": [
-        "2026-10-13"
-      ]
-    },
-    {
-      "waterbody": "Bigelow Pond",
-      "towns": [
-        "Union"
-      ],
-      "management_type": null,
-      "stocked_dates": [
-        "2026-10-14"
-      ]
-    },
-    {
-      "waterbody": "Mashapaug Lake",
-      "towns": [
-        "Union"
-      ],
-      "management_type": null,
-      "stocked_dates": [
-        "2026-10-14"
-      ]
-    },
-    {
-      "waterbody": "Valley Falls Park Pond",
-      "towns": [
-        "Vernon"
-      ],
-      "management_type": "Trout Park",
-      "stocked_dates": [
-        "2026-10-07"
-      ]
-    },
-    {
-      "waterbody": "Beach Pond",
-      "towns": [
-        "Voluntown"
-      ],
-      "management_type": null,
-      "stocked_dates": [
-        "2026-10-08"
-      ]
-    },
-    {
-      "waterbody": "Wharton Brook Pond",
-      "towns": [
-        "Wallingford"
-      ],
-      "management_type": "Trout Park",
-      "stocked_dates": [
-        "2026-10-02"
-      ]
-    },
-    {
-      "waterbody": "Naugatuck River (Lower)",
-      "towns": [
-        "Waterbury - Beacon Falls"
-      ],
-      "management_type": "TTA",
-      "stocked_dates": [
-        "2026-10-09"
-      ]
-    },
-    {
-      "waterbody": "Black Rock Pond",
-      "towns": [
-        "Watertown"
-      ],
-      "management_type": "Trout Park",
-      "stocked_dates": [
-        "2026-10-09"
-      ]
-    },
-    {
-      "waterbody": "McGovern Pond",
-      "towns": [
-        "West Hartford"
-      ],
-      "management_type": "Trout Park",
-      "stocked_dates": [
-        "2026-10-06"
-      ]
-    },
-    {
-      "waterbody": "Saugatuck River (Fly)- TMA",
-      "towns": [
-        "Westport"
-      ],
-      "management_type": null,
-      "stocked_dates": [
-        "2026-10-06"
-      ]
-    },
-    {
-      "waterbody": "Highland Lake",
-      "towns": [
-        "Winchester"
-      ],
-      "management_type": "TML",
-      "stocked_dates": [
-        "2026-10-01"
-      ]
-    },
-    {
-      "waterbody": "Beaver Brook Park Pond (Bibbins Pond)",
-      "towns": [
-        "Windham"
-      ],
-      "management_type": null,
-      "stocked_dates": [
-        "2026-10-02"
-      ]
-    },
-    {
-      "waterbody": "Shetucket River",
-      "towns": [
-        "Windham",
-        "Scotland",
-        "Sprague"
-      ],
-      "management_type": "TTA",
-      "stocked_dates": [
-        "2026-10-06",
-        "2026-10-09"
-      ]
-    },
-    {
-      "waterbody": "Pomperaug River",
-      "towns": [
-        "Woodbury",
-        "Southbury"
-      ],
-      "management_type": "TTA",
-      "stocked_dates": [
-        "2026-10-13"
-      ]
-    },
-    {
-      "waterbody": "Roseland Lake",
-      "towns": [
-        "Woodstock"
-      ],
-      "management_type": null,
-      "stocked_dates": [
-        "2026-10-02"
-      ]
-    },
-    {
-      "waterbody": "Black Pond",
-      "towns": [
-        "Woodstock"
-      ],
-      "management_type": "TML",
-      "stocked_dates": [
-        "2026-10-14"
       ]
     }
   ]
