@@ -1,9 +1,32 @@
 {
-  "report_date": "2026-10-16",
+  "report_date": "2026-10-19",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-10-19",
+      "locations": [
+        {
+          "waterbody": "Candlewood Lake",
+          "towns": [
+            "Danbury",
+            "New Milford",
+            "New\nFairfield",
+            "Sherman"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Squantz Pond",
+          "towns": [
+            "New Fairfield",
+            "Sherman"
+          ],
+          "management_type": "TML"
+        }
+      ]
+    },
     {
       "date": "2026-10-16",
       "locations": [
@@ -706,6 +729,19 @@
       ]
     },
     {
+      "waterbody": "Candlewood Lake",
+      "towns": [
+        "Danbury",
+        "New Milford",
+        "New\nFairfield",
+        "Sherman"
+      ],
+      "management_type": null,
+      "stocked_dates": [
+        "2026-10-19"
+      ]
+    },
+    {
       "waterbody": "Cedar Lake",
       "towns": [
         "Chester"
@@ -1265,7 +1301,9 @@
         "Sherman"
       ],
       "management_type": "TML",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-19"
+      ]
     },
     {
       "waterbody": "Stanley Quarter Park Pond",
