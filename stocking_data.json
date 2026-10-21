@@ -1,9 +1,63 @@
 {
-  "report_date": "2026-10-19",
+  "report_date": "2026-10-20",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-10-20",
+      "locations": [
+        {
+          "waterbody": "East Twin Lake",
+          "towns": [
+            "Salisbury"
+          ],
+          "management_type": "TML"
+        },
+        {
+          "waterbody": "Great Hollow Lake at Wolfe Park",
+          "towns": [
+            "Monroe"
+          ],
+          "management_type": "Trout Park"
+        },
+        {
+          "waterbody": "Mill River",
+          "towns": [
+            "Fairfield"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Stillwater Pond",
+          "towns": [
+            "Torrington"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Tyler Pond",
+          "towns": [
+            "Goshen"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "West Side Pond",
+          "towns": [
+            "Goshen"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Wharton Brook Pond",
+          "towns": [
+            "Wallingford"
+          ],
+          "management_type": "Trout Park"
+        }
+      ]
+    },
     {
       "date": "2026-10-19",
       "locations": [
@@ -89,13 +143,6 @@
           "waterbody": "Day Pond",
           "towns": [
             "Colchester"
-          ],
-          "management_type": "Trout Park"
-        },
-        {
-          "waterbody": "Great Hollow Lake at Wolfe Park",
-          "towns": [
-            "Monroe"
           ],
           "management_type": "Trout Park"
         },
@@ -510,13 +557,6 @@
             "Colchester"
           ],
           "management_type": null
-        },
-        {
-          "waterbody": "Wharton Brook Pond",
-          "towns": [
-            "Wallingford"
-          ],
-          "management_type": "Trout Park"
         }
       ]
     },
@@ -828,7 +868,9 @@
         "Salisbury"
       ],
       "management_type": "TML",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-20"
+      ]
     },
     {
       "waterbody": "Farmington River (Lower Collinsville to RT 177)- TMA",
@@ -884,7 +926,7 @@
       ],
       "management_type": "Trout Park",
       "stocked_dates": [
-        "2026-10-15"
+        "2026-10-20"
       ]
     },
     {
@@ -1021,7 +1063,9 @@
         "Fairfield"
       ],
       "management_type": "TMA",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-20"
+      ]
     },
     {
       "waterbody": "Mill River (Sleeping Giant State Park)",
@@ -1319,7 +1363,9 @@
         "Torrington"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-20"
+      ]
     },
     {
       "waterbody": "Stratton Brook Park Pond",
@@ -1348,7 +1394,9 @@
         "Goshen"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-20"
+      ]
     },
     {
       "waterbody": "Valley Falls Park Pond",
@@ -1393,7 +1441,9 @@
         "Goshen"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-20"
+      ]
     },
     {
       "waterbody": "Wharton Brook Pond",
@@ -1402,7 +1452,7 @@
       ],
       "management_type": "Trout Park",
       "stocked_dates": [
-        "2026-10-02"
+        "2026-10-20"
       ]
     },
     {
