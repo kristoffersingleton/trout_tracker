@@ -1,9 +1,42 @@
 {
-  "report_date": "2026-10-20",
+  "report_date": "2026-10-21",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-10-21",
+      "locations": [
+        {
+          "waterbody": "Chatfield Hollow Pond (Schreeder Pond)",
+          "towns": [
+            "Killingworth"
+          ],
+          "management_type": "Trout Park"
+        },
+        {
+          "waterbody": "Day Pond",
+          "towns": [
+            "Colchester"
+          ],
+          "management_type": "Trout Park"
+        },
+        {
+          "waterbody": "Mohegan Park Pond",
+          "towns": [
+            "Norwich"
+          ],
+          "management_type": "Trout Park"
+        },
+        {
+          "waterbody": "Valley Falls Park Pond",
+          "towns": [
+            "Vernon"
+          ],
+          "management_type": "Trout Park"
+        }
+      ]
+    },
     {
       "date": "2026-10-20",
       "locations": [
@@ -126,25 +159,11 @@
           "management_type": null
         },
         {
-          "waterbody": "Chatfield Hollow Pond (Schreeder Pond)",
-          "towns": [
-            "Killingworth"
-          ],
-          "management_type": "Trout Park"
-        },
-        {
           "waterbody": "Colony Park Pond",
           "towns": [
             "Ansonia"
           ],
           "management_type": "CFW"
-        },
-        {
-          "waterbody": "Day Pond",
-          "towns": [
-            "Colchester"
-          ],
-          "management_type": "Trout Park"
         },
         {
           "waterbody": "McGovern Pond",
@@ -214,13 +233,6 @@
             "Stamford"
           ],
           "management_type": "TMA"
-        },
-        {
-          "waterbody": "Mohegan Park Pond",
-          "towns": [
-            "Norwich"
-          ],
-          "management_type": "Trout Park"
         },
         {
           "waterbody": "Sawmill Pond",
@@ -414,13 +426,6 @@
             "Washington"
           ],
           "management_type": null
-        },
-        {
-          "waterbody": "Valley Falls Park Pond",
-          "towns": [
-            "Vernon"
-          ],
-          "management_type": "Trout Park"
         },
         {
           "waterbody": "Wangumbaug Lake (Coventry Lake)",
@@ -808,7 +813,7 @@
       ],
       "management_type": "Trout Park",
       "stocked_dates": [
-        "2026-10-15"
+        "2026-10-21"
       ]
     },
     {
@@ -848,7 +853,7 @@
       ],
       "management_type": "Trout Park",
       "stocked_dates": [
-        "2026-10-15"
+        "2026-10-21"
       ]
     },
     {
@@ -1095,7 +1100,7 @@
       ],
       "management_type": "Trout Park",
       "stocked_dates": [
-        "2026-10-14"
+        "2026-10-21"
       ]
     },
     {
@@ -1405,7 +1410,7 @@
       ],
       "management_type": "Trout Park",
       "stocked_dates": [
-        "2026-10-07"
+        "2026-10-21"
       ]
     },
     {
