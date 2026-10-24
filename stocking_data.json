@@ -1,9 +1,72 @@
 {
-  "report_date": "2026-10-21",
+  "report_date": "2026-10-23",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-10-23",
+      "locations": [
+        {
+          "waterbody": "Black Rock Pond",
+          "towns": [
+            "Watertown"
+          ],
+          "management_type": "Trout Park"
+        },
+        {
+          "waterbody": "McGovern Pond",
+          "towns": [
+            "West Hartford"
+          ],
+          "management_type": "Trout Park"
+        },
+        {
+          "waterbody": "Shetucket River",
+          "towns": [
+            "Windham",
+            "Scotland",
+            "Sprague"
+          ],
+          "management_type": "TTA"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "locations": [
+        {
+          "waterbody": "Naugatuck River",
+          "towns": [
+            "Harwinton",
+            "Litchfield"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Naugatuck River (Lower)",
+          "towns": [
+            "Waterbury - Beacon Falls"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Salmon River",
+          "towns": [
+            "Colchester",
+            "East Hampton"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Salmon River- TMA",
+          "towns": [
+            "Colchester"
+          ],
+          "management_type": null
+        }
+      ]
+    },
     {
       "date": "2026-10-21",
       "locations": [
@@ -145,13 +208,6 @@
       "date": "2026-10-15",
       "locations": [
         {
-          "waterbody": "Black Rock Pond",
-          "towns": [
-            "Watertown"
-          ],
-          "management_type": "Trout Park"
-        },
-        {
           "waterbody": "Cedar Lake",
           "towns": [
             "Chester"
@@ -164,13 +220,6 @@
             "Ansonia"
           ],
           "management_type": "CFW"
-        },
-        {
-          "waterbody": "McGovern Pond",
-          "towns": [
-            "West Hartford"
-          ],
-          "management_type": "Trout Park"
         },
         {
           "waterbody": "Pequonnock River (Trumbull Basin) - TTA\nPermit required for non-residents to park in Trumbull Town parks. Please\ncall 203-452-5060 to make an appt with the P&R Dept. A valid Fishing\nLicense, Vehicle Registration, and ID are required.",
@@ -302,21 +351,6 @@
     {
       "date": "2026-10-09",
       "locations": [
-        {
-          "waterbody": "Naugatuck River",
-          "towns": [
-            "Harwinton",
-            "Litchfield"
-          ],
-          "management_type": "TMA"
-        },
-        {
-          "waterbody": "Naugatuck River (Lower)",
-          "towns": [
-            "Waterbury - Beacon Falls"
-          ],
-          "management_type": "TTA"
-        },
         {
           "waterbody": "Shetucket River",
           "towns": [
@@ -475,15 +509,6 @@
             "Westport"
           ],
           "management_type": "TMA"
-        },
-        {
-          "waterbody": "Shetucket River",
-          "towns": [
-            "Windham",
-            "Scotland",
-            "Sprague"
-          ],
-          "management_type": "TTA"
         }
       ]
     },
@@ -545,21 +570,6 @@
           "waterbody": "Roseland Lake",
           "towns": [
             "Woodstock"
-          ],
-          "management_type": null
-        },
-        {
-          "waterbody": "Salmon River",
-          "towns": [
-            "Colchester",
-            "East Hampton"
-          ],
-          "management_type": "TTA"
-        },
-        {
-          "waterbody": "Salmon River- TMA",
-          "towns": [
-            "Colchester"
           ],
           "management_type": null
         }
@@ -749,7 +759,7 @@
       ],
       "management_type": "Trout Park",
       "stocked_dates": [
-        "2026-10-15"
+        "2026-10-23"
       ]
     },
     {
@@ -1048,7 +1058,7 @@
       ],
       "management_type": "Trout Park",
       "stocked_dates": [
-        "2026-10-15"
+        "2026-10-23"
       ]
     },
     {
@@ -1155,7 +1165,7 @@
       ],
       "management_type": "TMA",
       "stocked_dates": [
-        "2026-10-09"
+        "2026-10-22"
       ]
     },
     {
@@ -1165,7 +1175,7 @@
       ],
       "management_type": "TTA",
       "stocked_dates": [
-        "2026-10-09"
+        "2026-10-22"
       ]
     },
     {
@@ -1286,7 +1296,7 @@
       ],
       "management_type": "TTA",
       "stocked_dates": [
-        "2026-10-02"
+        "2026-10-22"
       ]
     },
     {
@@ -1296,7 +1306,7 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-10-02"
+        "2026-10-22"
       ]
     },
     {
@@ -1339,8 +1349,8 @@
       ],
       "management_type": "TTA",
       "stocked_dates": [
-        "2026-10-06",
-        "2026-10-09"
+        "2026-10-09",
+        "2026-10-23"
       ]
     },
     {
