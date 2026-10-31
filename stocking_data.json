@@ -1,9 +1,59 @@
 {
-  "report_date": "2026-10-28",
+  "report_date": "2026-10-30",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-10-30",
+      "locations": [
+        {
+          "waterbody": "Blackwells Brook",
+          "towns": [
+            "Brooklyn",
+            "Plainfield"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Tyler Lake",
+          "towns": [
+            "Goshen"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "West Hill Pond",
+          "towns": [
+            "Barkhamsted",
+            "New Hartford"
+          ],
+          "management_type": "TML"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "locations": [
+        {
+          "waterbody": "Blackledge River (Lower)",
+          "towns": [
+            "Hebron",
+            "Marlborough"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Naugatuck River (Upper)",
+          "towns": [
+            "Harwinton",
+            "Litchfield",
+            "Torrington"
+          ],
+          "management_type": "TTA"
+        }
+      ]
+    },
     {
       "date": "2026-10-28",
       "locations": [
@@ -190,13 +240,6 @@
           "waterbody": "Stillwater Pond",
           "towns": [
             "Torrington"
-          ],
-          "management_type": null
-        },
-        {
-          "waterbody": "Tyler Pond",
-          "towns": [
-            "Goshen"
           ],
           "management_type": null
         },
@@ -804,6 +847,17 @@
       ]
     },
     {
+      "waterbody": "Blackledge River (Lower)",
+      "towns": [
+        "Hebron",
+        "Marlborough"
+      ],
+      "management_type": null,
+      "stocked_dates": [
+        "2026-10-29"
+      ]
+    },
+    {
       "waterbody": "Black Pond",
       "towns": [
         "Middlefield",
@@ -843,6 +897,17 @@
       "management_type": "WTMA class 3: Rte.44 to Beckley Furnace",
       "stocked_dates": [
         "2026-10-01"
+      ]
+    },
+    {
+      "waterbody": "Blackwells Brook",
+      "towns": [
+        "Brooklyn",
+        "Plainfield"
+      ],
+      "management_type": null,
+      "stocked_dates": [
+        "2026-10-30"
       ]
     },
     {
@@ -994,6 +1059,15 @@
         "2026-09-04",
         "2026-10-01"
       ]
+    },
+    {
+      "waterbody": "Fenton River",
+      "towns": [
+        "Mansfield",
+        "Willington"
+      ],
+      "management_type": "WTMA 3",
+      "stocked_dates": []
     },
     {
       "waterbody": "Gardner Lake",
@@ -1240,6 +1314,18 @@
       ]
     },
     {
+      "waterbody": "Naugatuck River (Upper)",
+      "towns": [
+        "Harwinton",
+        "Litchfield",
+        "Torrington"
+      ],
+      "management_type": "TTA",
+      "stocked_dates": [
+        "2026-10-29"
+      ]
+    },
+    {
       "waterbody": "Naugatuck River",
       "towns": [
         "Harwinton",
@@ -1259,6 +1345,15 @@
       "stocked_dates": [
         "2026-10-22"
       ]
+    },
+    {
+      "waterbody": "Pachaug River",
+      "towns": [
+        "Griswold",
+        "Voluntown"
+      ],
+      "management_type": null,
+      "stocked_dates": []
     },
     {
       "waterbody": "Pequabuck River (RTS 229-177)",
@@ -1469,6 +1564,14 @@
       ]
     },
     {
+      "waterbody": "Shunock Brook",
+      "towns": [
+        "N. Stonington"
+      ],
+      "management_type": null,
+      "stocked_dates": []
+    },
+    {
       "waterbody": "Squantz Pond",
       "towns": [
         "New Fairfield",
@@ -1521,13 +1624,13 @@
       ]
     },
     {
-      "waterbody": "Tyler Pond",
+      "waterbody": "Tyler Lake",
       "towns": [
         "Goshen"
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-10-20"
+        "2026-10-30"
       ]
     },
     {
@@ -1575,7 +1678,9 @@
         "New Hartford"
       ],
       "management_type": "TML",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-30"
+      ]
     },
     {
       "waterbody": "West Side Pond",
