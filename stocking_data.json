@@ -1,9 +1,51 @@
 {
-  "report_date": "2026-10-30",
+  "report_date": "2026-11-03",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-11-03",
+      "locations": [
+        {
+          "waterbody": "Pachaug River",
+          "towns": [
+            "Griswold",
+            "Voluntown"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Shetucket River",
+          "towns": [
+            "Windham",
+            "Scotland",
+            "Sprague"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Shunock Brook",
+          "towns": [
+            "N. Stonington"
+          ],
+          "management_type": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "locations": [
+        {
+          "waterbody": "Fenton River",
+          "towns": [
+            "Mansfield",
+            "Willington"
+          ],
+          "management_type": "WTMA 3"
+        }
+      ]
+    },
     {
       "date": "2026-10-30",
       "locations": [
@@ -132,15 +174,6 @@
             "West Hartford"
           ],
           "management_type": "Trout Park"
-        },
-        {
-          "waterbody": "Shetucket River",
-          "towns": [
-            "Windham",
-            "Scotland",
-            "Sprague"
-          ],
-          "management_type": "TTA"
         }
       ]
     },
@@ -450,6 +483,13 @@
             "Glastonbury"
           ],
           "management_type": "WTMA 3"
+        },
+        {
+          "waterbody": "Wauregan Reservoir (Quinebaug Lake)",
+          "towns": [
+            "Killingly"
+          ],
+          "management_type": null
         }
       ]
     },
@@ -1067,7 +1107,9 @@
         "Willington"
       ],
       "management_type": "WTMA 3",
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-11-02"
+      ]
     },
     {
       "waterbody": "Gardner Lake",
@@ -1353,7 +1395,9 @@
         "Voluntown"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-11-03"
+      ]
     },
     {
       "waterbody": "Pequabuck River (RTS 229-177)",
@@ -1481,14 +1525,6 @@
       ]
     },
     {
-      "waterbody": "Saint Martha\u2019s Pond",
-      "towns": [
-        "Enfield"
-      ],
-      "management_type": null,
-      "stocked_dates": []
-    },
-    {
       "waterbody": "Salmon Brook, E. Branch",
       "towns": [
         "Granby"
@@ -1560,7 +1596,7 @@
       "management_type": "TTA",
       "stocked_dates": [
         "2026-10-09",
-        "2026-10-23"
+        "2026-11-03"
       ]
     },
     {
@@ -1569,7 +1605,9 @@
         "N. Stonington"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-11-03"
+      ]
     },
     {
       "waterbody": "Squantz Pond",
@@ -1659,7 +1697,9 @@
         "Killingly"
       ],
       "management_type": null,
-      "stocked_dates": []
+      "stocked_dates": [
+        "2026-10-13"
+      ]
     },
     {
       "waterbody": "Wepawaug River",
