@@ -1,9 +1,63 @@
 {
-  "report_date": "2026-11-03",
+  "report_date": "2026-11-04",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-11-04",
+      "locations": [
+        {
+          "waterbody": "Little River",
+          "towns": [
+            "Oxford",
+            "Seymour"
+          ],
+          "management_type": "WTMA 3"
+        },
+        {
+          "waterbody": "Naugatuck River",
+          "towns": [
+            "Harwinton",
+            "Litchfield"
+          ],
+          "management_type": "TMA"
+        },
+        {
+          "waterbody": "Naugatuck River (Lower)",
+          "towns": [
+            "Waterbury - Beacon Falls"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Wauregan Reservoir (Quinebaug Lake)",
+          "towns": [
+            "Killingly"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Willimantic River (above TMA)",
+          "towns": [
+            "Stafford",
+            "Willington"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Willimantic River (below TMA)",
+          "towns": [
+            "Mansfield",
+            "Coventry",
+            "Columbia",
+            "Windham",
+            "Willimantic"
+          ],
+          "management_type": null
+        }
+      ]
+    },
     {
       "date": "2026-11-03",
       "locations": [
@@ -180,21 +234,6 @@
     {
       "date": "2026-10-22",
       "locations": [
-        {
-          "waterbody": "Naugatuck River",
-          "towns": [
-            "Harwinton",
-            "Litchfield"
-          ],
-          "management_type": "TMA"
-        },
-        {
-          "waterbody": "Naugatuck River (Lower)",
-          "towns": [
-            "Waterbury - Beacon Falls"
-          ],
-          "management_type": "TTA"
-        },
         {
           "waterbody": "Salmon River",
           "towns": [
@@ -483,13 +522,6 @@
             "Glastonbury"
           ],
           "management_type": "WTMA 3"
-        },
-        {
-          "waterbody": "Wauregan Reservoir (Quinebaug Lake)",
-          "towns": [
-            "Killingly"
-          ],
-          "management_type": null
         }
       ]
     },
@@ -1209,6 +1241,17 @@
       ]
     },
     {
+      "waterbody": "Little River",
+      "towns": [
+        "Oxford",
+        "Seymour"
+      ],
+      "management_type": "WTMA 3",
+      "stocked_dates": [
+        "2026-11-04"
+      ]
+    },
+    {
       "waterbody": "Long Pond",
       "towns": [
         "N. Stonington",
@@ -1375,7 +1418,7 @@
       ],
       "management_type": "TMA",
       "stocked_dates": [
-        "2026-10-22"
+        "2026-11-04"
       ]
     },
     {
@@ -1385,7 +1428,7 @@
       ],
       "management_type": "TTA",
       "stocked_dates": [
-        "2026-10-22"
+        "2026-11-04"
       ]
     },
     {
@@ -1698,7 +1741,7 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-10-13"
+        "2026-11-04"
       ]
     },
     {
@@ -1751,6 +1794,31 @@
       "management_type": "TMA",
       "stocked_dates": [
         "2026-10-05"
+      ]
+    },
+    {
+      "waterbody": "Willimantic River (above TMA)",
+      "towns": [
+        "Stafford",
+        "Willington"
+      ],
+      "management_type": null,
+      "stocked_dates": [
+        "2026-11-04"
+      ]
+    },
+    {
+      "waterbody": "Willimantic River (below TMA)",
+      "towns": [
+        "Mansfield",
+        "Coventry",
+        "Columbia",
+        "Windham",
+        "Willimantic"
+      ],
+      "management_type": null,
+      "stocked_dates": [
+        "2026-11-04"
       ]
     },
     {
