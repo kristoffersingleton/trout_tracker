@@ -1,9 +1,39 @@
 {
-  "report_date": "2026-11-04",
+  "report_date": "2026-11-05",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-11-05",
+      "locations": [
+        {
+          "waterbody": "Natchaug River",
+          "towns": [
+            "Eastford",
+            "Chaplin",
+            "Windham"
+          ],
+          "management_type": "TTA"
+        },
+        {
+          "waterbody": "Natchaug River- Trout Park",
+          "towns": [
+            "Eastford"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Shetucket River",
+          "towns": [
+            "Windham",
+            "Scotland",
+            "Sprague"
+          ],
+          "management_type": "TTA"
+        }
+      ]
+    },
     {
       "date": "2026-11-04",
       "locations": [
@@ -68,15 +98,6 @@
             "Voluntown"
           ],
           "management_type": null
-        },
-        {
-          "waterbody": "Shetucket River",
-          "towns": [
-            "Windham",
-            "Scotland",
-            "Sprague"
-          ],
-          "management_type": "TTA"
         },
         {
           "waterbody": "Shunock Brook",
@@ -692,22 +713,6 @@
     {
       "date": "2026-10-05",
       "locations": [
-        {
-          "waterbody": "Natchaug River",
-          "towns": [
-            "Eastford",
-            "Chaplin",
-            "Windham"
-          ],
-          "management_type": "TTA"
-        },
-        {
-          "waterbody": "Natchaug River- Trout Park",
-          "towns": [
-            "Eastford"
-          ],
-          "management_type": null
-        },
         {
           "waterbody": "Willimantic River",
           "towns": [
@@ -1385,7 +1390,7 @@
       ],
       "management_type": "TTA",
       "stocked_dates": [
-        "2026-10-05"
+        "2026-11-05"
       ]
     },
     {
@@ -1395,7 +1400,7 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-10-05"
+        "2026-11-05"
       ]
     },
     {
@@ -1639,7 +1644,7 @@
       "management_type": "TTA",
       "stocked_dates": [
         "2026-10-09",
-        "2026-11-03"
+        "2026-11-05"
       ]
     },
     {
