@@ -1,9 +1,101 @@
 {
-  "report_date": "2026-11-05",
+  "report_date": "2026-11-10",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-11-10",
+      "locations": [
+        {
+          "waterbody": "Ball Pond",
+          "towns": [
+            "New Fairfield"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Beaver Brook Park Pond (Bibbins Pond)",
+          "towns": [
+            "Windham"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Black Rock Pond",
+          "towns": [
+            "Watertown"
+          ],
+          "management_type": "Trout Park"
+        },
+        {
+          "waterbody": "Chatfield Hollow Pond (Schreeder Pond)",
+          "towns": [
+            "Killingworth"
+          ],
+          "management_type": "Trout Park"
+        },
+        {
+          "waterbody": "Day Pond",
+          "towns": [
+            "Colchester"
+          ],
+          "management_type": "Trout Park"
+        },
+        {
+          "waterbody": "McGovern Pond",
+          "towns": [
+            "West Hartford"
+          ],
+          "management_type": "Trout Park"
+        },
+        {
+          "waterbody": "Mohegan Park Pond",
+          "towns": [
+            "Norwich"
+          ],
+          "management_type": "CFW"
+        },
+        {
+          "waterbody": "Southford Falls Pond",
+          "towns": [
+            "Oxford",
+            "Southbury"
+          ],
+          "management_type": "TP"
+        },
+        {
+          "waterbody": "Squantz Pond",
+          "towns": [
+            "New Fairfield",
+            "Sherman"
+          ],
+          "management_type": "TML"
+        },
+        {
+          "waterbody": "Valley Falls Park Pond",
+          "towns": [
+            "Vernon"
+          ],
+          "management_type": "Trout Park"
+        },
+        {
+          "waterbody": "West Hill Pond",
+          "towns": [
+            "Barkhamsted",
+            "New Hartford"
+          ],
+          "management_type": "TML"
+        },
+        {
+          "waterbody": "Wharton Brook Pond",
+          "towns": [
+            "Wallingford"
+          ],
+          "management_type": "Trout Park"
+        }
+      ]
+    },
     {
       "date": "2026-11-05",
       "locations": [
@@ -138,14 +230,6 @@
             "Goshen"
           ],
           "management_type": null
-        },
-        {
-          "waterbody": "West Hill Pond",
-          "towns": [
-            "Barkhamsted",
-            "New Hartford"
-          ],
-          "management_type": "TML"
         }
       ]
     },
@@ -204,13 +288,6 @@
       "date": "2026-10-27",
       "locations": [
         {
-          "waterbody": "Ball Pond",
-          "towns": [
-            "New Fairfield"
-          ],
-          "management_type": null
-        },
-        {
           "waterbody": "Pine Lake (Malone\u2019s Pond)",
           "towns": [
             "Bristol"
@@ -234,25 +311,6 @@
       ]
     },
     {
-      "date": "2026-10-23",
-      "locations": [
-        {
-          "waterbody": "Black Rock Pond",
-          "towns": [
-            "Watertown"
-          ],
-          "management_type": "Trout Park"
-        },
-        {
-          "waterbody": "McGovern Pond",
-          "towns": [
-            "West Hartford"
-          ],
-          "management_type": "Trout Park"
-        }
-      ]
-    },
-    {
       "date": "2026-10-22",
       "locations": [
         {
@@ -269,39 +327,6 @@
             "Colchester"
           ],
           "management_type": null
-        }
-      ]
-    },
-    {
-      "date": "2026-10-21",
-      "locations": [
-        {
-          "waterbody": "Chatfield Hollow Pond (Schreeder Pond)",
-          "towns": [
-            "Killingworth"
-          ],
-          "management_type": "Trout Park"
-        },
-        {
-          "waterbody": "Day Pond",
-          "towns": [
-            "Colchester"
-          ],
-          "management_type": "Trout Park"
-        },
-        {
-          "waterbody": "Mohegan Park Pond",
-          "towns": [
-            "Norwich"
-          ],
-          "management_type": "Trout Park"
-        },
-        {
-          "waterbody": "Valley Falls Park Pond",
-          "towns": [
-            "Vernon"
-          ],
-          "management_type": "Trout Park"
         }
       ]
     },
@@ -342,13 +367,6 @@
             "Goshen"
           ],
           "management_type": null
-        },
-        {
-          "waterbody": "Wharton Brook Pond",
-          "towns": [
-            "Wallingford"
-          ],
-          "management_type": "Trout Park"
         }
       ]
     },
@@ -364,14 +382,6 @@
             "Sherman"
           ],
           "management_type": null
-        },
-        {
-          "waterbody": "Squantz Pond",
-          "towns": [
-            "New Fairfield",
-            "Sherman"
-          ],
-          "management_type": "TML"
         }
       ]
     },
@@ -727,13 +737,6 @@
       "date": "2026-10-02",
       "locations": [
         {
-          "waterbody": "Beaver Brook Park Pond (Bibbins Pond)",
-          "towns": [
-            "Windham"
-          ],
-          "management_type": null
-        },
-        {
           "waterbody": "Black Pond",
           "towns": [
             "Middlefield",
@@ -890,7 +893,7 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-10-27"
+        "2026-11-10"
       ]
     },
     {
@@ -910,7 +913,7 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-10-02"
+        "2026-11-10"
       ]
     },
     {
@@ -962,7 +965,7 @@
       ],
       "management_type": "Trout Park",
       "stocked_dates": [
-        "2026-10-23"
+        "2026-11-10"
       ]
     },
     {
@@ -1037,7 +1040,7 @@
       ],
       "management_type": "Trout Park",
       "stocked_dates": [
-        "2026-10-21"
+        "2026-11-10"
       ]
     },
     {
@@ -1077,7 +1080,7 @@
       ],
       "management_type": "Trout Park",
       "stocked_dates": [
-        "2026-10-21"
+        "2026-11-10"
       ]
     },
     {
@@ -1294,7 +1297,7 @@
       ],
       "management_type": "Trout Park",
       "stocked_dates": [
-        "2026-10-23"
+        "2026-11-10"
       ]
     },
     {
@@ -1344,9 +1347,9 @@
       "towns": [
         "Norwich"
       ],
-      "management_type": "Trout Park",
+      "management_type": "CFW",
       "stocked_dates": [
-        "2026-10-21"
+        "2026-11-10"
       ]
     },
     {
@@ -1658,6 +1661,17 @@
       ]
     },
     {
+      "waterbody": "Southford Falls Pond",
+      "towns": [
+        "Oxford",
+        "Southbury"
+      ],
+      "management_type": "TP",
+      "stocked_dates": [
+        "2026-11-10"
+      ]
+    },
+    {
       "waterbody": "Squantz Pond",
       "towns": [
         "New Fairfield",
@@ -1665,7 +1679,7 @@
       ],
       "management_type": "TML",
       "stocked_dates": [
-        "2026-10-19"
+        "2026-11-10"
       ]
     },
     {
@@ -1726,7 +1740,7 @@
       ],
       "management_type": "Trout Park",
       "stocked_dates": [
-        "2026-10-21"
+        "2026-11-10"
       ]
     },
     {
@@ -1767,7 +1781,7 @@
       ],
       "management_type": "TML",
       "stocked_dates": [
-        "2026-10-30"
+        "2026-11-10"
       ]
     },
     {
@@ -1787,7 +1801,7 @@
       ],
       "management_type": "Trout Park",
       "stocked_dates": [
-        "2026-10-20"
+        "2026-11-10"
       ]
     },
     {
