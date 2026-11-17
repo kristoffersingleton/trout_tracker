@@ -1,9 +1,29 @@
 {
-  "report_date": "2026-11-10",
+  "report_date": "2026-11-16",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-11-13",
+      "locations": [
+        {
+          "waterbody": "Black Pond",
+          "towns": [
+            "Middlefield",
+            "Meriden"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Crystal Lake",
+          "towns": [
+            "Ellington"
+          ],
+          "management_type": null
+        }
+      ]
+    },
     {
       "date": "2026-11-10",
       "locations": [
@@ -463,13 +483,6 @@
           "management_type": null
         },
         {
-          "waterbody": "Crystal Lake",
-          "towns": [
-            "Ellington"
-          ],
-          "management_type": null
-        },
-        {
           "waterbody": "Hewitt\u2019s Fly Pond (Gallup Pond)",
           "towns": [
             "N. Stonington"
@@ -737,14 +750,6 @@
       "date": "2026-10-02",
       "locations": [
         {
-          "waterbody": "Black Pond",
-          "towns": [
-            "Middlefield",
-            "Meriden"
-          ],
-          "management_type": null
-        },
-        {
           "waterbody": "Mashamoquet Brook",
           "towns": [
             "Pomfret"
@@ -945,7 +950,7 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-10-02"
+        "2026-11-13"
       ]
     },
     {
@@ -1070,7 +1075,7 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-10-14"
+        "2026-11-13"
       ]
     },
     {
