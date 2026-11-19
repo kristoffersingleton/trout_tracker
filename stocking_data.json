@@ -1,9 +1,43 @@
 {
-  "report_date": "2026-11-16",
+  "report_date": "2026-11-17",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-11-17",
+      "locations": [
+        {
+          "waterbody": "Beach Pond",
+          "towns": [
+            "Voluntown"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Crystal Lake",
+          "towns": [
+            "Ellington"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Lake Wintergreen",
+          "towns": [
+            "Hamden"
+          ],
+          "management_type": "CFW"
+        },
+        {
+          "waterbody": "Rogers Lake",
+          "towns": [
+            "Lyme",
+            "Old Lyme"
+          ],
+          "management_type": "TML"
+        }
+      ]
+    },
     {
       "date": "2026-11-13",
       "locations": [
@@ -12,13 +46,6 @@
           "towns": [
             "Middlefield",
             "Meriden"
-          ],
-          "management_type": null
-        },
-        {
-          "waterbody": "Crystal Lake",
-          "towns": [
-            "Ellington"
           ],
           "management_type": null
         }
@@ -594,13 +621,6 @@
           "management_type": "TML"
         },
         {
-          "waterbody": "Beach Pond",
-          "towns": [
-            "Voluntown"
-          ],
-          "management_type": null
-        },
-        {
           "waterbody": "Christensen\u2019s Pond",
           "towns": [
             "Granby"
@@ -620,14 +640,6 @@
           "towns": [
             "N. Stonington",
             "Ledyard"
-          ],
-          "management_type": "TML"
-        },
-        {
-          "waterbody": "Rogers Lake",
-          "towns": [
-            "Lyme",
-            "Old Lyme"
           ],
           "management_type": "TML"
         },
@@ -908,7 +920,7 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-10-08"
+        "2026-11-17"
       ]
     },
     {
@@ -1075,7 +1087,7 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-11-13"
+        "2026-11-17"
       ]
     },
     {
@@ -1251,6 +1263,16 @@
       "management_type": "TMA",
       "stocked_dates": [
         "2026-09-21"
+      ]
+    },
+    {
+      "waterbody": "Lake Wintergreen",
+      "towns": [
+        "Hamden"
+      ],
+      "management_type": "CFW",
+      "stocked_dates": [
+        "2026-11-17"
       ]
     },
     {
@@ -1567,7 +1589,7 @@
       ],
       "management_type": "TML",
       "stocked_dates": [
-        "2026-10-08"
+        "2026-11-17"
       ]
     },
     {
