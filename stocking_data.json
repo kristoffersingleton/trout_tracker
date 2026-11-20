@@ -1,9 +1,21 @@
 {
-  "report_date": "2026-11-17",
+  "report_date": "2026-11-19",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-11-19",
+      "locations": [
+        {
+          "waterbody": "Pequabuck River (RTS 229-177)",
+          "towns": [
+            "Bristol"
+          ],
+          "management_type": "TMA"
+        }
+      ]
+    },
     {
       "date": "2026-11-17",
       "locations": [
@@ -569,13 +581,6 @@
           "waterbody": "Mill River (Sleeping Giant State Park)",
           "towns": [
             "Hamden"
-          ],
-          "management_type": "TMA"
-        },
-        {
-          "waterbody": "Pequabuck River (RTS 229-177)",
-          "towns": [
-            "Bristol"
           ],
           "management_type": "TMA"
         },
@@ -1484,7 +1489,7 @@
       ],
       "management_type": "TMA",
       "stocked_dates": [
-        "2026-10-13"
+        "2026-11-19"
       ]
     },
     {
