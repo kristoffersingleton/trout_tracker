@@ -1,9 +1,29 @@
 {
-  "report_date": "2026-11-19",
+  "report_date": "2026-11-24",
   "source": "CT DEEP Fisheries Division Spring 2026",
   "season": "Spring 2026",
   "catch_and_release_until": "2026-04-11T06:00:00",
   "recently_stocked": [
+    {
+      "date": "2026-11-24",
+      "locations": [
+        {
+          "waterbody": "Beach Pond",
+          "towns": [
+            "Voluntown"
+          ],
+          "management_type": null
+        },
+        {
+          "waterbody": "Long Pond",
+          "towns": [
+            "N. Stonington",
+            "Ledyard"
+          ],
+          "management_type": "TML"
+        }
+      ]
+    },
     {
       "date": "2026-11-19",
       "locations": [
@@ -19,13 +39,6 @@
     {
       "date": "2026-11-17",
       "locations": [
-        {
-          "waterbody": "Beach Pond",
-          "towns": [
-            "Voluntown"
-          ],
-          "management_type": null
-        },
         {
           "waterbody": "Crystal Lake",
           "towns": [
@@ -641,14 +654,6 @@
           "management_type": null
         },
         {
-          "waterbody": "Long Pond",
-          "towns": [
-            "N. Stonington",
-            "Ledyard"
-          ],
-          "management_type": "TML"
-        },
-        {
           "waterbody": "Salmon Brook, E. Branch",
           "towns": [
             "Granby"
@@ -925,7 +930,7 @@
       ],
       "management_type": null,
       "stocked_dates": [
-        "2026-11-17"
+        "2026-11-24"
       ]
     },
     {
@@ -1299,7 +1304,7 @@
       ],
       "management_type": "TML",
       "stocked_dates": [
-        "2026-10-08"
+        "2026-11-24"
       ]
     },
     {
